@@ -127,7 +127,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-2.png
+        image: images/retroeclairage mac.png
         media_position: left
         media_width: fifty
       - title: The Big Title For the Feature
