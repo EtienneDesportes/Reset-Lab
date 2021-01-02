@@ -96,7 +96,7 @@ sections:
     subtitle: ''
     features:
       - title: Dommage liquide
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: 90% des dommages liquides sont réparables
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
