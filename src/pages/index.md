@@ -105,7 +105,7 @@ sections:
           alimentation de labo, nous remplacerons les composants défecteux
           (résistances, fusibles, condensateurs, mosfets... )
         actions:
-          - label: Learn More
+          - label: Faire un devis
             url: /style-guide
             style: primary
             has_icon: true
