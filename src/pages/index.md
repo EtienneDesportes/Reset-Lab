@@ -22,7 +22,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: primary
-    background_image: images/Capture d’écran 2021-01-02 à 15.00.41.png
+    background_image: images/background2.png
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
