@@ -5,13 +5,13 @@ sections:
     title: Votre MacBook est en panne ?
     subtitle: Pas de souci ! Nous sommes réparateur spécialiste en micro-soudure
     content: |-
-      **Type de réparations:
+      **Type de réparations:**
 
       * Dommage liquide
       * Rétro-éclairage
       * Chute MacBook 
       * Batterie
-      * Problème démarrage **
+      * Problème démarrage 
     actions:
       - label: Faire un devis
         url: /pricing
