@@ -131,7 +131,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Batterie
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: ''
         content: >-
           Votre Mac ne démarre plus ? Quelle qu’en soit la raison, notre
           expertise nous permet de remonter à l’origine du problème, et réparer
