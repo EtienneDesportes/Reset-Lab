@@ -139,7 +139,7 @@ sections:
           condensateur suicidaire, nous avons les pièces et le savoir-faire pour
           ramener votre MacBook Pro ou Air à la vie.
         actions:
-          - label: Learn More
+          - label: Faire un devis
             url: /style-guide
             style: primary
             has_icon: true
