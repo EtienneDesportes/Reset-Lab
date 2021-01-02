@@ -121,7 +121,7 @@ sections:
           capteur de courant...) ont grillés. Ce type de panne nous est bien
           connus et réparable dans notre atelier.
         actions:
-          - label: Learn More
+          - label: Faire un devis
             url: /style-guide
             style: primary
             has_icon: true
