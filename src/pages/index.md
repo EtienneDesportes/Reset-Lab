@@ -23,7 +23,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: none
-    padding_bottom: large
+    padding_bottom: none
     background_color: primary
     background_image: >-
       images/69f24128-507b-11ea-8496-0242ac110003-photo-1544281679-a59fb2359715.jpeg
