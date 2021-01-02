@@ -48,7 +48,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 2
+      - title: Réparation
         title_align: left
         content: >-
           On confirme la réception de votre Mac et on le répare. S’il n’est pas
