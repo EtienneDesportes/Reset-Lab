@@ -33,8 +33,10 @@ sections:
       - title: Devis gratuit et envoi
         title_align: left
         content: >-
-          Recevez gratuitement une étiquette d’envoi pour votre Mac, après avoir
-          rempli le formulaire de prise en charge et confirmé votre devis.
+          Recevez gratuitement une étiquette d’envoi avec assurance incluse pour
+          votre Mac, après avoir rempli le formulaire de prise en charge et
+          confirmé votre devis. Votre Mac bien emballé, il ne vous reste qu’à
+          coller l’étiquette et déposer votre colis en point relais.
         content_align: left
         actions:
           - label: Learn More
