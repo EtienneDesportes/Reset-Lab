@@ -22,8 +22,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: primary
-    background_image: >-
-      images/69f24128-507b-11ea-8496-0242ac110003-photo-1544281679-a59fb2359715.jpeg
+    background_image: images/background.png
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
