@@ -116,9 +116,10 @@ sections:
         media_width: fifty
       - title: Rétro-Eclairage
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Vous arrivez vaguement à voir une image dans votre écran qui semble
+          quasi éteint ? Un ou plusieurs composants (Fusible, connecteur ou
+          capteur de courant...) ont grillés. Ce type de panne nous est bien
+          connus et réparable dans notre atelier.
         actions:
           - label: Learn More
             url: /style-guide
