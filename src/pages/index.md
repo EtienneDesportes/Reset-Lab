@@ -92,7 +92,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: Features Section
+    title: La réparation
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
