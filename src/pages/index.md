@@ -81,7 +81,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/check.svg
+        image: images/check-ok-complete-circle-correct-yes-accept-icon.svg
         image_position: top
         image_align: left
         image_has_padding: true
