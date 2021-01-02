@@ -114,7 +114,7 @@ sections:
         image: images/eau renversé mac.png
         media_position: right
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: Rétro-Eclairage
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
