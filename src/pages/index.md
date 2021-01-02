@@ -132,10 +132,7 @@ sections:
         media_width: fifty
       - title: Batterie
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: 'Votre Mac ne démarre plus ? La batterie n''est peut-être plus reconnu. '
         actions:
           - label: Learn More
             url: /style-guide
