@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Faire un devis
         url: /pricing
-        style: secondary
+        style: primary
     media_position: left
     media_width: fourty
     align: left
