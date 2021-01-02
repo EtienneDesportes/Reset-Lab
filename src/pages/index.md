@@ -27,7 +27,7 @@ sections:
     background_image_repeat: no-repeat
     background_image: images/purple-steel.png
   - type: grid_section
-    title: Procédure d'envoi
+    title: Comment ça marche ?
     subtitle: ''
     grid_items:
       - title: Devis et envoi gratuit
