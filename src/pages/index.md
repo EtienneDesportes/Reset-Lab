@@ -33,9 +33,8 @@ sections:
       - title: Demande de devis gratuite
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Recevez gratuitement une étiquette d’envoi pour votre Mac, après avoir
+          rempli le formulaire de prise en charge et confirmé votre devis.
         content_align: left
         actions:
           - label: Learn More
