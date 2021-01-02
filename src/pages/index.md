@@ -25,6 +25,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
+    background_image: images/great-sage.png
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
