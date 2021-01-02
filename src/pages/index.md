@@ -16,7 +16,7 @@ sections:
       - label: ''
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Faire un devis
         url: /features
         style: secondary
     media_position: left
