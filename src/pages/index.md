@@ -51,9 +51,8 @@ sections:
       - title: Section Item 2
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          On confirme la réception de votre Mac et on le répare. S’il n’est pas
+          réparable, seuls les frais de retour sont à votre charge.
         content_align: left
         actions:
           - label: Learn More
