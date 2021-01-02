@@ -63,7 +63,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/futuristic-eucalyptus.svg
+        image: images/famous-sparrow.svg
         image_position: top
         image_align: left
         image_has_padding: true
