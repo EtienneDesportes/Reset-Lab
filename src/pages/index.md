@@ -28,7 +28,7 @@ sections:
     background_image: images/purple-steel.png
   - type: grid_section
     title: Procédure d'envoi
-    subtitle: Grid Section Example
+    subtitle: ''
     grid_items:
       - title: Section Item 1
         title_align: left
