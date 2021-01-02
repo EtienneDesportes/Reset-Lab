@@ -27,7 +27,7 @@ sections:
     background_image_repeat: no-repeat
     background_image: images/purple-steel.png
   - type: grid_section
-    title: Cards Grid Section
+    title: Procédure d'envoi
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
