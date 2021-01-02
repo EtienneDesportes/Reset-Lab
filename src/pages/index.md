@@ -130,7 +130,7 @@ sections:
         image: images/retroeclairage mac.png
         media_position: left
         media_width: fifty
-      - title: Batterie
+      - title: Problème démarrage
         subtitle: ''
         content: >-
           Votre Mac ne démarre plus ? Quelle qu’en soit la raison, notre
