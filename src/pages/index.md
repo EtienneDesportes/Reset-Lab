@@ -2,7 +2,7 @@
 title: Accueil
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: Votre MacBook est en panne ?
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
