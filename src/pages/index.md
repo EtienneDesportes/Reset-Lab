@@ -16,7 +16,7 @@ sections:
       - label: ''
         url: /pricing
         style: primary
-      - label: Faire un devis
+      - label: ''
         url: /features
         style: secondary
     media_position: left
