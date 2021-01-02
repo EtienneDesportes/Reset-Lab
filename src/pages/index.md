@@ -21,7 +21,7 @@ sections:
         style: secondary
     media_position: left
     media_width: fifty
-    align: center
+    align: left
     padding_top: none
     padding_bottom: none
     background_color: primary
