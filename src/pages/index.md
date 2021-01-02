@@ -81,7 +81,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/preview.svg
+        image: images/preview (1).svg
         image_position: top
         image_align: left
         image_has_padding: true
