@@ -24,7 +24,7 @@ sections:
     align: left
     padding_top: none
     padding_bottom: none
-    background_color: primary
+    background_color: none
     background_image: >-
       images/69f24128-507b-11ea-8496-0242ac110003-photo-1544281679-a59fb2359715.jpeg
   - type: grid_section
