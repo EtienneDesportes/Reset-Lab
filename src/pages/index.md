@@ -63,7 +63,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/Repair-Icon.jpg
+        image: images/logo repair.svg
         image_position: top
         image_align: left
         image_has_padding: true
