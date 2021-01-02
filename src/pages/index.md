@@ -13,7 +13,7 @@ sections:
       * Batterie
       * Problème démarrage 
     actions:
-      - label: Try Free
+      - label: ''
         url: /pricing
         style: primary
       - label: Learn More
