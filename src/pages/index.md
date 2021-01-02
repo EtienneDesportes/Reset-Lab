@@ -30,7 +30,7 @@ sections:
     title: Procédure d'envoi
     subtitle: ''
     grid_items:
-      - title: Demande de devis gratuite
+      - title: Devis gratuit et envoi
         title_align: left
         content: >-
           Recevez gratuitement une étiquette d’envoi pour votre Mac, après avoir
