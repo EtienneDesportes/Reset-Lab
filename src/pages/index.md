@@ -98,9 +98,12 @@ sections:
       - title: Dommage liquide
         subtitle: 90% des dommages liquides sont réparables
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Il reste une chance pour réprarer votre machine à moindre coût. Si
+          l'apple store vous explique qu'il faut remplacer toute la carte mère
+          pour un coût éxorbitant, ce n'est heureusement rarement le cas ! Après
+          avoir établi un premier diagnostic à l'aide d'un multimètre et une
+          alimentation de labo, nous remplacerons les composants défecteux
+          (résistances, fusibles, condensateurs, mosfets... )
         actions:
           - label: Learn More
             url: /style-guide
