@@ -81,7 +81,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/ok-check-success-accept-good-yes-icon.svg
+        image: images/icon-maintenance.svg
         image_position: top
         image_align: left
         image_has_padding: true
