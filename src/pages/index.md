@@ -9,8 +9,8 @@ sections:
 
       * Dommage liquide
       * Rétro-éclairage
-      * Batterie
       * Problème démarrage 
+      * Batterie
       * Chute MacBook 
     actions:
       - label: Faire un devis
