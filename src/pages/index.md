@@ -66,7 +66,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 3
+      - title: Retour & Règlement
         title_align: left
         content: >-
           Vous ne réglez qu’après la réparation. On vous renvoie gratuitement
