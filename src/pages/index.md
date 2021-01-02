@@ -81,7 +81,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/remarkable-basil.svg
+        image: images/check.svg
         image_position: top
         image_align: left
         image_has_padding: true
