@@ -30,7 +30,7 @@ sections:
     title: Procédure d'envoi
     subtitle: ''
     grid_items:
-      - title: Devis gratuit et envoi
+      - title: Devis et envoi gratuit
         title_align: left
         content: >-
           Recevez gratuitement une étiquette d’envoi avec assurance incluse pour
