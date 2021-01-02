@@ -13,7 +13,7 @@ sections:
       * Batterie
       * Problème démarrage 
     actions:
-      - label: ''
+      - label: Faire un devis
         url: /pricing
         style: primary
       - label: ''
