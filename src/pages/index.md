@@ -30,7 +30,7 @@ sections:
     title: Procédure d'envoi
     subtitle: ''
     grid_items:
-      - title: Section Item 1
+      - title: Création gratuie
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
