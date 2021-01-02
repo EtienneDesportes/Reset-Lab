@@ -46,7 +46,7 @@
             {
                 "label": "Faire un devis",
                 "url": "/pricing",
-                "style": "secondary"
+                "style": "link"
             }
         ],
         "has_anncmnt": true,
