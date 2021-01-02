@@ -27,7 +27,7 @@ sections:
     background_color: primary
     background_image: >-
       images/69f24128-507b-11ea-8496-0242ac110003-photo-1544281679-a59fb2359715.jpeg
-    background_image_size: contain
+    background_image_size: cover
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
