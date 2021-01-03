@@ -49,13 +49,7 @@ sections:
           On confirme la réception de votre Mac et on le répare. S’il n’est pas
           réparable, seuls les frais de retour sont à votre charge.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/diagnostics-icon.svg
         image_position: top
