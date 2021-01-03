@@ -65,6 +65,7 @@ sections:
           - Rétro-éclairage
           - 'Problème démarrage '
           - Batterie
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: Envoyer demande
