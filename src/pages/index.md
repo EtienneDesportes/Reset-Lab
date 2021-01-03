@@ -161,7 +161,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Reviews Section
+    title: Prix
     subtitle: Grid Section Example
     grid_items:
       - content: >-
