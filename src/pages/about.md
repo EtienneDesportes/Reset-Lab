@@ -55,6 +55,7 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
+        title_align: center
     grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
