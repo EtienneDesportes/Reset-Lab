@@ -184,9 +184,9 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: |
-          **Type de panne:** Problème démarrage <br>
-          **Modèle:** MacBook Air 13 pouces 2014 <br>
-          **Réparation:** 280€
+          **Type de panne:** Dommage liquide <br>
+          **Modèle:** MacBook Pro Touchbar 15 pouces<br>
+          **Réparation:** 450€
         image: images/nervous-oak.png
         image_position: left
         image_width: twenty-five
