@@ -90,7 +90,7 @@
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
             {
-                "label": "Conditions Générales de Vente",
+                "label": "CGU",
                 "url": "/terms-conditions",
                 "style": "link"
             }
