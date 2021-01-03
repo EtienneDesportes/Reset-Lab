@@ -37,13 +37,7 @@ sections:
           votre devis. Votre Mac bien emballé, il ne vous reste plus qu’à coller
           l’étiquette et déposer votre colis en point relais.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/icon.svg
         image_position: top
