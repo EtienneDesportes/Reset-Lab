@@ -183,12 +183,10 @@ sections:
         image: images/perpetual-paprika.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Eleanor Carr,** *CTO, Studio*
+      - content: |
+          **Type de panne:** Rétro-eclairage <br>
+          **Modèle:** MacBook Air 13 pouces 2017 <br>
+          **Réparation:** 260€
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
