@@ -183,10 +183,10 @@ sections:
         image: images/perpetual-paprika.png
         image_position: left
         image_width: twenty-five
-      - content: |-
-          **Type de panne:** Dommage liquide <br>
-          **Modèle:** MacBook Pro Touchbar 15 pouces  <br>
-          **Réparation:** 450€
+      - content: |
+          **Type de panne:** Problème démarrage <br>
+          **Modèle:** MacBook Air 13 pouces 2014 <br>
+          **Réparation:** 280€
         image: images/nervous-oak.png
         image_position: left
         image_width: twenty-five
