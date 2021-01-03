@@ -187,7 +187,7 @@ sections:
           **Type de panne:** Problème démarrage <br>
           **Modèle:** MacBook Air 13 pouces 2017 <br>
           **Réparation:** 320€
-        image: images/eleanor-carr.png
+        image: images/fabulous-wallaby.png
         image_position: left
         image_width: twenty-five
       - content: >-
