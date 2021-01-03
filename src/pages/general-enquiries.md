@@ -63,7 +63,7 @@ sections:
         options:
           - Dommage liquide
           - Rétro-éclairage
-          - lorem-ipsum
+          - 'Problème démarrage '
         is_required: false
         type: form_field
     submit_label: Envoyer demande
