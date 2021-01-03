@@ -54,10 +54,6 @@ sections:
         name: message
         label: Message
         default_value: Your message
-      - input_type: checkbox
-        name: consent
-        label: J'accepte d
-        is_required: true
     submit_label: Envoyer demande
     align_vert: top
     padding_top: medium
