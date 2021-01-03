@@ -57,7 +57,7 @@ sections:
         label: Message
         default_value: Your message
       - input_type: text
-        name: lorem-ipsum
+        name: type de pannes
         label: Type de pannes
         default_value: lorem-ipsum
         options: []
