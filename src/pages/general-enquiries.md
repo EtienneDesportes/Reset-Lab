@@ -61,7 +61,7 @@ sections:
         label: Type de pannes
         default_value: Sélectionner
         options:
-          - lorem-ipsum
+          - Dommage liquide
         is_required: false
         type: form_field
     submit_label: Envoyer demande
