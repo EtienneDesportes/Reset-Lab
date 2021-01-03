@@ -166,7 +166,7 @@ sections:
     background_image: images/itl.cat_motherboard-wallpaper_2557381.png
     background_image_opacity: 10
   - type: grid_section
-    title: Prix
+    title: Exemple de réparations
     subtitle: ''
     grid_items:
       - content: |
