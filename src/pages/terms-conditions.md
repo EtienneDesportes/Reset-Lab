@@ -1,5 +1,5 @@
 ---
-title: Terms & Conditions
+title: Conditions Générales d'Utilisation
 template: page
 ---
 
