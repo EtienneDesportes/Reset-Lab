@@ -211,7 +211,7 @@ sections:
       N'hésitez à nous poser toutes question concernant une réparation. Nous
       sommes la pour vous aiguiller ! 
     actions:
-      - label: Learn More
+      - label: Contactez-nous
         url: /features
         style: secondary
     actions_position: right
