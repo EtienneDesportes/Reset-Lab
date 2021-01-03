@@ -176,12 +176,10 @@ sections:
         image: images/energetic-plankton.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Miles Tone,** *CEO, Studio*
+      - content: |
+          **Type de panne:** Dommage liquide <br>
+          **Modèle:** MacBook pro Retina 15 pouces <br>
+          **Réparation:** 320€
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
