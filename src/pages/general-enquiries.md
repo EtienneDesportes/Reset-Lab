@@ -47,7 +47,7 @@ sections:
         default_value: Please select
         options:
           - MacBook Pro Retina
-          - Sponsorship
+          - MacBook Pro USB C Touchbar
           - Other
         is_required: true
       - input_type: textarea
