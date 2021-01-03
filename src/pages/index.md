@@ -153,7 +153,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: “”
+      - title: "“Apple vous\_indique que les témoins d'humidité sont passés au rouge (alors qu'ils sont blancs à l'origine) et que du liquide se trouve dans l'ordinateur. Montant de la réparation estimée : plus de 1\_000€ ?\_”"
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         media_position: right
