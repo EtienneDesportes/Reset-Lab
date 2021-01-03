@@ -46,7 +46,7 @@ sections:
         label: Modèle MacBook
         default_value: Please select
         options:
-          - Error on the site
+          - MacBook Retina
           - Sponsorship
           - Other
         is_required: true
