@@ -35,7 +35,7 @@
             },
             {
                 "label": "Faire un devis",
-                "url": "/pricing",
+                "url": "/general-enquiries",
                 "style": "primary"
             }
         ],
