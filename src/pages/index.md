@@ -14,7 +14,7 @@ sections:
       * Chute MacBook 
     actions:
       - label: Faire un devis
-        url: /pricing
+        url: /general-enquiries
         style: primary
     media_position: left
     media_width: fourty
