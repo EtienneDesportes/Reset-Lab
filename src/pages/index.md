@@ -134,11 +134,12 @@ sections:
       - title: Problème démarrage
         subtitle: ''
         content: >-
-          Votre Mac ne démarre plus ? Quelle qu’en soit la raison, notre
-          expertise nous permet de remonter à l’origine du problème, et réparer
-          votre carte mère, plutôt que de la changer. Du fusible fondu au
-          condensateur suicidaire, nous avons les pièces et le savoir-faire pour
-          ramener votre MacBook Pro ou Air à la vie.
+          <p style="text-align:justify;">Votre Mac ne démarre plus ? Quelle
+          qu’en soit la raison, notre expertise nous permet de remonter à
+          l’origine du problème, et réparer votre carte mère, plutôt que de la
+          changer. Du fusible fondu au condensateur suicidaire, nous avons les
+          pièces et le savoir-faire pour ramener votre MacBook Pro ou Air à la
+          vie.</p>
         actions:
           - label: Faire un devis
             url: /style-guide
