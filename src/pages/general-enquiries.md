@@ -3,17 +3,25 @@ title: ''
 sections:
   - type: form_section
     content: >-
-      ### Billing
+      **RÉPARÉ OU REMBOURSÉ**
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      Payer pour un devis ou une « recherche de panne » nous parait un peu
+      décalé. Notre principe est simple, vous ne paierez que si votre Macbook
+      est réparé ! <br>
 
-      ### Privacy
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      **ENVOI ET RETOUR INCLUS**
+
+      Vous recevrez une étiquette transporteur, avec assurance incluse. Votre
+      Mac bien emballé, il ne vous reste qu’à coller l’étiquette et déposer
+      votre colis en point relais : simplicité, rapidité.<br>
+
+
+      **GARANTIE 180 JOURS**
+
+      On sait exactement ce qu’on fait, comment on le fait et d’où viennent nos
+      pièces. C’est pour cela qu’on peut vous garantir nos interventions pendant
+      180 jours.<br>
     content_align: left
     form_position: right
     form_width: fifty
