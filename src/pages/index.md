@@ -221,7 +221,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: blog_feed_section
-    title: What's New
+    title: Quoi de neuf
     subtitle: Blog Feed Section Example
     actions:
       - label: View All
