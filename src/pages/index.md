@@ -190,12 +190,10 @@ sections:
         image: images/fabulous-wallaby.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Gordon Norman,** *Web Designer, Studio*
+      - content: |-
+          **Type de panne:** Dommage liquide <br>
+          **Modèle:** MacBook Pro USB C Touchbar 15 pouces 2019 <br>
+          **Réparation:** 450€
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
