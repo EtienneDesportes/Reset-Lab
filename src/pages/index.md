@@ -27,7 +27,7 @@ sections:
     background_image_repeat: no-repeat
     background_image: images/purple-steel.png
   - type: grid_section
-    title: Comment ça marche ?
+    title: Je ne suis pas sur Brest ? Envoyez le !
     subtitle: ''
     grid_items:
       - title: Devis et envoi gratuit
