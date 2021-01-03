@@ -61,13 +61,7 @@ sections:
           Vous ne réglez qu’après la réparation. On vous renvoie gratuitement
           votre Mac, en colis sécurisé et assuré par nos soins.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/icon-maintenance.svg
         image_position: top
