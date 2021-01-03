@@ -16,11 +16,6 @@
                 "style": "link"
             },
             {
-                "label": "Prix",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
                 "label": "Procédure d'envoi",
                 "url": "/about",
                 "style": "link"
