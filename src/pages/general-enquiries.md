@@ -60,7 +60,8 @@ sections:
         name: type de pannes
         label: Type de pannes
         default_value: Sélectionner
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: Envoyer demande
