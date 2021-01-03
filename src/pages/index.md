@@ -169,12 +169,10 @@ sections:
     title: Prix
     subtitle: ''
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Hanson Deck,** *App Developer, Studio*
+      - content: |
+          **Type de panne:** Rétro-eclairage <br>
+          **Modèle:** MacBook pro Retina 15 pouces <br>
+          **Réparation:** 260€
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
