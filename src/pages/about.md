@@ -5,8 +5,9 @@ sections:
     title: A propos
     subtitle: ''
     align: center
-    background_color: secondary
+    background_color: primary
     background_image: images/smart-velociraptor.png
+    background_image_opacity: 10
   - type: features_section
     features:
       - title: Section Title One
