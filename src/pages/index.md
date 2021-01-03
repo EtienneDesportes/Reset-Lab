@@ -27,7 +27,7 @@ sections:
     background_image_repeat: no-repeat
     background_image: images/purple-steel.png
   - type: grid_section
-    title: Je ne suis pas sur Brest ? Envoyez le !
+    title: Je ne suis pas sur Brest ? Envoi gratuit !
     subtitle: ''
     grid_items:
       - title: Devis et envoi gratuit
