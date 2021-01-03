@@ -46,7 +46,7 @@ sections:
         label: Modèle MacBook
         default_value: Please select
         options:
-          - MacBook Retina
+          - MacBook Pro Retina
           - Sponsorship
           - Other
         is_required: true
