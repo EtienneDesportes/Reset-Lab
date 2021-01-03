@@ -145,7 +145,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/knowledgeable-tulip.png
+        image: images/graceful-basil.png
         media_position: right
         media_width: fifty
     feature_padding_vert: large
