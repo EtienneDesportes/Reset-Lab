@@ -26,11 +26,6 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
-            },
-            {
                 "label": "A propos",
                 "url": "/style-guide",
                 "style": "link"
