@@ -43,7 +43,7 @@ sections:
         is_required: true
       - input_type: select
         name: Modèle MacBook
-        label: Subject
+        label: Modèle MacBook
         default_value: Please select
         options:
           - Error on the site
