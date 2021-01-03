@@ -42,7 +42,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: select
-        name: subject
+        name: Modèle MacBook
         label: Subject
         default_value: Please select
         options:
