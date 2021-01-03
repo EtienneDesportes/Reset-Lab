@@ -37,29 +37,6 @@ sections:
         image: images/about-1.jpg
         media_position: right
         media_width: fifty
-  - type: grid_section
-    title: Notre atelier
-    grid_items:
-      - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
-        content_align: center
-        actions: []
-        actions_align: left
-        actions_width: auto
-        title_align: center
-        image_align: center
-    grid_cols: two
-    grid_gap_horiz: small
-    grid_gap_vert: small
-    enable_cards: true
-    padding_top: none
-    padding_bottom: none
-    has_border: false
-    background_color: none
-    align: center
   - type: cta_section
     title: This is a Call to Action
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
