@@ -167,7 +167,7 @@ sections:
     background_image_opacity: 10
   - type: grid_section
     title: Prix
-    subtitle: Grid Section Example
+    subtitle: ''
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
