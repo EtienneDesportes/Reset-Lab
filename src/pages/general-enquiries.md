@@ -62,6 +62,7 @@ sections:
         default_value: Sélectionner
         options:
           - Dommage liquide
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: Envoyer demande
