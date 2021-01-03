@@ -221,7 +221,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: blog_feed_section
-    title: Quoi de neuf
+    title: Quoi de neuf ?
     subtitle: ''
     actions:
       - label: View All
