@@ -173,7 +173,7 @@ sections:
           **Type de panne:** Rétro-eclairage <br>
           **Modèle:** MacBook pro Retina 15 pouces <br>
           **Réparation:** 260€
-        image: images/hanson-deck.png
+        image: images/energetic-plankton.png
         image_position: left
         image_width: twenty-five
       - content: >-
