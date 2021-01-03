@@ -192,7 +192,7 @@ sections:
         image_width: twenty-five
       - content: |-
           **Type de panne:** Dommage liquide <br>
-          **Modèle:** MacBook Pro USB C Touchbar 15 pouces 2019 <br>
+          **Modèle:** MacBook Pro Touchbar 15 pouces 2019 <br>
           **Réparation:** 450€
         image: images/gordon-norman.png
         image_position: left
