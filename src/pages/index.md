@@ -89,7 +89,7 @@ sections:
           condensateurs, mosfets... )</p>
         actions:
           - label: Faire un devis
-            url: /style-guide
+            url: /general-enquiries
             style: primary
             has_icon: true
             icon: arrow-right
