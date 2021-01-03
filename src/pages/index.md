@@ -191,7 +191,7 @@ sections:
       sommes la pour vous aiguiller ! 
     actions:
       - label: Contactez-nous
-        url: /features
+        url: /contact
         style: secondary
     actions_position: right
     actions_width: fourty
