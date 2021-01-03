@@ -49,6 +49,7 @@ sections:
           - MacBook Pro Retina
           - MacBook Pro USB C Touchbar
           - MacBook Air
+          - lorem-ipsum
         is_required: true
       - input_type: textarea
         name: message
