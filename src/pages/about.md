@@ -6,6 +6,7 @@ sections:
     subtitle: ''
     align: center
     background_color: secondary
+    background_image: images/smart-velociraptor.png
   - type: features_section
     features:
       - title: Section Title One
