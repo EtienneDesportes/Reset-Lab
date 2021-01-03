@@ -48,7 +48,7 @@ sections:
         options:
           - MacBook Pro Retina
           - MacBook Pro USB C Touchbar
-          - Other
+          - MacBook Air
         is_required: true
       - input_type: textarea
         name: message
