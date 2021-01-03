@@ -183,18 +183,18 @@ sections:
         image: images/perpetual-paprika.png
         image_position: left
         image_width: twenty-five
-      - content: |
-          **Type de panne:** Problème démarrage <br>
-          **Modèle:** MacBook Air 13 pouces 2017 <br>
-          **Réparation:** 320€
-        image: images/fabulous-wallaby.png
-        image_position: left
-        image_width: twenty-five
       - content: |-
           **Type de panne:** Dommage liquide <br>
           **Modèle:** MacBook Pro Touchbar 15 pouces  <br>
           **Réparation:** 450€
         image: images/nervous-oak.png
+        image_position: left
+        image_width: twenty-five
+      - content: |
+          **Type de panne:** Problème démarrage <br>
+          **Modèle:** MacBook Air 13 pouces 2017 <br>
+          **Réparation:** 320€
+        image: images/fabulous-wallaby.png
         image_position: left
         image_width: twenty-five
     grid_cols: two
