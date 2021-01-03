@@ -24,11 +24,6 @@
                 "label": "Envoi",
                 "url": "/about",
                 "style": "link"
-            },
-            {
-                "label": "A propos",
-                "url": "/style-guide",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
