@@ -226,6 +226,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: images/majestic-broccoli.png
+    background_image_opacity: 10
   - type: blog_feed_section
     title: Quoi de neuf ?
     subtitle: ''
