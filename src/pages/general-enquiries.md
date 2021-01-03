@@ -50,6 +50,7 @@ sections:
           - MacBook Pro USB C Touchbar
           - MacBook Air
           - 'MacBook Pro '
+          - lorem-ipsum
         is_required: true
       - input_type: textarea
         name: message
