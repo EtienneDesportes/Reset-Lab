@@ -164,7 +164,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
     background_image: images/itl.cat_motherboard-wallpaper_2557381.png
-    background_image_opacity: 80
+    background_image_opacity: 20
   - type: grid_section
     title: Prix
     subtitle: Grid Section Example
