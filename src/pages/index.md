@@ -208,9 +208,8 @@ sections:
   - type: cta_section
     title: Contactez-nous ici
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      N'hésitez à nous poser toutes question concernant une réparation. Nous
+      sommes la pour vous aiguiller ! 
     actions:
       - label: Learn More
         url: /features
