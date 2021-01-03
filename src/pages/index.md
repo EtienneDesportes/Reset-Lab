@@ -105,7 +105,7 @@ sections:
           panne nous est bien connus et réparable dans notre atelier.</p>
         actions:
           - label: Faire un devis
-            url: /style-guide
+            url: /general-enquiries
             style: primary
             has_icon: true
             icon: arrow-right
