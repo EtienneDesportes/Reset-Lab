@@ -57,7 +57,7 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          J'accepte de recevoir les meilleurs plans du web et la new Sletter de
+          J'accepte de recevoir les meilleurs plans du web et la newsletter de
           Back Market par email.
         is_required: true
     submit_label: Envoyer demande
