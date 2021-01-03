@@ -65,7 +65,7 @@ sections:
           - Rétro-éclairage
           - 'Problème démarrage '
           - Réactivité faible
-          - lorem-ipsum
+          - Batterie
           - lorem-ipsum
         is_required: false
         type: form_field
