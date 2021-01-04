@@ -220,7 +220,7 @@ sections:
     show_excerpt: false
     align: center
     padding_top: none
-    padding_bottom: medium
+    padding_bottom: none
     has_border: false
     background_color: none
 template: advanced
