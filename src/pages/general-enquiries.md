@@ -63,7 +63,6 @@ sections:
           - Batterie ne charge pas
           - Ventilateurs soufflent constamment
           - lorem-ipsum
-          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: select
