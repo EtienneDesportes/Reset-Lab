@@ -44,7 +44,7 @@ sections:
       - input_type: select
         name: Modèle MacBook
         label: Modèle MacBook
-        default_value: Votre modèle
+        default_value: Modèle MacBook ?
         options:
           - MacBook Pro Retina
           - MacBook Pro USB C Touchbar
