@@ -9,7 +9,18 @@
         "title": "Reset Lab",
         "logo": "images/amazing-mango.svg",
         "has_primary_nav": true,
-        "primary_nav_links": [],
+        "primary_nav_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "type": "action"
+            }
+        ],
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
