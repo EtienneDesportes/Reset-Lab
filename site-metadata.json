@@ -21,7 +21,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Procédure d'envoi",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
