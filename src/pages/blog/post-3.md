@@ -37,4 +37,6 @@ Ordinateur (28,7%).
 
 Le smartphone perd cependant 7 points comparé à 2019, et ce notamment au profit des consoles de jeux qui remontent de 12 points et entrent pour la première fois dans le top 3 des Français (33%). Cet engouement est principalement partagé par les Limousins (50%) et les Lorrains (44%) qui ont dû attendre avec impatience le lancement des dernières Playstation 5 et Xbox Série X. 
 
-Cette année, bien que le Covid-19 ait bousculé les habitudes des Français, ils sont 49% ne pas vouloir pour autant modifier leur budget Noël et souhaiter dépenser autant que l’an passé pour les Fêtes, à l’exception des Bourguignon (25%) et des Limousins (25%) qui eux, ont prévu de dépenser plus.</p>
+Cette année, bien que le Covid-19 ait bousculé les habitudes des Français, ils sont 49% ne pas vouloir pour autant modifier leur budget Noël et souhaiter dépenser autant que l’an passé pour les Fêtes, à l’exception des Bourguignon (25%) et des Limousins (25%) qui eux, ont prévu de dépenser plus.
+
+Source: ITR </p>
