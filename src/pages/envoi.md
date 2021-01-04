@@ -21,7 +21,7 @@ sections:
     actions: []
     video_embed_html: ''
     media_position: right
-    media_width: fifty
+    media_width: fourty
     align: left
     padding_top: none
     padding_bottom: none
