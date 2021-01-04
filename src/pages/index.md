@@ -206,7 +206,7 @@ sections:
     title: Quoi de neuf ?
     subtitle: ''
     actions:
-      - label: View All
+      - label: Voir tout
         url: /blog
         style: primary
     blog_feed_cols: three
