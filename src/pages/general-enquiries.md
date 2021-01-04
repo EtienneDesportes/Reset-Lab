@@ -70,7 +70,7 @@ sections:
         name: message
         label: Message
         default_value: Your message
-      - input_type: text
+      - input_type: select
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
