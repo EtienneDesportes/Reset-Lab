@@ -113,7 +113,7 @@ sections:
     grid_items:
       - title: ''
         subtitle: ''
-        title_align: left
+        title_align: right
         content: |-
           **Type de panne:** Rétro-eclairage <br>
           **Modèle:** MacBook pro Retina 15 pouces<br>
