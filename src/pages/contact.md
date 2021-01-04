@@ -20,7 +20,7 @@ sections:
           samedi. N'hésitez pas !
         content_align: center
         actions:
-          - label: 'J''ai besoin d''aide '
+          - label: J'ai un problème !
             url: /general-enquiries
             style: secondary
             has_icon: true
