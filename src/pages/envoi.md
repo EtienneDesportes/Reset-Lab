@@ -21,7 +21,7 @@ sections:
     video_embed_html: ''
     media_position: right
     media_width: fourty
-    align: center
+    align: left
     padding_top: none
     padding_bottom: none
     has_border: false
