@@ -5,7 +5,7 @@ sections:
     title: ''
     subtitle: >-
       Vous avez une question ? N'hésitez pas à nous contacter. Nous vous
-      répondons dans les 24h
+      répondons dans les 24h. Promis !
     align: center
     padding_top: small
     padding_bottom: small
