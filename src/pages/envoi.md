@@ -3,13 +3,7 @@ title: lorem-ipsum
 excerpt: lorem-ipsum
 sections:
   - title: lorem-ipsum
-    subtitle: >-
-      Il y a deux options: • La carte mère est réparable : règlement en ligne
-      et par CB, après réparation, le montant indiqué sur le devis envoyé au
-      préalable. L’envoi du Mac et son retour par colis sont assurés. • La
-      carte mère n’est pas réparable (ou) ce n’est pas un problème de carte
-      mère : Informé par e-mail. Le retour de votre Mac est facturé 30€ TTC.
-      Aucun autre frais ne s’applique.
+    subtitle: ''
     actions: []
     grid_items:
       - title: lorem-ipsum
