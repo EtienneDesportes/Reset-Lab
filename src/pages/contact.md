@@ -35,8 +35,8 @@ sections:
       - title: Autre demande
         title_align: center
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
+          Nous sommes disponible pour répondre à toute question du lundi au
+          samedi. N'hésitez pas !
         content_align: center
         actions:
           - label: Get Support
