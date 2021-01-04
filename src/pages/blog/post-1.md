@@ -33,4 +33,6 @@ Ainsi, les enseignes spécialisées pourraient proposer plus facilement des solu
 C'est aussi dans ce cadre que le Parlement a refait mention de sa volonté qu'un format universel de chargeur de smartphone soit étudiée de près par la Commission Européenne en vue d'une adoption à moyen terme. Car c'est à la Commission, maintenant, d'élaborer des propositions sur tous ces sujets et de se saisir du dossier pour que les pratiques d'obsolescence programmée, prématurée et les réparations périlleuses et très coûteuses d'appareils électroniques cessent.
 
 Cela permettra au consommateur de plus facilement adopter des appareils d'occasion d'une part mais, aussi, d'acquérir le réflexe de « faire réparer » au lieu de « jeter et racheter ». Par rebond, de telles nouvelles pratiques devraient contribuer à développer des emplois et aussi, à réduire la pollution engendrée par les déchets électroniques.
+<br> <br>
+Source : Parlement Européen
 </p>
