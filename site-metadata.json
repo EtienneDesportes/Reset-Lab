@@ -35,7 +35,7 @@
         "secondary_nav_links": [
             {
                 "label": "Contact",
-                "url": "/question",
+                "url": "/contact",
                 "style": "link"
             },
             {
