@@ -3,7 +3,7 @@ title: ''
 excerpt: lorem-ipsum
 sections:
   - type: form_section
-    content: Prise de contact sans demande de réparation
+    content: ''
     content_align: left
     form_position: top
     form_width: fifty
