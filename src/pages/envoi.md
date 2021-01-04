@@ -79,16 +79,11 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          ## Lorem ipsum
+          **Retour & Règlement**
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          <p style='text-align: justify;'>Vous ne réglez qu’après la réparation.
+          On vous renvoie gratuitement votre Mac, en colis sécurisé et assuré
+          par nos soins.</p>
         content_align: left
         actions: []
         actions_align: left
