@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: features_section
     features:
-      - title: lorem-ipsum
+      - title: Type de pannes
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
