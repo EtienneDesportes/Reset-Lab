@@ -77,7 +77,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: La réparation
+    title: ''
     subtitle: ''
     features:
       - title: Dommage liquide
