@@ -6,7 +6,7 @@ categories:
   - src/data/categories/general.yaml
 tags: []
 excerpt: ''
-thumb_image: images/festive-steel.jpg
+thumb_image: images/macbookpro-reconditionne-cestas-33610 (1).jpg
 image: images/macbookpro-reconditionne-cestas-33610.jpg
 image_position: top
 template: post
