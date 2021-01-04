@@ -40,7 +40,7 @@ sections:
         image: images/logic-board-repair.jpg
   - type: cta_section
     title: Vous avez besoin d'une réparation ?
-    content: Nous sommes spécialiste réparateur en micro-soudure MacBook
+    content: Nous sommes spécialiste en micro-soudure MacBook
     actions:
       - label: Faire un devis
         url: /general-enquiries
