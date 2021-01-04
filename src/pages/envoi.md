@@ -37,7 +37,7 @@ sections:
     actions: []
     grid_items:
       - title: ''
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           ## Lorem ipsum
