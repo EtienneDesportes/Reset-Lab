@@ -62,7 +62,6 @@ sections:
           - 'Problème démarrage '
           - Batterie ne charge pas
           - Réactivité faible
-          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: select
