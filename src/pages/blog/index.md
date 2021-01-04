@@ -37,7 +37,7 @@ sections:
         is_required: true
     submit_label: Subscribe
     padding_top: none
-    padding_bottom: medium
+    padding_bottom: none
     has_border: true
     background_color: secondary
 template: advanced
