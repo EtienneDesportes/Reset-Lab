@@ -146,7 +146,7 @@ sections:
         type: grid_item
         image: images/rainy-sage.png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           ## Lorem ipsum
