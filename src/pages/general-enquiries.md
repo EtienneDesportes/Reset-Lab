@@ -52,10 +52,6 @@ sections:
           - 'MacBook Pro '
           - MacBook
         is_required: true
-      - input_type: textarea
-        name: message
-        label: Message
-        default_value: Your message
       - input_type: select
         name: type de pannes
         label: Type de pannes
@@ -70,6 +66,10 @@ sections:
           - lorem-ipsum
         is_required: false
         type: form_field
+      - input_type: textarea
+        name: message
+        label: Message
+        default_value: Your message
     submit_label: Envoyer demande
     align_vert: top
     padding_top: medium
