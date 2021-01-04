@@ -6,9 +6,21 @@ sections:
       - title: Le diagnostic
         subtitle: ''
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          <p style='text-align: justify;'> Quand un MacBook tombe en panne, il
+          faut dans un premier temps utiliser son esprit de déduction et
+          d'observation pour trouver la panne. C'est donc un peu la même routine
+          qu'un détective dans un sens ! Toutes traces visibles d'oxydation
+          (traces bleues/vertes) sont des indices en plus, il ne faut donc
+          jamais désoxyder une carte mère avant la réparation, cela brouille les
+          pistes ! Si aucune trace n'est présente, équipé d'un multimère, il
+          faut analyser comment le circuit se comporte en l'état actuel et
+          comparer avec les valeurs retrouvés sur le schéma du circuit. La
+          machine injecte t-elle bien assez de voltage pour démarrer le
+          onewirecircuit ? La ligne électrique PP3V42_G3H est-elle bien présente
+          ? Résistance, fusible, condensateur, il ne faut rien rater. A l'aide
+          d'une alimentation de labo on peut injecter du voltage dans certaines
+          parties du circuit afin d'en trouver les court-circuit potentiel.
+          </p> 
         image: images/about-3.jpg
         media_position: right
         media_width: fifty
