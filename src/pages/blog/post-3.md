@@ -9,7 +9,7 @@ excerpt: ''
 thumb_image: >-
   images/219_webedia-articles_6f8_568_d6c811a3748e836cbcb2e45c50_1491760-les-smartphones-reconditionnes-sont-nett-orig-2.jpeg
 image: images/square-strawberry.jpeg
-image_position: top
+image_position: right
 template: post
 ---
 <p style='text-align: justify;'>De plus en plus engagés pour l’environnement, les Français feront-ils le choix d’offrir des cadeaux qui limitent leurs impacts sur la planète ? C'est ce qu'a voulu savoir Recommerce. 
