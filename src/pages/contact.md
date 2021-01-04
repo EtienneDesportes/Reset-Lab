@@ -3,9 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: ''
-    subtitle: >-
-      Have a question? Send us a note using the form below and we will be in
-      touch soon.
+    subtitle: Vous avez une question ? N'hésitez pas à nous con
     align: center
     padding_top: small
     padding_bottom: small
