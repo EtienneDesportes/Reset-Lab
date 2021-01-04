@@ -165,17 +165,10 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |-
+          **Type de panne:** Batterie ne charge pas <br>
+          **Modèle:** MacBook Air 2014 <br>
+          **Réparation:** 280€
         content_align: left
         actions: []
         actions_align: left
