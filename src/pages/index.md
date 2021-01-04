@@ -219,7 +219,7 @@ sections:
     show_author: true
     show_excerpt: false
     align: center
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     has_border: false
     background_color: none
