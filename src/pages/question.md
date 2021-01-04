@@ -23,19 +23,6 @@ sections:
         default_value: Votre adresse email ?
         is_required: true
       - input_type: select
-        name: type de pannes
-        label: Type de pannes
-        default_value: Sélectionner
-        options:
-          - Dommage liquide
-          - Rétro-éclairage
-          - 'Problème démarrage '
-          - Batterie ne charge pas
-          - Ventilateurs soufflent constamment
-          - J'en ai aucune idée ! (Et c'est pas un souci)
-        is_required: false
-        type: form_field
-      - input_type: select
         name: Année du modèle
         label: Année du modèle
         default_value: Sélectionner
