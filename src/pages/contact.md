@@ -38,7 +38,7 @@ sections:
         content_align: center
         actions:
           - label: J'ai une question !
-            url: /general-enquiries
+            url: Prise de contact sans demande de réparation
             style: primary
             has_icon: true
             icon: arrow-right
