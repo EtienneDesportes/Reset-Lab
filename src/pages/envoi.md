@@ -114,17 +114,10 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |-
+          **Type de panne:** Rétro-eclairage <br>
+          **Modèle:** MacBook pro Retina 15 pouces<br>
+          **Réparation: ** 260€
         content_align: left
         actions: []
         actions_align: left
