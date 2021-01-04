@@ -70,6 +70,13 @@ sections:
         name: message
         label: Message
         default_value: Your message
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: Envoyer demande
     align_vert: top
     padding_top: medium
