@@ -8,7 +8,7 @@ sections:
       répondons dans les 24h !
     align: center
     padding_top: none
-    padding_bottom: small
+    padding_bottom: none
     has_border: true
     background_color: none
   - type: grid_section
