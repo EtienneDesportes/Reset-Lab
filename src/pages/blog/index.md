@@ -5,7 +5,7 @@ sections:
     title: Blog
     subtitle: ''
     align: center
-    padding_top: medium
+    padding_top: none
     padding_bottom: none
     background_color: none
   - type: blog_feed_section
