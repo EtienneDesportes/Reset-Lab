@@ -32,9 +32,7 @@ sections:
         subtitle: ''
       - title: Autre demande
         title_align: center
-        content: >-
-          Nous sommes disponible pour répondre à toute question du lundi au
-          samedi. N'hésitez pas !
+        content: 'Nous sommes disponible pour répondre à toutes questions ! '
         content_align: center
         actions:
           - label: J'ai une question !
