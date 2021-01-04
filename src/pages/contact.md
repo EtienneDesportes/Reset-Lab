@@ -31,7 +31,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        subtitle: ''
+        subtitle: Nous sommes disponible pour toute question du lundi au samedi
       - title: Other Queries
         title_align: center
         content: >-
