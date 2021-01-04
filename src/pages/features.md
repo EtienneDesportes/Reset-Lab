@@ -24,7 +24,7 @@ sections:
         image: images/apple_macbook_air_a1466_j13_820-3209-a_rev_2.0.0_sch.pdf_2.png
         media_position: right
         media_width: fifty
-      - title: Section Title Two
+      - title: Nos outiles
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
