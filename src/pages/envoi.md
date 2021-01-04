@@ -56,7 +56,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/superb-basil.svg
-      - title: lorem-ipsum
+      - title: ''
         subtitle: ''
         title_align: left
         content: >-
