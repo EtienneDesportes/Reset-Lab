@@ -21,7 +21,7 @@
                 "type": "action"
             },
             {
-                "label": "Procédure d'envoi",
+                "label": "Comment ça marche ? ",
                 "url": "/envoi",
                 "style": "link",
                 "has_icon": false,
