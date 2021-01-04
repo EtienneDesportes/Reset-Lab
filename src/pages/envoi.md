@@ -5,7 +5,6 @@ sections:
   - title: ''
     subtitle: ''
     content: >-
-      ###### Il y a deux options: <br>
 
       * **La carte mère est réparable :** 
 
