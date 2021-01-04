@@ -2,7 +2,7 @@
 title: ''
 excerpt: ''
 sections:
-  - title: lorem-ipsum
+  - title: 'J''ai une question ! '
     subtitle: lorem-ipsum
     title_align: left
     content: >-
