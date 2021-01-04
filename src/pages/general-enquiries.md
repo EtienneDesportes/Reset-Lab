@@ -73,7 +73,7 @@ sections:
       - input_type: select
         name: Année du modèle
         label: lorem-ipsum
-        default_value: lorem-ipsum
+        default_value: Sélectionner
         options: []
         is_required: false
         type: form_field
