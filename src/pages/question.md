@@ -28,7 +28,7 @@ sections:
         default_value: Votre message
     submit_label: Envoyer mon message
     align_vert: top
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     background_color: primary
     background_image_opacity: 10
