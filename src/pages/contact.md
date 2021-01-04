@@ -19,7 +19,7 @@ sections:
         content_align: center
         actions:
           - label: J'ai besoin d'aide !
-            url: /general-enquiries
+            url: /question
             style: secondary
             has_icon: true
             icon: arrow-right
