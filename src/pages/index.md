@@ -97,7 +97,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/eau renversé mac.png
+        image: images/eau renversé mac-min.png
         media_position: right
         media_width: fifty
       - title: Rétro-Eclairage
