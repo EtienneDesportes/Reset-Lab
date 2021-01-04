@@ -4,7 +4,7 @@ sections:
   - type: features_section
     features:
       - title: Type de pannes
-        subtitle: lorem-ipsum
+        subtitle: ''
         content: >-
           ## Lorem ipsum
 
