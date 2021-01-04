@@ -32,7 +32,7 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: ''
-      - title: Other Queries
+      - title: Autre demande
         title_align: center
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
