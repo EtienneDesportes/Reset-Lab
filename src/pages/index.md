@@ -60,8 +60,9 @@ sections:
       - title: Retour & Règlement
         title_align: left
         content: >-
-          Vous ne réglez qu’après la réparation. On vous renvoie gratuitement
-          votre Mac, en colis sécurisé et assuré par nos soins.
+          <p style='text-align: justify;'>Vous ne réglez qu’après la réparation.
+          On vous renvoie gratuitement votre Mac, en colis sécurisé et assuré
+          par nos soins.</p>
         content_align: left
         actions: []
         actions_align: left
