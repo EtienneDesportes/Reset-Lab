@@ -128,7 +128,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/great-octopus.png
-      - title: lorem-ipsum
+      - title: ''
         subtitle: ''
         title_align: left
         content: >-
