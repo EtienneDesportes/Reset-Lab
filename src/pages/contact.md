@@ -15,7 +15,7 @@ sections:
     grid_items:
       - title: Aide & Support
         title_align: center
-        content: Vous avez une question concernant la réparation ? C'est par ici !
+        content: 'Vous avez une question concernant la réparation ? '
         content_align: center
         actions:
           - label: J'ai besoin d'aide !
