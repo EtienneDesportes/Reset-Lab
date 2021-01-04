@@ -18,9 +18,7 @@ title: >-
   Auvergnats (50%) et des Champardennais (50%). A l’inverse, les habitants des
   Pays de la Loire (34%), du Nord Pas de Calais (31%) et de Franche Comté (22%)
   semblent plus sceptiques.
-subtitle: >-
-  Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
-  vocas, eum.
+subtitle: ''
 date: '2020-05-25'
 author: src/data/team/hilary-ouse.yaml
 categories:
