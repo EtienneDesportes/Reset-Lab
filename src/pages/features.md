@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: features_section
     features:
-      - title: Section Title One
+      - title: Le diagnostic
         subtitle: ''
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
