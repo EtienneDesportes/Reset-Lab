@@ -1,5 +1,23 @@
 ---
-title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+title: >-
+  De plus en plus engagés pour l’environnement, les Français feront-ils le choix
+  d’offrir des cadeaux qui limitent leurs impacts sur la planète ? C'est ce qu'a
+  voulu savoir Recommerce.   Cette enquête nous apprend qu'avec la crise
+  sanitaire, 25% des français réfléchissent désormais à leur manière de
+  consommer. « Si pour 40% des Français acheter reconditionné c'est l'avenir,
+  pour 36% c’est aussi le bon plan parfait pour s’équiper à petits prix »,
+  ajoute Benoit Varin, co-fondateur et Secrétaire Général de Recommerce. 
+  Consommer mieux, être plus responsable, penser aux générations futures... des
+  mots qui se sont aujourd’hui imposés dans les foyers Français. Une tendance
+  qui se confirme également pour les produits reconditionnés. En effet, 76% des
+  sondés ont un avis positif sur le sujet. 45% des sondés ont même acheté un
+  produit high tech reconditionné au cours de l’année passée dont 29% sur le web
+  et 16% en boutique.  Autre point saillant de l’étude révélé par Recommerce,
+  40% des sondés déclarent que le reconditionné c’est l’avenir. Mais qui sont
+  les Français les plus convaincus ? Il s’agit des Alsaciens (61%), des
+  Auvergnats (50%) et des Champardennais (50%). A l’inverse, les habitants des
+  Pays de la Loire (34%), du Nord Pas de Calais (31%) et de Franche Comté (22%)
+  semblent plus sceptiques.
 subtitle: >-
   Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
   vocas, eum.
