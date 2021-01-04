@@ -6,9 +6,7 @@ subtitle: ''
 date: '2020-11-26'
 categories:
   - src/data/categories/general.yaml
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
+excerpt: ''
 thumb_image: images/softoffice-pc-9-scaled (1) (1).jpg
 image: images/softoffice-pc-9-scaled.jpg
 image_position: right
