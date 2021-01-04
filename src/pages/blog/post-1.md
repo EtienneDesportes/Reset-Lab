@@ -17,6 +17,7 @@ template: post
 <p style='text-align: justify;'>
 
 **Une nouvelle loi** <br>
+	
 Le Parlement européen a adopté une loi visant à donner aux consommateurs de l'Union accès à plus de moyens de faire réparer leurs appareils défectueux plutôt que de les remplacer par des neufs.
 
 Pouvoir faire réparer son appareil électronique plus facilement et à moindre coût. Voilà, en substance, ce que la résolution adoptée par le Parlement européen récemment prévoit. Le droit à la réparation, qui vise à limiter le gaspillage, les déchets électroniques mais, aussi, à permettre aux consommateurs d'avoir des informations sur la durée de vie estimée d'un produit, est une mesure réclamée de longue date par les associations de consommateurs et de défenseurs de l'environnement.
