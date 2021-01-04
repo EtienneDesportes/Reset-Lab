@@ -77,5 +77,6 @@ sections:
     background_image: images/successful-cabbage.png
     subtitle: ''
     title_align: center
+    title: Prise de contact sans demande de réparation
 template: advanced
 ---
