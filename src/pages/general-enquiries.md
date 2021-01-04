@@ -86,7 +86,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-        default_value: Your message
+        default_value: Votre message
     submit_label: Envoyer demande
     align_vert: top
     padding_top: medium
