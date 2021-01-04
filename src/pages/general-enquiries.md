@@ -61,7 +61,7 @@ sections:
           - Rétro-éclairage
           - 'Problème démarrage '
           - Batterie ne charge pas
-          - Réactivité faible
+          - Ventilateurs soufflent constamment
           - lorem-ipsum
           - lorem-ipsum
         is_required: false
