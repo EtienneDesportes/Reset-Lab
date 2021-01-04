@@ -16,8 +16,8 @@ sections:
       - title: Aide & Support
         title_align: center
         content: >-
-          Nous sommes disponible pour répondre à toute question du lundi au
-          samedi. N'hésitez pas !
+          Vous recontrez un problème avec votre MacBook ? Vous avez une question
+          concernant la réparation ? Ca se passe ici ! 
         content_align: center
         actions:
           - label: J'ai besoin d'aide !
