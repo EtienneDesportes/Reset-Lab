@@ -13,7 +13,7 @@ sections:
         video_embed_html: ''
         media_position: left
         media_width: fifty
-        align: right
+        align: left
         type: feature
         image: images/type de pannes.png
       - title: Le diagnostic
