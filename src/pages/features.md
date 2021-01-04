@@ -38,15 +38,6 @@ sections:
         media_position: left
         media_width: fifty
         image: images/logic-board-repair.jpg
-      - title: Section Title Three
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/about-1.jpg
-        media_position: right
-        media_width: fifty
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
