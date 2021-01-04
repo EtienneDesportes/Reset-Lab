@@ -35,7 +35,7 @@ sections:
         label: Email
         default_value: Votre adresse email
         is_required: true
-    submit_label: ''
+    submit_label: Envoyer
     padding_top: none
     padding_bottom: none
     has_border: true
