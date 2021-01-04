@@ -32,7 +32,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: L'envoi est gratuit
+  - title: L'envoi est gratuit !
     subtitle: ''
     actions: []
     grid_items:
