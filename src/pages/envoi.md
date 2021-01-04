@@ -108,7 +108,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ''
     actions: []
     grid_items:
       - title: lorem-ipsum
