@@ -62,7 +62,7 @@ sections:
           - 'Problème démarrage '
           - Batterie ne charge pas
           - Ventilateurs soufflent constamment
-          - J'en ai aucune idée
+          - J'en ai aucune idée ! (Et c'e
         is_required: false
         type: form_field
       - input_type: select
