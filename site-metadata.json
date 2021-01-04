@@ -12,7 +12,7 @@
         "primary_nav_links": [
             {
                 "label": "lorem-ipsum",
-                "url": "lorem-ipsum",
+                "url": "/features",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
