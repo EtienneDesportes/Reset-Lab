@@ -5,7 +5,6 @@ date: '2020-12-10'
 categories:
   - src/data/categories/general.yaml
 tags:
-  - src/data/tags/stackbit.yaml
   - src/data/tags/jamstack.yaml
 excerpt: ''
 thumb_image: images/classic/post-3.png
