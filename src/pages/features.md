@@ -43,7 +43,7 @@ sections:
     content: Nous sommes spécialiste réparateur en micro-soudure MacBook
     actions:
       - label: Compare Plans
-        url: /pricing
+        url: /general-enquiries
         style: primary
     actions_position: right
     align: left
