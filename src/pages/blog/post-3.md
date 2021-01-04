@@ -1,5 +1,5 @@
 ---
-title: Cur Ipse Pythagoras Et Aegyptum Lustravit
+title: 'Pour 40% des Français, le reconditionné c’est l’avenir !'
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
