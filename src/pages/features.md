@@ -15,7 +15,7 @@ sections:
         media_width: fourty
         align: left
         type: feature
-        image: images/type de pannes.png
+        image: images/type de pannes-min.png
       - title: Le diagnostic
         subtitle: ''
         content: >-
