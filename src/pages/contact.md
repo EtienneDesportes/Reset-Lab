@@ -16,8 +16,8 @@ sections:
       - title: Aide & Support
         title_align: center
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+          Nous sommes disponible pour répondre à toute question du lundi au
+          samedi. N'hésitez pas !
         content_align: center
         actions:
           - label: Get Support
