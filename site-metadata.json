@@ -14,11 +14,6 @@
                 "label": "La Réparation",
                 "url": "/features",
                 "style": "link"
-            },
-            {
-                "label": "Procédure d'envoi",
-                "url": "/about",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
