@@ -75,7 +75,7 @@ sections:
     background_color: primary
     background_image_opacity: 10
     background_image: images/successful-cabbage.png
-    subtitle: Prise de contact sans demande de réparation
+    subtitle: ''
     title_align: center
 template: advanced
 ---
