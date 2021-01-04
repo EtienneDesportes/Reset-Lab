@@ -10,7 +10,7 @@ excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.
 thumb_image: images/classic/post-1.png
-image: images/classic/post-1.png
+image: images/softoffice-pc-9-scaled.jpg
 image_position: right
 template: post
 ---
