@@ -60,16 +60,11 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          ## Lorem ipsum
+          **Réparation**
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          <p style='text-align: justify;'>On confirme la réception de votre Mac
+          et on le répare. S’il n’est pas réparable, seuls les frais de retour
+          sont à votre charge.</p>
         content_align: left
         actions: []
         actions_align: left
