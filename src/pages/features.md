@@ -5,17 +5,10 @@ sections:
     features:
       - title: Type de pannes
         subtitle: ''
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |-
+          * Dommage liquide
+          * Rétro-éclairage
+          * Problème de démarrage
         actions: []
         video_embed_html: ''
         media_position: top
