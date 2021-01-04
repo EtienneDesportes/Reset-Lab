@@ -17,7 +17,7 @@ sections:
           êtes dans le coin vous pouvez bien sûr directement venir déposer votre
           machine chez nous. On se fera un plaisir de vous expliquer comment on
           procède. </p>
-        image: images/about-5.jpg
+        image: images/1-port-brest-yannick-le-gal-1920x960-crop-1542723260.jpg
         media_position: right
         media_width: fifty
       - title: Section Title Three
