@@ -38,7 +38,7 @@ sections:
         content_align: center
         actions:
           - label: J'ai une question !
-            url: Prise de contact sans demande de réparation
+            url: /question
             style: primary
             has_icon: true
             icon: arrow-right
