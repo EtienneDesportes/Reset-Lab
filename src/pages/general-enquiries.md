@@ -75,7 +75,7 @@ sections:
         label: Année du modèle
         default_value: Sélectionner
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Envoyer demande
     align_vert: top
