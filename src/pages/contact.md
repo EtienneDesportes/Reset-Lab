@@ -3,7 +3,9 @@ title: Contact
 sections:
   - type: hero_section
     title: ''
-    subtitle: Vous avez une question ? N'hésitez pas à nous con
+    subtitle: >-
+      Vous avez une question ? N'hésitez pas à nous conacter à l'aide d'un des
+      formul
     align: center
     padding_top: small
     padding_bottom: small
