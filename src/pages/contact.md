@@ -54,7 +54,7 @@ sections:
     enable_cards: true
     align: center
     padding_top: large
-    padding_bottom: large
+    padding_bottom: none
     background_color: primary
 template: advanced
 ---
