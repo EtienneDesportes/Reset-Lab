@@ -2,7 +2,7 @@
 title: Tutorials
 sections:
   - type: hero_section
-    title: Tutoriels
+    title: Tutoriel
     subtitle: ''
     align: center
     padding_top: medium
