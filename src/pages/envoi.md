@@ -195,7 +195,7 @@ sections:
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
-    align: right
+    align: center
     padding_top: none
     padding_bottom: none
     has_border: false
