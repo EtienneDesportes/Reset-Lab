@@ -7,7 +7,7 @@ categories:
 tags: []
 excerpt: ''
 thumb_image: images/fabulous-ant.jpg
-image: images/macbookpro-reconditionne-cestas-33610.jpg
+image: images/thoughtful-rabbit.jpg
 image_position: top
 template: post
 ---
