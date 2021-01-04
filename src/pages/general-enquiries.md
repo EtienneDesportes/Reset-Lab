@@ -60,8 +60,8 @@ sections:
           - Dommage liquide
           - Rétro-éclairage
           - 'Problème démarrage '
-          - Réactivité faible
           - Batterie ne charge pas
+          - Réactivité faible
           - lorem-ipsum
           - lorem-ipsum
         is_required: false
