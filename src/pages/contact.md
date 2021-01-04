@@ -13,7 +13,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: 'Aide '
+      - title: Aide & Support
         title_align: center
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
