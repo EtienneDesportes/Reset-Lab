@@ -13,7 +13,7 @@ image: images/classic/post-3.png
 image_position: top
 template: post
 ---
-<p style='text-align: justify;'>De plus en plus engagés pour l’environnement, les Français feront-ils le choix d’offrir des cadeaux qui limitent leurs impacts sur la planète ? C'est ce qu'a voulu savoir Recommerce. <br><br>
+<p style='text-align: justify;'>De plus en plus engagés pour l’environnement, les Français feront-ils le choix d’offrir des cadeaux qui limitent leurs impacts sur la planète ? C'est ce qu'a voulu savoir Recommerce. 
 
 Cette enquête nous apprend qu'avec la crise sanitaire, 25% des français réfléchissent désormais à leur manière de consommer. « Si pour 40% des Français acheter reconditionné c'est l'avenir, pour 36% c’est aussi le bon plan parfait pour s’équiper à petits prix », ajoute Benoit Varin, co-fondateur et Secrétaire Général de Recommerce.<br><br>
 
