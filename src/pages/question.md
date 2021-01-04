@@ -22,24 +22,6 @@ sections:
         label: Email
         default_value: Votre adresse email ?
         is_required: true
-      - input_type: select
-        name: Année du modèle
-        label: Année du modèle
-        default_value: Sélectionner
-        options:
-          - '2019'
-          - '2018'
-          - '2017'
-          - '2016'
-          - '2015'
-          - '2014'
-          - '2013'
-          - '2012'
-          - '2011'
-          - '2010'
-          - '2009'
-        is_required: false
-        type: form_field
       - input_type: textarea
         name: message
         label: Message
