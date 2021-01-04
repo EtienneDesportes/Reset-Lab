@@ -7,7 +7,7 @@ categories:
 tags: []
 excerpt: ''
 thumb_image: images/classic/post-3.png
-image: images/classic/post-3.png
+image: images/macbookpro-reconditionne-cestas-33610.jpg
 image_position: top
 template: post
 ---
