@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: ''
     subtitle: >-
-      Vous avez une question ? N'hésitez pas à nous conacter à l'aide d'un des
-      formul
+      Vous avez une question ? N'hésitez pas à nous contacter. Nous vous
+      répondons dans les 24h
     align: center
     padding_top: small
     padding_bottom: small
