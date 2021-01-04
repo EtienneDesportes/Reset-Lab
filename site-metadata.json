@@ -22,7 +22,7 @@
             },
             {
                 "label": "Procédure d'envoi",
-                "url": "lorem-ipsum",
+                "url": "/envoi",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
