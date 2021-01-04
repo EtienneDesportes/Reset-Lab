@@ -11,7 +11,7 @@ sections:
           * Problème de démarrage
         actions: []
         video_embed_html: ''
-        media_position: top
+        media_position: left
         media_width: fifty
         align: left
         type: feature
