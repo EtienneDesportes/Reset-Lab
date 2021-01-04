@@ -5,16 +5,19 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
-      ## Lorem ipsum
+      ###### Il y a deux options: <br>
 
+      * **La carte mère est réparable :** 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      <p style='text-align: justify;'>Règlement en ligne et par CB, après
+      réparation, le montant indiqué sur le devis envoyé au préalable.
+      L’envoi du Mac et son retour par colis sont assurés.</p>
 
+      * **La carte mère n’est pas réparable (ou) ce n’est pas un problème de
+      carte mère :** 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Informé par e-mail. Le retour de votre Mac est facturé 30€ TTC. Aucun
+      autre frais ne s’applique.
     actions: []
     video_embed_html: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
