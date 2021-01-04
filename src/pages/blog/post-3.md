@@ -1,8 +1,6 @@
 ---
 title: 'Pour 40% des Français, le reconditionné c’est l’avenir !'
-subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+subtitle: ''
 date: '2020-05-28'
 categories:
   - src/data/categories/general.yaml
