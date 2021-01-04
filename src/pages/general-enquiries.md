@@ -75,7 +75,7 @@ sections:
         label: Année du modèle
         default_value: Sélectionner
         options:
-          - lorem-ipsum
+          - '2009'
         is_required: false
         type: form_field
     submit_label: Envoyer demande
