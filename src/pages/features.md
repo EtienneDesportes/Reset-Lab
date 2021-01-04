@@ -39,7 +39,7 @@ sections:
         media_width: fifty
         image: images/logic-board-repair.jpg
   - type: cta_section
-    title: This is a Call to Action
+    title: Vous avez besoin d'une réparation ?
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
