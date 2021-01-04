@@ -32,7 +32,7 @@ sections:
     padding_bottom: none
     background_color: primary
     background_image_opacity: 10
-    background_image: images/successful-cabbage.png
+    background_image: images/magnificent-lime.jpeg
     subtitle: ''
     title_align: center
     title: ''
