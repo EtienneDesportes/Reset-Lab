@@ -55,7 +55,7 @@ sections:
       - input_type: select
         name: type de pannes
         label: Type de pannes
-        default_value: T
+        default_value: Type de pannes ?
         options:
           - Dommage liquide
           - Rétro-éclairage
