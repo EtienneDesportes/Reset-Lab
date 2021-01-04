@@ -150,7 +150,7 @@ sections:
     background_color: primary
     background_image_opacity: 10
   - type: grid_section
-    title: Exemple de réparations
+    title: Exemples de réparations
     subtitle: ''
     grid_items:
       - content: |
