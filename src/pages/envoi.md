@@ -19,7 +19,7 @@ sections:
       n'êtes pas sur Brest. Aucun autre frais ne s’applique. 
     actions: []
     video_embed_html: ''
-    media_position: right
+    media_position: left
     media_width: fourty
     align: left
     padding_top: none
