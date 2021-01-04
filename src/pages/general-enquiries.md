@@ -85,7 +85,7 @@ sections:
           - '2012'
           - '2011'
           - '2010'
-          - lorem-ipsum
+          - '2009'
         is_required: false
         type: form_field
     submit_label: Envoyer demande
