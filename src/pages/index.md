@@ -25,7 +25,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    background_image: images/background2-min (1)-1.png
+    background_image: images/scientific-steel.png
   - type: grid_section
     title: L'envoi est gratuit !
     subtitle: ''
