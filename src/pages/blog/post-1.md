@@ -1,5 +1,7 @@
 ---
-title: Droit à la réparation
+title: >-
+  Le Parlement européen adopte le droit à la réparation des produits
+  électroniques
 subtitle: >-
   Le Parlement européen adopte le droit à la réparation des produits
   électroniques
