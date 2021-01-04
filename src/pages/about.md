@@ -20,14 +20,5 @@ sections:
         image: images/1-port-brest-yannick-le-gal-1920x960-crop-1542723260.jpg
         media_position: right
         media_width: fifty
-      - title: Chef réparateur
-        subtitle: ''
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/Photo CV.jpg
-        media_position: right
-        media_width: fifty
 template: advanced
 ---
