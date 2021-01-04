@@ -2,9 +2,7 @@
 title: >-
   Le Parlement européen adopte le droit à la réparation des produits
   électroniques
-subtitle: >-
-  Le Parlement européen adopte le droit à la réparation des produits
-  électroniques
+subtitle: ''
 date: '2020-11-26'
 categories:
   - src/data/categories/general.yaml
