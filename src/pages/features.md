@@ -28,7 +28,7 @@ sections:
           réparation, cela brouille les pistes ! Si aucune trace n'est présente,
           équipé d'un multimère, il faut analyser comment le circuit se comporte
           en l'état actuel et comparer avec les valeurs retrouvées sur le schéma
-          du circuit. La machine injecte elle bien assez de voltage pour
+          du circuit. La machine injecte-elle bien assez de voltage pour
           démarrer le onewirecircuit ? La ligne électrique PP3V42_G3H est-elle
           bien présente ? Résistance, fusible, condensateur, il ne faut rien
           rater. À l'aide d'une alimentation de labo, on peut injecter du
