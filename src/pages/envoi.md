@@ -16,7 +16,7 @@ sections:
       carte mère :** 
 
       Informé par e-mail. Le retour de votre Mac est facturé 30€ TTC si vous
-      n'êtes pas sur Brest. Aucun autre frais ne s’applique. 
+      n'êtes pas sur **Brest**. Aucun autre frais ne s’applique. 
     actions: []
     video_embed_html: ''
     media_position: right
