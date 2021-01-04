@@ -37,6 +37,7 @@ sections:
         video_embed_html: ''
         media_position: left
         media_width: fifty
+        image: images/logic-board-repair.jpg
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
