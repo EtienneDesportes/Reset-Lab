@@ -3,7 +3,7 @@ title: lorem-ipsum
 excerpt: lorem-ipsum
 sections:
   - title: ''
-    subtitle: ''
+    subtitle: '###### Il y a deux options: <br>'
     content: >-
 
       * **La carte mère est réparable :** 
