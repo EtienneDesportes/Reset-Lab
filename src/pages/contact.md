@@ -27,7 +27,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/classic/icon-2.svg
+        image: images/classic/icon-1.svg
         image_position: top
         image_align: center
         image_has_padding: true
