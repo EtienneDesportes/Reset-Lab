@@ -77,6 +77,7 @@ sections:
         options:
           - '2019'
           - '2018'
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: Envoyer demande
