@@ -93,6 +93,6 @@ sections:
     padding_bottom: medium
     background_color: primary
     background_image_opacity: 10
-    background_image: images/successful-cabbage.png
+    background_image: images/itl.cat_motherboard-wallpaper_2557381.jpeg
 template: advanced
 ---
