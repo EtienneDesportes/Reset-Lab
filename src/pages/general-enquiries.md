@@ -66,10 +66,6 @@ sections:
           - lorem-ipsum
         is_required: false
         type: form_field
-      - input_type: textarea
-        name: message
-        label: Message
-        default_value: Your message
       - input_type: select
         name: Année du modèle
         label: Année du modèle
@@ -88,6 +84,10 @@ sections:
           - '2009'
         is_required: false
         type: form_field
+      - input_type: textarea
+        name: message
+        label: Message
+        default_value: Your message
     submit_label: Envoyer demande
     align_vert: top
     padding_top: medium
