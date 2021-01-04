@@ -3,7 +3,7 @@ title: General
 sections:
   - type: hero_section
     title: News
-    subtitle: The optional subtitle
+    subtitle: ''
     align: center
     padding_top: medium
     padding_bottom: none
