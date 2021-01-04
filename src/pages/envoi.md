@@ -11,8 +11,8 @@ sections:
       L’envoi du Mac et son retour par colis sont assurés.</p>
 
 
-      La carte mère n’est pas réparable (ou) ce n’est pas un problème de
-      carte mère : <br>
+      **La carte mère n’est pas réparable (ou) ce n’est pas un problème de
+      carte mère :** <br>
 
 
       Informé par e-mail. Le retour de votre Mac est facturé 30€ TTC si vous
