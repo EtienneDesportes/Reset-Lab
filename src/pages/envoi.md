@@ -40,16 +40,12 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          ## Lorem ipsum
+          **Devis et envoi gratuit**
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          <p style='text-align: justify;'>Recevez une étiquette d’envoi avec
+          assurance, après avoir confirmé votre devis. Votre Mac bien emballé,
+          il ne vous reste plus qu’à coller l’étiquette et déposer votre colis
+          en point relais.</p>
         content_align: left
         actions: []
         actions_align: left
