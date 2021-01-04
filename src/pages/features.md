@@ -8,8 +8,8 @@ sections:
         content: >-
           <p style='text-align: justify;'> Quand un MacBook tombe en panne, il
           faut dans un premier temps utiliser son esprit de déduction et
-          d'observation pour trouver la panne. C'est donc un peu la même routine
-          qu'un détective dans un sens ! Toutes traces visibles d'oxydation
+          d'observation pour trouver la panne. On se retrouve donc dans la peau
+          d'un détective en quelque sorte ! Toutes traces visibles d'oxydation
           (traces bleues/vertes) sont des indices en plus, il ne faut donc
           jamais désoxyder une carte mère avant la réparation, cela brouille les
           pistes ! Si aucune trace n'est présente, équipé d'un multimère, il
