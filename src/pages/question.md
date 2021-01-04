@@ -23,17 +23,6 @@ sections:
         default_value: Votre adresse email ?
         is_required: true
       - input_type: select
-        name: Modèle MacBook
-        label: Modèle MacBook
-        default_value: Sélectionner
-        options:
-          - MacBook Pro Retina
-          - MacBook Pro USB C Touchbar
-          - MacBook Air
-          - 'MacBook Pro '
-          - MacBook
-        is_required: true
-      - input_type: select
         name: type de pannes
         label: Type de pannes
         default_value: Sélectionner
