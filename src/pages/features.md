@@ -21,7 +21,7 @@ sections:
           d'une alimentation de labo on peut injecter du voltage dans certaines
           parties du circuit afin d'en trouver les court-circuit potentiel.
           </p> 
-        image: images/about-3.jpg
+        image: images/apple_macbook_air_a1466_j13_820-3209-a_rev_2.0.0_sch.pdf_2.png
         media_position: right
         media_width: fifty
       - title: Section Title Two
