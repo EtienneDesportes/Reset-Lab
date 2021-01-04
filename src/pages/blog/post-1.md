@@ -1,7 +1,5 @@
 ---
-title: >-
-  Le Parlement européen adopte le droit à la réparation des produits
-  électroniques
+title: Droit à la réparation
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
