@@ -113,7 +113,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/retroeclairage mac.png
+        image: images/batterie mac-min.png
         media_position: left
         media_width: fifty
       - title: Problème démarrage
