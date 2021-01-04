@@ -2,7 +2,7 @@
 title: lorem-ipsum
 excerpt: lorem-ipsum
 sections:
-  - title: Comment ça marche ?
+  - title: ''
     subtitle: ''
     content: >-
 
