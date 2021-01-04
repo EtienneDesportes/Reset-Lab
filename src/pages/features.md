@@ -27,13 +27,13 @@ sections:
           plus, il ne faut donc jamais désoxyder une carte mère avant la
           réparation, cela brouille les pistes ! Si aucune trace n'est présente,
           équipé d'un multimère, il faut analyser comment le circuit se comporte
-          en l'état actuel et comparer avec les valeurs retrouvés sur le schéma
-          du circuit. La machine injecte t-elle bien assez de voltage pour
+          en l'état actuel et comparer avec les valeurs retrouvées sur le schéma
+          du circuit. La machine injecte elle bien assez de voltage pour
           démarrer le onewirecircuit ? La ligne électrique PP3V42_G3H est-elle
           bien présente ? Résistance, fusible, condensateur, il ne faut rien
-          rater. A l'aide d'une alimentation de labo on peut injecter du voltage
-          dans certaines parties du circuit afin d'en trouver les court-circuit
-          potentiel. </p> 
+          rater. À l'aide d'une alimentation de labo, on peut injecter du
+          voltage dans certaines parties du circuit afin d'en trouver les
+          courts-circuits potentiels. </p> 
         image: images/apple_macbook_air_a1466_j13_820-3209-a_rev_2.0.0_sch.pdf_2.png
         media_position: right
         media_width: fifty
