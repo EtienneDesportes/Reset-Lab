@@ -5,7 +5,7 @@ sections:
   - type: form_section
     content: Prise de contact sans demande de réparation
     content_align: left
-    form_position: right
+    form_position: top
     form_width: fifty
     form_layout: inline
     enable_card: true
