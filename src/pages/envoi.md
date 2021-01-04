@@ -157,7 +157,7 @@ sections:
         actions_align: left
         actions_width: auto
         image_position: top
-        image_width: fifty
+        image_width: thirty-three
         image_align: left
         image_has_padding: false
         type: grid_item
