@@ -171,7 +171,7 @@ sections:
           **Type de panne:** Dommage liquide <br>
           **Modèle:** MacBook Pro Touchbar 15 pouces<br>
           **Réparation:** 450€
-        image: images/nervous-oak.png
+        image: images/parallel-wallaby.png
         image_position: left
         image_width: twenty-five
       - content: |-
