@@ -76,7 +76,7 @@ sections:
         default_value: Sélectionner
         options:
           - '2019'
-          - lorem-ipsum
+          - '2018'
         is_required: false
         type: form_field
     submit_label: Envoyer demande
