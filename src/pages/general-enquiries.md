@@ -62,7 +62,7 @@ sections:
           - 'Problème démarrage '
           - Batterie ne charge pas
           - Ventilateurs soufflent constamment
-          - lorem-ipsum
+          - J'ai tenté de réparer moi-même !
         is_required: false
         type: form_field
       - input_type: select
