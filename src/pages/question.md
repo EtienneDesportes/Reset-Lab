@@ -1,6 +1,6 @@
 ---
 title: ''
-excerpt: lorem-ipsum
+excerpt: ''
 sections: []
 template: advanced
 ---
