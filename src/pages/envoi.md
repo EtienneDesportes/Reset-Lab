@@ -75,7 +75,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/important-steel.svg
-      - title: lorem-ipsum
+      - title: ''
         subtitle: ''
         title_align: left
         content: >-
