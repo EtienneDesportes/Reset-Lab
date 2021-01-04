@@ -1,10 +1,6 @@
 ---
 title: Features
 sections:
-  - type: hero_section
-    title: Explore Features
-    subtitle: Features Page Demo
-    background_color: primary
   - type: features_section
     features:
       - title: Section Title One
