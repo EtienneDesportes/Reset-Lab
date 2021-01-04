@@ -75,7 +75,7 @@ sections:
         label: Année du modèle
         default_value: Sélectionner
         options:
-          - '2009'
+          - '2019'
           - lorem-ipsum
         is_required: false
         type: form_field
