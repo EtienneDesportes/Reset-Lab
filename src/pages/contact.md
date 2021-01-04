@@ -17,7 +17,7 @@ sections:
         title_align: center
         content: >-
           Vous recontrez un problème avec votre MacBook ? Vous avez une question
-          concernant la réparation ? Ca se passe ici ! 
+          concernant la réparation ? C'est par ici !
         content_align: center
         actions:
           - label: J'ai besoin d'aide !
