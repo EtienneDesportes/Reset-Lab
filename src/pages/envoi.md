@@ -2,7 +2,7 @@
 title: lorem-ipsum
 excerpt: lorem-ipsum
 sections:
-  - title: ''
+  - title: Comment ça marche ?
     subtitle: ''
     content: >-
       ###### Il y a deux options: <br>
