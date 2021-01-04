@@ -26,10 +26,14 @@ sections:
         media_width: fifty
       - title: Nos outils
         subtitle: ''
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |-
+          * Microscope binoculaire Amscope 4-NTP 
+          * Station de soudage ERSA i-con 2 
+          * Station à air chaud Quick 861dw
+          * Alimentation réglage de labo 0-35V, 0-5A
+          * Extracteur de fumée Ersa EASY ARM 
+          * Multimètre Fluke 17b 
+          * Matériel divers: Etain, flux Amtech, Alcool IPA
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
