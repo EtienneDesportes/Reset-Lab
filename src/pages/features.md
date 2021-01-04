@@ -12,7 +12,7 @@ sections:
         actions: []
         video_embed_html: ''
         media_position: left
-        media_width: fifty
+        media_width: thirty-three
         align: left
         type: feature
         image: images/type de pannes.png
