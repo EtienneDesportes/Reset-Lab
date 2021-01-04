@@ -189,7 +189,7 @@ sections:
   - type: cta_section
     title: Contactez-nous ici
     content: >-
-      N'hésitez à nous poser toutes question concernant une réparation. Nous
+      N'hésitez à nous poser toutes questions concernant une réparation. Nous
       sommes la pour vous aiguiller ! 
     actions:
       - label: Contactez-nous
