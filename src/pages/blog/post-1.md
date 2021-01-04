@@ -5,7 +5,6 @@ subtitle: >-
   videre, nihil tranquilli potest.
 date: '2020-04-16'
 categories:
-  - src/data/categories/tutorials.yaml
   - src/data/categories/general.yaml
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
