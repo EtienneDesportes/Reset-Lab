@@ -79,6 +79,7 @@ sections:
           - '2018'
           - '2017'
           - '2016'
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: Envoyer demande
