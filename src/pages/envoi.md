@@ -145,7 +145,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/rainy-sage.png
-      - title: lorem-ipsum
+      - title: ''
         subtitle: ''
         title_align: left
         content: >-
