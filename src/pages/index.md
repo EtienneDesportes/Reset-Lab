@@ -132,7 +132,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/graceful-basil.png
+        image: images/best-turtle.png
         media_position: right
         media_width: fifty
     feature_padding_vert: large
