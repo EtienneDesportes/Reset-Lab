@@ -87,7 +87,7 @@ sections:
         name: message
         label: Message
         default_value: Votre message
-    submit_label: Envoyer demande
+    submit_label: Envoyer ma demande
     align_vert: top
     padding_top: medium
     padding_bottom: medium
