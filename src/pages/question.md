@@ -29,7 +29,7 @@ sections:
     submit_label: Envoyer mon message
     align_vert: top
     padding_top: none
-    padding_bottom: medium
+    padding_bottom: none
     background_color: primary
     background_image_opacity: 10
     background_image: images/successful-cabbage.png
