@@ -71,7 +71,7 @@ sections:
         label: Message
         default_value: Your message
       - input_type: select
-        name: lorem-ipsum
+        name: ''
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
