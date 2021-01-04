@@ -1,5 +1,7 @@
 ---
-title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+title: >-
+  Le Parlement européen adopte le droit à la réparation des produits
+  électroniques
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
