@@ -4,8 +4,7 @@ subtitle: ''
 date: '2020-12-10'
 categories:
   - src/data/categories/general.yaml
-tags:
-  - src/data/tags/jamstack.yaml
+tags: []
 excerpt: ''
 thumb_image: images/classic/post-3.png
 image: images/classic/post-3.png
