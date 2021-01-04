@@ -72,7 +72,7 @@ sections:
         default_value: Your message
       - input_type: select
         name: Année du modèle
-        label: lorem-ipsum
+        label: Année du modèle
         default_value: Sélectionner
         options: []
         is_required: false
