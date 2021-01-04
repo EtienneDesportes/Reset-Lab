@@ -8,7 +8,7 @@ tags: []
 excerpt: ''
 thumb_image: >-
   images/219_webedia-articles_6f8_568_d6c811a3748e836cbcb2e45c50_1491760-les-smartphones-reconditionnes-sont-nett-orig-2.jpeg
-image: images/thoughtful-rabbit.jpg
+image: images/square-strawberry.jpeg
 image_position: top
 template: post
 ---
