@@ -1,7 +1,7 @@
 ---
 title: Features
 sections:
-  - title: lorem-ipsum
+  - title: Type de pannes
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
