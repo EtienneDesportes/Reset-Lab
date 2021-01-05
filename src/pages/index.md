@@ -28,7 +28,7 @@ sections:
         content: >-
           <p style='text-align: justify;'>Après confirmation du devis, une
           étiquette d’envoi avec assurance vous sera envoyé. Il ne vous reste
-          plus qu’à coller l’étiquette sur votre colis bien emballé et le
+          plus qu’à coller l’étiquette sur votre colis bien sécurisé et le
           déposer en point relais. </p>
         content_align: center
         actions: []
