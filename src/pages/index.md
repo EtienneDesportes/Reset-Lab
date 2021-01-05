@@ -4,21 +4,7 @@ sections:
   - type: hero_section
     title: Votre MacBook est en panne ?
     subtitle: ''
-    content: >-
-      <h4><strong>Pas de souci ! Nous sommes spécialistes en
-      micro-soudure</strong></h4>
-
-
-      **Type de réparations:**
-
-
-      * Dommage liquide
-
-      * Rétro-éclairage
-
-      * Problème démarrage 
-
-      * Batterie
+    content: "<h4><strong>Pas de souci ! Nous sommes spécialistes en micro-soudure</strong></h4>\n\n<h6>**Type de réparations:**\n\n* Dommage liquide\n* Rétro-éclairage\n* Problème démarrage \n* Batterie\n\t</h6>"
     actions:
       - label: Faire un devis
         url: /general-enquiries
