@@ -36,7 +36,7 @@ sections:
     grid_items:
       - title: ''
         subtitle: ''
-        title_align: left
+        title_align: center
         content: >-
           **Devis et envoi gratuit**
 
