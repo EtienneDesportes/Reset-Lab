@@ -3,7 +3,7 @@ title: Accueil
 sections:
   - type: hero_section
     title: Votre MacBook est en panne ?
-    subtitle: ''
+    subtitle: <strong>Pas de souci ! Nous sommes spécialistes en micro-soudure
     content: |-
       **Type de réparations:**
 
