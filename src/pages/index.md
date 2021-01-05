@@ -102,10 +102,10 @@ sections:
         media_width: fifty
       - title: Rétro-Eclairage
         content: >-
-          <p style="text-align:justify;">Vous arrivez vaguement à voir une image
-          dans votre écran qui semble quasi éteint ? Un ou plusieurs composants
-          (Fusible, connecteur ou capteur de courant...) ont grillés. Ce type de
-          panne nous est bien connus et réparable dans notre atelier.</p>
+          <p style="text-align:justify;">Vous arrivez plus ou moins à voir une
+          image dans votre écran qui semble quasi éteint ? Un ou plusieurs
+          composants (fusible, connecteur ou capteur de courant...) ont dû
+          griller. Pas de panique ! Nous sommes équipés pour y remédier.</p>
         actions:
           - label: Faire un devis
             url: /general-enquiries
