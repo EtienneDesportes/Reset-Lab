@@ -30,7 +30,7 @@ sections:
           étiquette d’envoi avec assurance vous sera envoyé. Il ne vous reste
           plus qu’à coller l’étiquette sur votre colis bien emballé et le
           déposer en point relais. </p>
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         image: images/icon.svg
