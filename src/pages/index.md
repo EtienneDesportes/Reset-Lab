@@ -26,10 +26,10 @@ sections:
       - title: Devis et envoi gratuit
         title_align: left
         content: >-
-          <p style='text-align: justify;'>Recevez une étiquette d’envoi avec
-          assurance, après avoir confirmé votre devis. Votre Mac bien emballé,
-          il ne vous reste plus qu’à coller l’étiquette et déposer votre colis
-          en point relais. </p>
+          <p style='text-align: justify;'>Après confirmation du devis, une
+          étiquette d’envoi avec assurance vous sera envoyé. Il ne vous reste
+          plus qu’à coller l’étiquette sur votre colis bien emballé et le
+          déposer en point relais. </p>
         content_align: left
         actions: []
         actions_align: left
