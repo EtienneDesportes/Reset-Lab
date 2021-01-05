@@ -3,26 +3,25 @@ title: ''
 sections:
   - type: form_section
     content: >-
-      **RÉPARÉ OU REMBOURSÉ**<br>
+      **DEVIS GRATUIT**<br>
 
-      <p style="text-align: justify;">Payer pour un devis ou une « recherche de
-      panne » nous parait un peu décalé. Notre principe est simple, vous ne
-      paierez que si votre Macbook est réparé ! </p>
+      <p style="text-align: justify;">La réparation est facturé si elle est
+      réalisé avec succès. Si ce n'est pas le cas, uniquement les frais d'envoi
+      seront à votre charge.   </p>
 
 
       **ENVOI ET RETOUR INCLUS**<br>
 
-      <p style="text-align: justify;">Vous recevrez une étiquette transporteur,
-      avec assurance incluse. Votre Mac bien emballé, il ne vous reste qu’à
-      coller l’étiquette et déposer votre colis en point relais : simplicité,
-      rapidité.</p>
+      <p style="text-align: justify;">Vous recevez une étiquette d'envoi, avec
+      assurance incluse. Votre colis bien sécurisé, il ne vous reste plus qu’à
+      coller l’étiquette et ledéposer en point relais. </p>
 
 
-      **GARANTIE 180 JOURS**<br>
+      **GARANTIE 90 JOURS**<br>
 
       <p style="text-align: justify;">On sait exactement ce qu’on fait, comment
       on le fait et d’où viennent nos pièces. C’est pour cela qu’on peut vous
-      garantir nos interventions pendant 180 jours.</p>
+      garantir nos interventions pendant 90 jours.</p>
     content_align: left
     form_position: right
     form_width: fifty
