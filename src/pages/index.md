@@ -5,8 +5,6 @@ sections:
     title: Votre MacBook est en panne ?
     subtitle: ''
     content: |-
-      <strong>Pas de souci ! Nous sommes spécialistes en micro-soudure</strong>
-
       **Type de réparations:**
 
       * Dommage liquide
