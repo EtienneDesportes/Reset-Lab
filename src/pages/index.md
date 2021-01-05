@@ -148,6 +148,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
     background_image_opacity: 10
+    subtitle: <strong>Pas de souci ! Nous sommes spécialistes en micro-soudure</strong>
   - type: grid_section
     title: Exemples de réparations
     subtitle: ''
