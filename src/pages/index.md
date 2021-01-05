@@ -138,7 +138,7 @@ sections:
         image: images/2534013.svg
         media_position: right
         media_width: thirty-three
-        content: "<h5><p style=\"text-align:justify;\">“Apple vous\_indique que les témoins d'humidité sont passés au rouge et que du liquide se trouve dans l'ordinateur ? Montant de la réparation estimée : plus de 1 200€ pour remplacer toute la carte mère ! Nous sommes l'alternative et vous proposons une réparation à moindre coût (de 180 à 450€ TTC, selon la panne et l'âge de votre Mac). Non seulement c'est <strong>économique</strong> pour le client, une <strong>passion</strong> pour le réparateur et <strong>écologique</strong> pour tout le monde.”</p></h5>"
+        content: "<h6><p style=\"text-align:justify;\">“Apple vous\_indique que les témoins d'humidité sont passés au rouge et que du liquide se trouve dans l'ordinateur ? Montant de la réparation estimée : plus de 1 200€ pour remplacer toute la carte mère ! Nous sommes l'alternative et vous proposons une réparation à moindre coût (de 180 à 450€ TTC, selon la panne et l'âge de votre Mac). Non seulement c'est <strong>économique</strong> pour le client, une <strong>passion</strong> pour le réparateur et <strong>écologique</strong> pour tout le monde.”</p></h6>"
     feature_padding_vert: small
     background_color: primary
     background_image_opacity: 10
