@@ -40,9 +40,9 @@ sections:
       - title: Réparation
         title_align: left
         content: >-
-          <p style='text-align: justify;'>On confirme la réception de votre Mac
-          et on le répare. S’il n’est pas réparable, seuls les frais de retour
-          sont à votre charge.</p>
+          <p style='text-align: justify;'>On confirme la réception de votre
+          MacBook et on le répare. S'il n'est pas réparable, seuls les frais de
+          retour sont à votre charge.</p>
         content_align: left
         actions: []
         actions_align: left
