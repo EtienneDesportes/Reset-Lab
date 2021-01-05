@@ -5,8 +5,8 @@ sections:
     title: Votre MacBook est en panne ?
     subtitle: ''
     content: >-
-      <h2><strong>Pas de souci ! Nous sommes spécialistes en
-      micro-soudure</strong></h2>
+      <h3><strong>Pas de souci ! Nous sommes spécialistes en
+      micro-soudure</strong></h3>
 
 
       **Type de réparations:**
