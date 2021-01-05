@@ -167,7 +167,7 @@ sections:
           **Réparation:** 450€
         image: images/parallel-wallaby.png
         image_position: left
-        image_width: twenty-five
+        image_width: thirty-three
       - content: |-
           **Type de panne:** Batterie ne charge pas <br>
           **Modèle:** MacBook Air 2014  <br>
