@@ -53,7 +53,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/superb-basil.svg
+        image: images/icon.svg
       - title: ''
         subtitle: ''
         title_align: left
