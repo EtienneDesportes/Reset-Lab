@@ -38,7 +38,7 @@ sections:
         image_align: center
         image_has_padding: true
       - title: Réparation
-        title_align: left
+        title_align: center
         content: >-
           <p style='text-align: justify;'>On confirme la réception de votre
           MacBook et on le répare. S'il n'est pas réparable, seuls les frais de
