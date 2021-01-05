@@ -91,7 +91,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/famous-tulip.svg
+        image: images/icon-maintenance.svg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
