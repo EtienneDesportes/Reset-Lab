@@ -24,7 +24,7 @@ sections:
     subtitle: ''
     grid_items:
       - title: Devis et envoi gratuit
-        title_align: left
+        title_align: center
         content: >-
           <p style='text-align: justify;'>Après confirmation du devis, une
           étiquette d’envoi avec assurance vous sera envoyé. Il ne vous reste
