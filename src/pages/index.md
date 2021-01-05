@@ -51,7 +51,7 @@ sections:
         image_align: center
         image_has_padding: true
       - title: Retour & Règlement
-        title_align: left
+        title_align: center
         content: >-
           <p style='text-align: justify;'>Vous ne réglez qu’après la réparation.
           On vous renvoie gratuitement votre Mac, en colis sécurisé et assuré
