@@ -11,7 +11,6 @@ sections:
       * Rétro-éclairage
       * Problème démarrage 
       * Batterie
-      * Chute MacBook 
     actions:
       - label: Faire un devis
         url: /general-enquiries
