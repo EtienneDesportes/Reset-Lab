@@ -133,7 +133,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: '->Economique ->Ecologique'
+      - title: +Economique +Ecologique
         subtitle: ''
         image: images/2534013.svg
         media_position: right
