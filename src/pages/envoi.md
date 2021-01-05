@@ -7,8 +7,8 @@ sections:
     content: >2-
        **La carte mère est réparable :** 
       <p style='text-align: justify;'>Vous réglez en ligne par CB le montant
-      indiqué sur le devis envoyé au préalable. L’envoi du Mac et son retour
-      par colis sont assurés et gratuits.</p>
+      indiqué sur le devis. L’envoi du Mac et son retour par colis sont
+      assurés et gratuits.</p>
 
 
       **La carte mère n’est pas réparable :** <br>
