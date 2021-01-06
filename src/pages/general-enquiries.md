@@ -5,9 +5,9 @@ sections:
     content: >-
       **DEVIS GRATUIT**<br>
 
-      <p style="text-align: justify;">La réparation est facturé si elle est
-      réalisé avec succès. Si ce n'est pas le cas, uniquement les frais d'envoi
-      seront à votre charge.   </p>
+      <p style="text-align: justify;">La réparation est facturée si elle est
+      réalisée avec succès. Si elle n'est pas réalisable, uniquement les frais
+      d'envoi seront à votre charge.   </p>
 
 
       **ENVOI ET RETOUR INCLUS**<br>
