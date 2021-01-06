@@ -14,7 +14,7 @@ sections:
 
       <p style="text-align: justify;">Vous recevez une étiquette d'envoi, avec
       assurance incluse. Votre colis bien sécurisé, il ne vous reste plus qu’à
-      coller l’étiquette et ledéposer en point relais. </p>
+      coller l’étiquette et le déposer en point relais. </p>
 
 
       **GARANTIE 90 JOURS**<br>
