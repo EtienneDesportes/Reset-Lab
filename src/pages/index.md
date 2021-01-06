@@ -55,7 +55,7 @@ sections:
         content: >-
           <p style='text-align: justify;'>Vous ne réglez uniquement le devis si
           réparation est finalisé avec succès. On vous renvoie gratuitement
-          votre Mac, en colis bien emballé et assuré par nos soins.</p>
+          votre Mac en colis assuré.</p>
         content_align: center
         actions: []
         actions_align: left
