@@ -53,8 +53,8 @@ sections:
       - title: Retour & Règlement
         title_align: center
         content: >-
-          <p style='text-align: justify;'>Vous ne réglez uniquement le devis si
-          réparation est finalisé avec succès. On vous renvoie gratuitement
+          <p style='text-align: justify;'>Vous réglez uniquement le devis si la
+          réparation est finalisée avec succès. On vous renvoie gratuitement
           votre Mac en colis assuré.</p>
         content_align: center
         actions: []
