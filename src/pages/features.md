@@ -56,7 +56,7 @@ sections:
     content: Nous sommes spécialistes en micro-soudure MacBook
     actions:
       - label: Faire un devis
-        url: /general-enquiries
+        url: /faire-un-devis
         style: primary
     actions_position: right
     align: left
