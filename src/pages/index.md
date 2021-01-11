@@ -101,7 +101,7 @@ sections:
           griller. Pas de panique ! Nous sommes équipés pour y remédier.</p>
         actions:
           - label: Faire un devis
-            url: /general-enquiries
+            url: /faire-un-devis
             style: primary
             has_icon: true
             icon: arrow-right
