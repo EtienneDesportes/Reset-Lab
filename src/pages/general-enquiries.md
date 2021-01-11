@@ -28,7 +28,7 @@ sections:
     form_layout: inline
     enable_card: true
     form_id: faire un devis
-    form_action: /thank-you
+    form_action: /envoyer un devis
     form_fields:
       - input_type: text
         name: name
