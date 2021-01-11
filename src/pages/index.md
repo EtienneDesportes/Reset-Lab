@@ -7,7 +7,7 @@ sections:
     content: "<h4><strong>Pas de souci ! Nous sommes spécialistes en micro-soudure</strong></h4>\n\n<h5><strong>Type de réparations:</strong></h5>\n\n* Dommage liquide\n* Rétro-éclairage\n* Problème démarrage \n* Batterie\n\t"
     actions:
       - label: Faire un devis
-        url: /faire-un-devis
+        url: /general-enquiries
         style: primary
     media_position: left
     media_width: fourty
