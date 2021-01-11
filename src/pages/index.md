@@ -120,7 +120,7 @@ sections:
 
         actions:
           - label: Faire un devis
-            url: /general-enquiries
+            url: /faire-un-devis
             style: primary
             has_icon: true
             icon: arrow-right
