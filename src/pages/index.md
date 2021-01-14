@@ -69,6 +69,43 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+  - type: grid_section
+    title: Exemples de réparations
+    subtitle: ''
+    grid_items:
+      - content: |
+          **Type de panne:** Rétro-eclairage <br>
+          **Modèle:** MacBook pro Retina 15 pouces <br>
+          **Réparation:** 260€
+        image: images/green-paprika.png
+        image_position: left
+        image_width: thirty-three
+      - content: |
+          **Type de panne:** Dommage liquide <br>
+          **Modèle:** MacBook pro Retina 15 pouces <br>
+          **Réparation:** 320€
+        image: images/successful-owl.png
+        image_position: left
+        image_width: thirty-three
+      - content: |
+          **Type de panne:** Dommage liquide <br>
+          **Modèle:** MacBook Pro Touchbar 15 pouces<br>
+          **Réparation:** 450€
+        image: images/parallel-wallaby.png
+        image_position: left
+        image_width: thirty-three
+      - content: |-
+          **Type de panne:** Batterie ne charge pas <br>
+          **Modèle:** MacBook Air 2014  <br>
+          **Réparation:** 280€
+        image: images/remarkable-oregano.png
+        image_position: left
+        image_width: thirty-three
+    grid_cols: two
+    grid_gap_horiz: medium
+    grid_gap_vert: large
+    align: center
+    background_color: secondary
   - type: features_section
     title: ''
     subtitle: ''
@@ -143,43 +180,6 @@ sections:
     background_color: primary
     background_image_opacity: 10
     subtitle: ''
-  - type: grid_section
-    title: Exemples de réparations
-    subtitle: ''
-    grid_items:
-      - content: |
-          **Type de panne:** Rétro-eclairage <br>
-          **Modèle:** MacBook pro Retina 15 pouces <br>
-          **Réparation:** 260€
-        image: images/green-paprika.png
-        image_position: left
-        image_width: thirty-three
-      - content: |
-          **Type de panne:** Dommage liquide <br>
-          **Modèle:** MacBook pro Retina 15 pouces <br>
-          **Réparation:** 320€
-        image: images/successful-owl.png
-        image_position: left
-        image_width: thirty-three
-      - content: |
-          **Type de panne:** Dommage liquide <br>
-          **Modèle:** MacBook Pro Touchbar 15 pouces<br>
-          **Réparation:** 450€
-        image: images/parallel-wallaby.png
-        image_position: left
-        image_width: thirty-three
-      - content: |-
-          **Type de panne:** Batterie ne charge pas <br>
-          **Modèle:** MacBook Air 2014  <br>
-          **Réparation:** 280€
-        image: images/remarkable-oregano.png
-        image_position: left
-        image_width: thirty-three
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: secondary
   - type: cta_section
     title: Contactez-nous ici
     content: >-
