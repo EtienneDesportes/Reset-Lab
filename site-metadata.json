@@ -11,8 +11,8 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "La réparation",
-                "url": "/features",
+                "label": "Comment ça marche ? ",
+                "url": "/envoi",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -21,8 +21,8 @@
                 "type": "action"
             },
             {
-                "label": "Comment ça marche ? ",
-                "url": "/envoi",
+                "label": "La réparation",
+                "url": "/features",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
