@@ -30,82 +30,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: L'envoi est gratuit !
-    subtitle: ''
-    actions: []
-    grid_items:
-      - title: ''
-        subtitle: ''
-        title_align: center
-        content: >-
-          **Devis et envoi gratuit**
-
-          <p style='text-align: justify;'>Après confirmation du devis, une
-          étiquette d’envoi avec assurance vous sera envoyé. Il ne vous reste
-          plus qu’à coller l’étiquette sur votre colis bien sécurisé et le
-          déposer en point relais. </p>
-        content_align: center
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-        image: images/icon.svg
-      - title: ''
-        subtitle: ''
-        title_align: left
-        content: >-
-          **Réparation**
-
-          <p style='text-align: justify;'>On confirme la réception de votre
-          MacBook et on le répare. S'il n'est pas réparable, seuls les frais de
-          retour sont à votre charge.</p>
-        content_align: center
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-        image: images/diagnostics-icon.svg
-      - title: ''
-        subtitle: ''
-        title_align: left
-        content: >-
-          **Retour & Règlement**
-
-          <p style='text-align: justify;'>Vous ne réglez uniquement le devis si
-          réparation est finalisé avec succès. On vous renvoie gratuitement
-          votre Mac, en colis bien emballé et assuré par nos soins.</p>
-        content_align: center
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-        image: images/icon-maintenance.svg
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: false
-    align: center
-    padding_top: none
-    padding_bottom: none
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
   - title: Exemples de réparations
     subtitle: ''
     actions: []
@@ -179,6 +103,82 @@ sections:
         type: grid_item
         image: images/oval-elm.png
     grid_cols: two
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: false
+    align: center
+    padding_top: none
+    padding_bottom: none
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
+  - title: L'envoi est gratuit !
+    subtitle: ''
+    actions: []
+    grid_items:
+      - title: ''
+        subtitle: ''
+        title_align: center
+        content: >-
+          **Devis et envoi gratuit**
+
+          <p style='text-align: justify;'>Après confirmation du devis, une
+          étiquette d’envoi avec assurance vous sera envoyé. Il ne vous reste
+          plus qu’à coller l’étiquette sur votre colis bien sécurisé et le
+          déposer en point relais. </p>
+        content_align: center
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: images/icon.svg
+      - title: ''
+        subtitle: ''
+        title_align: left
+        content: >-
+          **Réparation**
+
+          <p style='text-align: justify;'>On confirme la réception de votre
+          MacBook et on le répare. S'il n'est pas réparable, seuls les frais de
+          retour sont à votre charge.</p>
+        content_align: center
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: images/diagnostics-icon.svg
+      - title: ''
+        subtitle: ''
+        title_align: left
+        content: >-
+          **Retour & Règlement**
+
+          <p style='text-align: justify;'>Vous ne réglez uniquement le devis si
+          réparation est finalisé avec succès. On vous renvoie gratuitement
+          votre Mac, en colis bien emballé et assuré par nos soins.</p>
+        content_align: center
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: images/icon-maintenance.svg
+    grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
