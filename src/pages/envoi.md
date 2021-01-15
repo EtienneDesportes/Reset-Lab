@@ -67,7 +67,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/rainy-sage.png
+        image: images/rainy-stegosaurus.svg
       - title: ''
         subtitle: ''
         title_align: left
