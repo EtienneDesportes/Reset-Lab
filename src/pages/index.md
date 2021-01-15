@@ -170,7 +170,7 @@ sections:
         image: images/caring-lettuce.svg
         media_position: left
         media_width: fifty
-      - title: Problème démarrage
+      - title: Problème de démarrage
         subtitle: ''
         content: >+
           <p style="text-align:justify;">Votre Mac ne démarre plus ? Quelle
