@@ -98,7 +98,7 @@ sections:
           **Type de panne:** Batterie ne charge pas <br>
           **Modèle:** MacBook Air 2014  <br>
           **Réparation:** 280€
-        image: images/remarkable-oregano.png
+        image: images/batterie mac.svg
         image_position: left
         image_width: thirty-three
     grid_cols: two
