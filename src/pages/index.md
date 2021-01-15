@@ -16,7 +16,7 @@ sections:
 
       *   Rétro-éclairage
 
-      *   Problème démarrage/Batterie
+      *   Problème de démarrage
     actions:
       - label: Faire un devis
         url: /general-enquiries
