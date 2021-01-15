@@ -139,7 +139,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/eau renversé mac-min.png
+        image: images/famous-tomato.svg
         media_position: right
         media_width: fifty
       - title: Rétro-Eclairage
