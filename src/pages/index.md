@@ -100,7 +100,7 @@ sections:
           **Réparation:** 280€
         image: images/batterie mac.svg
         image_position: left
-        image_width: thirty-three
+        image_width: twenty-five
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
