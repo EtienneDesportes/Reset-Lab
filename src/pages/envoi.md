@@ -101,7 +101,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/oval-elm.png
+        image: images/magenta-pluto.svg
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
