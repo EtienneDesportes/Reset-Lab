@@ -8,8 +8,7 @@ sections:
         content: |
           *   Dommage liquide
           *   Rétro-éclairage
-          *   Problème de démarrage
-          *   Batterie
+          *   Problème de démarrage/Batterie
         actions: []
         video_embed_html: ''
         media_position: left
