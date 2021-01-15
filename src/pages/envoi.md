@@ -50,7 +50,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/great-octopus.png
+        image: images/kind-giraffe.svg
       - title: ''
         subtitle: ''
         title_align: left
