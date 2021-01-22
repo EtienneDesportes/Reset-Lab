@@ -28,7 +28,7 @@ sections:
     padding_bottom: none
     background_color: primary
     background_image_size: cover
-    background_image_position: center center
+    background_image_position: center bottom
     background_image_repeat: no-repeat
     background_image: images/background (3).jpg
     background_image_opacity: 0
