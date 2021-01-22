@@ -1,5 +1,5 @@
 ---
-title: Features
+title: La réparation
 sections:
   - type: features_section
     features:
