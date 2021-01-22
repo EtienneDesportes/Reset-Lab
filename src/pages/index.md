@@ -30,7 +30,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    background_image: images/background.svg
+    background_image: images/incredible-coriander.svg
   - type: grid_section
     title: L'envoi est gratuit !
     subtitle: ''
