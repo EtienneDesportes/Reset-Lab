@@ -30,7 +30,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    background_image: images/energetic-panda.jpg
+    background_image: images/smart-bee.jpg
     background_image_opacity: 0
   - type: grid_section
     title: L'envoi est gratuit !
