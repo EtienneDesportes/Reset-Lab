@@ -31,7 +31,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     background_image: images/kind-thyme.svg
-    background_image_opacity: 80
+    background_image_opacity: 90
   - type: grid_section
     title: L'envoi est gratuit !
     subtitle: ''
