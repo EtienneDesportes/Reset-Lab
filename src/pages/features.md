@@ -17,19 +17,6 @@ sections:
         media_position: left
         media_width: fifty
         image: images/logic-board-repair.jpg
-      - title: Type de pannes
-        subtitle: ''
-        content: |
-          *   Dommage liquide
-          *   Rétro-éclairage
-          *   Problème de démarrage
-        actions: []
-        video_embed_html: ''
-        media_position: left
-        media_width: fourty
-        align: left
-        type: feature
-        image: images/multiple pannes.svg
       - title: Le diagnostic
         subtitle: ''
         content: >-
@@ -51,6 +38,19 @@ sections:
         image: images/apple_macbook_air_a1466_j13_820-3209-a_rev_2.0.0_sch.pdf_2.png
         media_position: right
         media_width: fifty
+      - title: Type de pannes
+        subtitle: ''
+        content: |
+          *   Dommage liquide
+          *   Rétro-éclairage
+          *   Problème de démarrage
+        actions: []
+        video_embed_html: ''
+        media_position: left
+        media_width: fourty
+        align: left
+        type: feature
+        image: images/multiple pannes.svg
   - type: cta_section
     title: Vous avez besoin d'une réparation ?
     content: Nous sommes spécialistes en micro-soudure MacBook
