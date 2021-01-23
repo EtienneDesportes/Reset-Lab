@@ -3,6 +3,20 @@ title: La réparation
 sections:
   - type: features_section
     features:
+      - title: Nos outils
+        subtitle: ''
+        content: |
+          *   Microscope binoculaire Amscope 4-NTP
+          *   Station de soudage ERSA i-con 2
+          *   Station à air chaud Quick 861dw
+          *   Alimentation de labo 0-35V, 0-5A
+          *   Extracteur de fumée Ersa EASY ARM
+          *   Multimètre Fluke 17b
+          *   Matériel divers: Etain, flux Amtech, Alcool IPA
+        video_embed_html: ''
+        media_position: left
+        media_width: fifty
+        image: images/logic-board-repair.jpg
       - title: Type de pannes
         subtitle: ''
         content: |
@@ -37,20 +51,6 @@ sections:
         image: images/apple_macbook_air_a1466_j13_820-3209-a_rev_2.0.0_sch.pdf_2.png
         media_position: right
         media_width: fifty
-      - title: Nos outils
-        subtitle: ''
-        content: |
-          *   Microscope binoculaire Amscope 4-NTP
-          *   Station de soudage ERSA i-con 2
-          *   Station à air chaud Quick 861dw
-          *   Alimentation de labo 0-35V, 0-5A
-          *   Extracteur de fumée Ersa EASY ARM
-          *   Multimètre Fluke 17b
-          *   Matériel divers: Etain, flux Amtech, Alcool IPA
-        video_embed_html: ''
-        media_position: left
-        media_width: fifty
-        image: images/logic-board-repair.jpg
   - type: cta_section
     title: Vous avez besoin d'une réparation ?
     content: Nous sommes spécialistes en micro-soudure MacBook
