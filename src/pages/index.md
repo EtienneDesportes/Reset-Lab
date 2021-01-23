@@ -192,7 +192,7 @@ sections:
         media_width: fifty
     feature_padding_vert: large
     align: center
-    background_color: none
+    background_color: primary
   - type: cta_section
     title: Contactez-nous ici
     content: >-
