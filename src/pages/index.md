@@ -81,7 +81,7 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: primary
+    background_color: secondary
   - type: grid_section
     title: Exemples de réparations
     subtitle: ''
