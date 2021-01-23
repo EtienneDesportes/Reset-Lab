@@ -2,7 +2,7 @@
     "description": "Atelier de réparation MacBook",
     "layout": "full-width",
     "style": "minimal",
-    "palette": "blue",
+    "palette": "green",
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
