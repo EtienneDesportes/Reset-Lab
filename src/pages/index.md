@@ -207,7 +207,7 @@ sections:
     align: left
     padding_top: none
     padding_bottom: none
-    background_color: primary
+    background_color: none
     background_image_opacity: 10
   - type: blog_feed_section
     title: Quoi de neuf ?
