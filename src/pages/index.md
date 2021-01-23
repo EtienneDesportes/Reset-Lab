@@ -118,7 +118,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
-    background_color: none
+    background_color: primary
   - type: features_section
     features:
       - title: +Economique +Ecologique
