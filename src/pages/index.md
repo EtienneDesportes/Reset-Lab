@@ -229,6 +229,6 @@ sections:
     padding_top: none
     padding_bottom: none
     has_border: false
-    background_color: none
+    background_color: primary
 template: advanced
 ---
