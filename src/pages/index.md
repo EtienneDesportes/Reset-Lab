@@ -228,7 +228,7 @@ sections:
     align: center
     padding_top: none
     padding_bottom: none
-    has_border: false
+    has_border: true
     background_color: primary
 template: advanced
 ---
