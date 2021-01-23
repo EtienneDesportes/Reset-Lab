@@ -1,6 +1,6 @@
 {
     "description": "Atelier de réparation MacBook",
-    "layout": "full-width",
+    "layout": "boxed",
     "style": "minimal",
     "palette": "blue",
     "mode": "light",
