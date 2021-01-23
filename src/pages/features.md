@@ -16,7 +16,7 @@ sections:
         video_embed_html: ''
         media_position: left
         media_width: fifty
-        image: images/logic-board-repair.jpg
+        image: images/logic-board-repair-min.jpg
       - title: Le diagnostic
         subtitle: ''
         content: >-
