@@ -20,7 +20,7 @@ sections:
     actions:
       - label: Faire un devis
         url: /general-enquiries
-        style: link
+        style: primary
     media_position: left
     media_width: fourty
     align: left
