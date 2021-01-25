@@ -8,9 +8,13 @@ sections:
       <h4><strong>Pas de souci ! Nous sommes spécialistes en
       micro-soudure</strong></h4>
       <h5><strong>Type de réparations:</strong></h5>
+      
       *   Dommage liquide
+      
       *   Rétro-éclairage
+      
       *   Problème de démarrage
+      
     actions:
       - label: Faire un devis
         url: /general-enquiries
