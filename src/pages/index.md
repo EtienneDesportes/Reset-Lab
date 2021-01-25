@@ -2,7 +2,7 @@
 title: Accueil
 sections:
   - type: hero_section
-    title: Votre MacBook est en panne ?
+    title: <font color='white'>Votre MacBook est en panne ?
     subtitle: ''
     content: >
       <h4><strong>Pas de souci ! Nous sommes spécialistes en
@@ -16,7 +16,7 @@ sections:
 
       *   Rétro-éclairage
 
-      *   Problème de démarrage
+      *   Problème de démarrage</font>
     actions:
       - label: Faire un devis
         url: /general-enquiries
