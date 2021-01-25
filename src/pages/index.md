@@ -5,7 +5,7 @@ sections:
     title: Votre MacBook est en panne ?
     subtitle: ''
     content: |
-      <h4><strong></strong></h4>
+      <h4><strong>
 
       <h5><strong>Type de réparations:</strong></h5>
 
