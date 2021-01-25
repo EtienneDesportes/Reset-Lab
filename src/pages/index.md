@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Votre MacBook est en panne ?
     subtitle: ''
-    content: ''
+    content:  >-
     actions:
       - label: Faire un devis
         url: /general-enquiries
