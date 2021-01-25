@@ -30,7 +30,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    background_image: images/background (6).jpg
+    background_image: images/background (7).jpg
     background_image_opacity: 0
   - type: grid_section
     title: L'envoi est gratuit !
