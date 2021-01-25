@@ -5,8 +5,8 @@ sections:
     title: Votre MacBook est en panne ?
     subtitle: ''
     content: >
-      <h4><strong>Pas de souci ! Nous sommes spécialistes en
-      micro-soudure</strong></h4>
+      \<font color='white'>\<h4>\<strong>Pas de souci ! Nous sommes spécialistes
+      en micro-soudure\</strong>\</h4>\</font>
 
 
       <h5><strong>Type de réparations:</strong></h5>
