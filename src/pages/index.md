@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Votre MacBook est en panne ?
     subtitle: ''
-    content: >1-
+    content: >
       <h4><strong>Pas de souci ! Nous sommes spécialistes en
       micro-soudure</strong></h4>
 
