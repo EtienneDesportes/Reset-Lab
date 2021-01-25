@@ -9,11 +9,9 @@ sections:
       micro-soudure</strong></h4>
       <h5><strong>Type de réparations:</strong></h5>
       
-      *   Dommage liquide
-      
-      *   Rétro-éclairage
-      
-      *   Problème de démarrage
+      Dommage liquide
+      Rétro-éclairage
+      Problème de démarrage
       
     actions:
       - label: Faire un devis
