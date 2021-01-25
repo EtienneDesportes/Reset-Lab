@@ -5,8 +5,10 @@ sections:
     title: Votre MacBook est en panne ?
     subtitle: ''
     content: >
-      <h4><strong>Pas de souci ! Nous sommes spécialistes en
-      micro-soudure</strong></h4>
+
+
+      <span style="color:white"><h4><strong>Pas de souci ! Nous sommes
+      spécialistes en micro-soudure</strong></h4>
 
 
       <h5><strong>Type de réparations:</strong></h5>
@@ -17,6 +19,9 @@ sections:
       *   Rétro-éclairage
 
       *   Problème de démarrage
+
+
+      \</span>
     actions:
       - label: Faire un devis
         url: /general-enquiries
