@@ -2,7 +2,7 @@
 title: Accueil
 sections:
   - type: hero_section
-    title: <div style="color: #fff;">Votre MacBook est en panne ?</div>
+    title: Votre MacBook est en panne ?
     subtitle: ''
     content: >
       <h4><strong>Pas de souci ! Nous sommes spécialistes en
