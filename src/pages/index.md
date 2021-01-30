@@ -193,22 +193,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: primary
-  - type: cta_section
-    title: Contactez-nous ici
-    content: >-
-      N'hésitez à nous poser toutes questions concernant une réparation. Nous
-      sommes la pour vous aiguiller ! 
-    actions:
-      - label: Contactez-nous
-        url: /contact
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: none
-    padding_bottom: none
-    background_color: none
-    background_image_opacity: 10
   - type: blog_feed_section
     title: Quoi de neuf ?
     subtitle: ''
@@ -230,5 +214,21 @@ sections:
     padding_bottom: none
     has_border: false
     background_color: none
+  - type: cta_section
+    title: Contactez-nous ici
+    content: >-
+      N'hésitez à nous poser toutes questions concernant une réparation. Nous
+      sommes la pour vous aiguiller ! 
+    actions:
+      - label: Contactez-nous
+        url: /contact
+        style: secondary
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: none
+    padding_bottom: none
+    background_color: none
+    background_image_opacity: 10
 template: advanced
 ---
