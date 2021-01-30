@@ -11,7 +11,7 @@ sections:
 
       <h5 style="color:white"><strong>Type de réparations:</strong></h5>
 
-<ul>
+<ul style="color:white">
 <li>Dommage liquide</li>
 <li>Rétro-éclairage</li>
 <li>Problème de démarrage</li>
