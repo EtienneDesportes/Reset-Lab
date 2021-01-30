@@ -215,7 +215,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Contactez-nous ici
+    title: Contactez-nous
     content: >-
       N'hésitez à nous poser toutes questions concernant une réparation. Nous
       sommes la pour vous aiguiller ! 
