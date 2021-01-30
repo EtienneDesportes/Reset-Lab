@@ -2,8 +2,9 @@
 title: ''
 sections:
   - type: form_section
-    content: >-
+    content: >
       **DEVIS GRATUIT**<br>
+
 
       <p style="text-align: justify;">La réparation est facturée si elle est
       réalisée avec succès. Si elle n'est pas réalisable, uniquement les frais
@@ -12,6 +13,7 @@ sections:
 
       **ENVOI ET RETOUR INCLUS**<br>
 
+
       <p style="text-align: justify;">Vous recevez une étiquette d'envoi, avec
       assurance incluse. Votre colis bien sécurisé, il ne vous reste plus qu’à
       coller l’étiquette et le déposer en point relais. </p>
@@ -19,8 +21,8 @@ sections:
 
       **GARANTIE 90 JOURS**<br>
 
-      <p style="text-align: justify;">On sait exactement ce qu’on fait, comment
-      on le fait et d’où viennent nos pièces. C’est pour cela qu’on peut vous
+
+      <p style="text-align: justify;">Notre expertise nous permet de vous
       garantir nos interventions pendant 90 jours.</p>
     content_align: left
     form_position: right
