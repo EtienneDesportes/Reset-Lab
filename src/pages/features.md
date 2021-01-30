@@ -10,7 +10,6 @@ sections:
           *   Station de soudage ERSA i-con 2
           *   Station à air chaud Quick 861dw
           *   Alimentation de labo 0-35V, 0-5A
-          *   Extracteur de fumée Ersa EASY ARM
           *   Multimètre Fluke 17b
           *   Matériel divers: Etain, flux Amtech, Alcool IPA
         video_embed_html: ''
