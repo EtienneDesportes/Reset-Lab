@@ -5,7 +5,7 @@ sections:
     title: ''
     subtitle: ''
     content: >
-      <h5>Votre MacBook est en panne ?</h5>
+      <h5><strong>Votre MacBook est en panne ?</strong></h5>
       <h4><strong>Pas de souci ! Nous sommes spécialistes en
       micro-soudure</strong></h4>
 
