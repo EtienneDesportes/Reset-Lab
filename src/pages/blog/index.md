@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ''
     actions: []
     blog_feed_cols: three
     enable_cards: false
