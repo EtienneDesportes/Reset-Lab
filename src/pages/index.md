@@ -5,7 +5,7 @@ sections:
     title: ''
     subtitle: ''
     content: >
-      \<h6>\<strong>Votre MacBook est en panne ?\</strong>\</h6>
+      ##### **Votre MacBook est en panne ?**
 
 
       <h4><strong>Pas de souci ! Nous sommes spécialistes en
