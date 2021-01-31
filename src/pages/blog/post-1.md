@@ -13,6 +13,7 @@ image_position: right
 template: post
 --
 <div style="text-align: justify">
+  
 **Une nouvelle loi**
 
 Le Parlement européen a adopté une loi visant à donner aux consommateurs de l'Union accès à plus de moyens de faire réparer leurs appareils défectueux plutôt que de les remplacer par des neufs.
