@@ -1,5 +1,5 @@
 ---
-title: 'Pour 40% des Français, le reconditionné c’est l’avenir !'
+title: 'Pour 40% des Français, le reconditionné c’est l’avenir '
 subtitle: ''
 date: '2020-12-10'
 categories:
