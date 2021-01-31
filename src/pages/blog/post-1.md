@@ -34,4 +34,3 @@ Cela permettra au consommateur de plus facilement adopter des appareils d'occasi
 
 Source : Parlement Européen
 
-\</div>
