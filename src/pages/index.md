@@ -11,14 +11,14 @@ sections:
       micro-soudure</strong></h4>
 
 
-      <h5 ><strong>Type de réparations:</strong></h5>
+      <h5 style="color:white"><strong>Type de réparations:</strong></h5>
 
 
       *   <span style="color:white">Dommage liquide</span>
 
-      *   Rétro-éclairage
+      *   <span style="color:white">Rétro-éclairage</span>
 
-      *   Problème de démarrage
+      *   <span style="color:white">Problème de démarrage</span>
       </span>
     actions:
       - label: Faire un devis
