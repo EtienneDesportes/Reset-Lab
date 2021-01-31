@@ -16,7 +16,7 @@ template: post
 image: images/infographie_pollutionnumerique(1).png
 thumb_image: images/1(1).png
 ---
-\<div style="text-align: justify">Regarder des séries sur les plateformes de VOD sur sa tablette, envoyer des dizaines de mails par jour, ou des fichiers volumineux par internet : en France, c'est finalement une petite part de la pollution numérique, qui représente un peu plus de 5% de nos émissions de gaz à effet de serre. C'est en tout cas ce qu'avance le collectif d'experts indépendants Green IT, dans [**un rapport publié ce mardi**](https://www.greenit.fr/impacts-environnementaux-du-numerique-en-france/). D’après ce rapport, **le gros de la pollution numérique en France n'est pas lié à l’usage qu’on fait de ces appareils, mais bien à leur fabrication**, qui nécessite des ressources importantes : eau, énergie et minerais notamment.
+\<p style='text-align: justify;'>Regarder des séries sur les plateformes de VOD sur sa tablette, envoyer des dizaines de mails par jour, ou des fichiers volumineux par internet : en France, c'est finalement une petite part de la pollution numérique, qui représente un peu plus de 5% de nos émissions de gaz à effet de serre. C'est en tout cas ce qu'avance le collectif d'experts indépendants Green IT, dans [**un rapport publié ce mardi**](https://www.greenit.fr/impacts-environnementaux-du-numerique-en-france/). D’après ce rapport, **le gros de la pollution numérique en France n'est pas lié à l’usage qu’on fait de ces appareils, mais bien à leur fabrication**, qui nécessite des ressources importantes : eau, énergie et minerais notamment.
 
 "*Ce qui émet beaucoup de CO2, c'est la phase où l'on extrait les
 différents matériaux, notamment les minerais, de la terre, transformés
@@ -31,8 +31,8 @@ Autre problème d'après Green IT : la multiplication de ces appareils. Il y a 
 > garder le plus longtemps possible."*
 
 Parmi les solutions proposées par le collectif d'experts, **augmenter la garantie légale**, qui est aujourd'hui de deux ans, pour l'aligner sur la durée de vie des équipements, dix ans pour une télévision par exemple. Le collectif d'experts préconise aussi de favoriser la réparation et le réemploi, et
-de **lutter contre l'obsolescence programmée**, ou les modèles économiques qui s'y apparentent : *"On peut se demander pourquoi un smartphone a une durée de vie moyenne de 24 mois. N'est-ce pas parce qu'au bout de 24 mois, mon opérateur mobile me 'donne' un nouvel équipement ?*" 
+de **lutter contre l'obsolescence programmée**, ou les modèles économiques qui s'y apparentent : *"On peut se demander pourquoi un smartphone a une durée de vie moyenne de 24 mois. N'est-ce pas parce qu'au bout de 24 mois, mon opérateur mobile me 'donne' un nouvel équipement ?*"
 
 Green IT suggère aussi d'aller plus avant dans **la mutualisation des équipements,** *"comme on a su le faire avec le smartphone"*, souligne Frédéric Bordage, "*qui maintenant remplace un lecteur MP3, un appareil photo numérique, un téléphone, et même bien souvent un ordinateur. Dans cette logique, on peut se demander s'il est vraiment pertinent que dans un immeuble de cinquante logements, chacun ait sa box internet par exemple."*
 
-Réduire l'empreinte environnementale du numérique, c'est aussi **l'objet d'une étude commandée par une mission d'information du Sénat**, publiée mercredi matin. Une mission d'information qui a d'ailleurs auditionné le collectif Green IT. \</div>
+Réduire l'empreinte environnementale du numérique, c'est aussi **l'objet d'une étude commandée par une mission d'information du Sénat**, publiée mercredi matin. Une mission d'information qui a d'ailleurs auditionné le collectif Green IT. \</p>
