@@ -1,7 +1,7 @@
 ---
 title: Blog
 sections:
-  - title: lorem-ipsum
+  - title: Quoi de neuf ?
     subtitle: ''
     actions: []
     blog_feed_cols: three
