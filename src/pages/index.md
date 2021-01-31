@@ -106,7 +106,7 @@ sections:
           **Réparation:** 450€
         image: images/unique-hickory.svg
         image_position: left
-        image_width: fourty
+        image_width: twenty-five
       - content: |-
           **Type de panne:** Batterie ne charge pas <br>
           **Modèle:** MacBook Air 2014  <br>
