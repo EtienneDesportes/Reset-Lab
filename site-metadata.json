@@ -84,11 +84,6 @@
                 "label": "News",
                 "url": "/blog/category/general",
                 "style": "link"
-            },
-            {
-                "label": "",
-                "url": "/blog/category/general",
-                "style": "link"
             }
         ],
         "has_tertiary_nav": true,
