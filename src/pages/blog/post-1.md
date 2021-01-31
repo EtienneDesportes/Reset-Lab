@@ -12,9 +12,9 @@ image: images/softoffice-pc-9-scaled (1) (2).jpg
 image_position: right
 template: post
 ---
-**Une nouvelle loi**
-
 \<div style="text-align: justify">
+
+**Une nouvelle loi**
 
 Le Parlement européen a adopté une loi visant à donner aux consommateurs de l'Union accès à plus de moyens de faire réparer leurs appareils défectueux plutôt que de les remplacer par des neufs.
 
@@ -33,7 +33,5 @@ C'est aussi dans ce cadre que le Parlement a refait mention de sa volonté qu'un
 Cela permettra au consommateur de plus facilement adopter des appareils d'occasion d'une part mais, aussi, d'acquérir le réflexe de « faire réparer » au lieu de « jeter et racheter ». Par rebond, de telles nouvelles pratiques devraient contribuer à développer des emplois et aussi, à réduire la pollution engendrée par les déchets électroniques.
 
 Source : Parlement Européen
-
-
 
 \</div>
