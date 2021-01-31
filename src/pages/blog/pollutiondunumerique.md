@@ -14,7 +14,7 @@ excerpt: ''
 image_position: left
 template: post
 image: images/infographie_pollutionnumerique(1).png
-thumb_image: images/1(1)-min.jpg
+thumb_image: images/1(1)-min(1).jpg
 ---
 \<div style="text-align: justify">
 
