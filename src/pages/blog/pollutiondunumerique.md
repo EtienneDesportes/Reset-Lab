@@ -6,7 +6,7 @@ subtitle: >-
   Le collectif d'experts indépendants Green IT publie ce mardi un rapport sur la
   pollution numérique, qui représente 5% des émissions de gaz à effet de serre
   en France. Principale cause : les appareils que nous utilisons, que nous
-  importons, et ne gardons pas assez longtemps. 
+  importons, et ne gardons pas assez longtemps.
 date: '2021-01-28'
 categories: []
 tags: []
