@@ -23,8 +23,6 @@ Pouvoir faire réparer son appareil électronique plus facilement et à moindre 
 
 Selon un baromètre européen, 79% des Européens considèrent que les fabricants devraient faire en sorte que les pièces détachées pour réparer leurs appareils soient plus facilement accessibles. 77% d'entre eux seraient tout à fait prêts à faire réparer une vitre cassée de smartphone ou un boîtier endommagé si l'acte ne coûtait pas... parfois aussi cher qu'un appareil neuf.
 
-\</div>
-
 **Un marché favorable à la réparation**
 
 Outre la mention des informations relatives la durée de vie, le texte - adopté à 395 voix pour, 94 contre et 207 abstentions - demande que les fabricants fassent en sorte de rendre leurs créations plus facilement réparables, et que les pièces utilisées pour effectuer d'éventuelles interventions soient plus accessibles et, aussi, moins coûteuses.
@@ -36,3 +34,6 @@ Cela permettra au consommateur de plus facilement adopter des appareils d'occasi
 
 Source : Parlement Européen
 
+
+
+\</div>
