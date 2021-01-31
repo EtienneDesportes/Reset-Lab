@@ -14,7 +14,7 @@ template: post
 ---
 **Une nouvelle loi**
 
-\<div style="text-align: right">Le Parlement européen a adopté une loi visant à donner aux consommateurs de l'Union accès à plus de moyens de faire réparer leurs appareils défectueux plutôt que de les remplacer par des neufs.\</div>
+\<div style="text-align: right">Le Parlement européen a adopté une loi visant à donner aux consommateurs de l'Union accès à plus de moyens de faire réparer leurs appareils défectueux plutôt que de les remplacer par des neufs.
 
 Pouvoir faire réparer son appareil électronique plus facilement et à moindre coût. Voilà, en substance, ce que la résolution adoptée par le Parlement européen récemment prévoit. Le droit à la réparation, qui vise à limiter le gaspillage, les déchets électroniques mais, aussi, à permettre aux consommateurs d'avoir des informations sur la durée de vie estimée d'un produit, est une mesure réclamée de longue date par les associations de consommateurs et de défenseurs de l'environnement.
 À ce titre, en France, un étiquetage obligatoire concernant l'indice de réparabilité d'appareils comme les smartphones ou certains appareils électro-ménagers doit entrer en vigueur dès le 1er janvier prochain.
@@ -29,5 +29,7 @@ Ainsi, les enseignes spécialisées pourraient proposer plus facilement des solu
 C'est aussi dans ce cadre que le Parlement a refait mention de sa volonté qu'un format universel de chargeur de smartphone soit étudiée de près par la Commission Européenne en vue d'une adoption à moyen terme. Car c'est à la Commission, maintenant, d'élaborer des propositions sur tous ces sujets et de se saisir du dossier pour que les pratiques d'obsolescence programmée, prématurée et les réparations périlleuses et très coûteuses d'appareils électroniques cessent.
 
 Cela permettra au consommateur de plus facilement adopter des appareils d'occasion d'une part mais, aussi, d'acquérir le réflexe de « faire réparer » au lieu de « jeter et racheter ». Par rebond, de telles nouvelles pratiques devraient contribuer à développer des emplois et aussi, à réduire la pollution engendrée par les déchets électroniques.
-<br> <br>
+ 
 Source : Parlement Européen
+
+\</div>
