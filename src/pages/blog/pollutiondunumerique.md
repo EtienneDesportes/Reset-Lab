@@ -15,7 +15,7 @@ excerpt: ''
 image_position: left
 template: post
 image: images/infographie_pollutionnumerique(1).png
-thumb_image: images/1(1)-min(2).jpg
+thumb_image: images/1537543161547-min.jpg
 ---
 <div style="text-align: justify">
 
