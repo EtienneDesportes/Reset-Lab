@@ -1,5 +1,7 @@
 ---
-title: lorem-ipsum
+title: >-
+  La pollution numérique en France est surtout due à la fabrication des
+  appareils, pas à leur utilisation
 subtitle: lorem-ipsum
 date: '2021-01-31'
 categories: []
