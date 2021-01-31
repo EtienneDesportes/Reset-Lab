@@ -1,7 +1,7 @@
 ---
 title: >-
-  La pollution numérique en France est surtout due à la fabrication des
-  appareils, pas à leur utilisation
+  La pollution numérique est surtout due à la fabrication des appareils, pas à
+  leur utilisation
 subtitle: >-
   Le collectif d'experts indépendants Green IT publie ce mardi un rapport sur la
   pollution numérique, qui représente 5% des émissions de gaz à effet de serre
