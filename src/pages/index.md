@@ -2,21 +2,21 @@
 title: Accueil
 sections:
   - type: hero_section
-    title: <h5 style="color:white">Votre MacBook est en panne ?</h5>
+    title: Votre MacBook est en panne ?
     subtitle: ''
     content: >
-      <h4 style="color:white"><strong>Pas de souci ! Nous sommes spécialistes en
+      <h4><strong>Pas de souci ! Nous sommes spécialistes en
       micro-soudure</strong></h4>
 
 
-      <h5 style="color:white"><strong>Type de réparations:</strong></h5>
+      <h5><strong>Type de réparations:</strong></h5>
 
-<ul style="color:white">
-<li>Dommage liquide</li>
-<li>Rétro-éclairage</li>
-<li>Problème de démarrage</li>
 
-</ul> 
+      *   Dommage liquide
+
+      *   Rétro-éclairage
+
+      *   Problème de démarrage
    
     actions:
       - label: Faire un devis
