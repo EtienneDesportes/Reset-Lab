@@ -1,8 +1,7 @@
 ---
 title: >-
   La fabrication des équipements numériques est le premier facteur, et le plus
-  lourd en matière de pollution. Cette étape représente à elle seule 80% des
-  impacts environnementaux liés au numérique.
+  lourd en matière de pollution.
 subtitle: >-
   Le collectif d'experts indépendants Green IT publie ce mardi un rapport sur la
   pollution numérique, qui représente 5% des émissions de gaz à effet de serre
