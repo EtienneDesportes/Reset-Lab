@@ -44,4 +44,3 @@ Cette année, bien que le Covid-19 ait bousculé les habitudes des Français, il
 
 Source: ITR
 
-\</div>
