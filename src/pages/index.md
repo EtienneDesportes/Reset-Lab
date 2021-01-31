@@ -14,7 +14,7 @@ sections:
       <h5 ><strong>Type de réparations:</strong></h5>
 
 
-      *   Dommage liquide
+      *   <span style="color:white">Dommage liquide</span>
 
       *   Rétro-éclairage
 
