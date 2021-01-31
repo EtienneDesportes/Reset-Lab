@@ -16,7 +16,7 @@ template: post
 image: images/infographie_pollutionnumerique(1).png
 thumb_image: images/1(1).png
 ---
-\<div style="text-align: right">Regarder des séries sur les plateformes de VOD sur sa tablette,
+\<div style="text-align: justify">Regarder des séries sur les plateformes de VOD sur sa tablette,
 envoyer des dizaines de mails par jour, ou des fichiers volumineux par
 internet : en France, c'est finalement une petite part de la pollution
 numérique, qui représente un peu plus de 5% de nos émissions de gaz à
