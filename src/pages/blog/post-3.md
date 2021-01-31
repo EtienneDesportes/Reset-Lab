@@ -43,4 +43,3 @@ Le smartphone perd cependant 7 points comparé à 2019, et ce notamment au profi
 Cette année, bien que le Covid-19 ait bousculé les habitudes des Français, ils sont 49% ne pas vouloir pour autant modifier leur budget Noël et souhaiter dépenser autant que l’an passé pour les Fêtes, à l’exception des Bourguignon (25%) et des Limousins (25%) qui eux, ont prévu de dépenser plus.
 
 Source: ITR
-
