@@ -14,7 +14,7 @@ template: post
 ---
 <div style="text-align: justify">
 
-De plus en plus engagés pour l’environnement, les Français feront-ils le choix d’offrir des cadeaux qui limitent leurs impacts sur la planète ? C'est ce qu'a voulu savoir Recommerce. 
+De plus en plus engagés pour l’environnement, les Français feront-ils le choix d’offrir des cadeaux qui limitent leurs impacts sur la planète ? C'est ce qu'a voulu savoir Recommerce.
 
 Cette enquête nous apprend qu'avec la crise sanitaire, 25% des français réfléchissent désormais à leur manière de consommer. « Si pour 40% des Français acheter reconditionné c'est l'avenir, pour 36% c’est aussi le bon plan parfait pour s’équiper à petits prix », ajoute Benoit Varin, co-fondateur et Secrétaire Général de Recommerce.
 
@@ -42,6 +42,6 @@ Le smartphone perd cependant 7 points comparé à 2019, et ce notamment au profi
 
 Cette année, bien que le Covid-19 ait bousculé les habitudes des Français, ils sont 49% ne pas vouloir pour autant modifier leur budget Noël et souhaiter dépenser autant que l’an passé pour les Fêtes, à l’exception des Bourguignon (25%) et des Limousins (25%) qui eux, ont prévu de dépenser plus.
 
-Source: ITR 
+Source: ITR
 
 \</div>
