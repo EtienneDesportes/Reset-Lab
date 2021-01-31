@@ -7,7 +7,7 @@ subtitle: >-
   pollution numérique, qui représente 5% des émissions de gaz à effet de serre
   en France. Principale cause : les appareils que nous utilisons, que nous
   importons, et ne gardons pas assez longtemps. 
-date: '2021-01-02'
+date: '2021-01-28'
 categories: []
 tags: []
 excerpt: lorem-ipsum
