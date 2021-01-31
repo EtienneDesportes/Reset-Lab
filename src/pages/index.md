@@ -9,7 +9,7 @@ sections:
       spécialistes en micro-soudure</strong></h4>
 
 
-      <h5><strong>Type de réparations:</strong></h5>
+      <h5 style="color:white"><strong>Type de réparations:</strong></h5>
 
 
       *   Dommage liquide
