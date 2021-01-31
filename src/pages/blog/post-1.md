@@ -7,7 +7,7 @@ date: '2020-11-26'
 categories:
   - src/data/categories/general.yaml
 excerpt: ''
-thumb_image: images/softoffice-pc-9-scaled (1) (1).jpg
+thumb_image: images/softoffice-pc-9-scaled (1) (1)-min.jpg
 image: images/softoffice-pc-9-scaled (1) (2).jpg
 image_position: right
 template: post
