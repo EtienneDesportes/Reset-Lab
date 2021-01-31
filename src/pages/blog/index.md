@@ -1,13 +1,6 @@
 ---
 title: Blog
 sections:
-  - type: hero_section
-    title: Blog
-    subtitle: ''
-    align: center
-    padding_top: none
-    padding_bottom: none
-    background_color: none
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
