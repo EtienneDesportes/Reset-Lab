@@ -13,6 +13,7 @@ tags: []
 excerpt: ''
 image_position: top
 template: post
+image: images/infographie_pollutionnumerique(1).png
 ---
 Regarder des séries sur les plateformes de VOD sur sa tablette, 
 envoyer des dizaines de mails par jour, ou des fichiers volumineux par 
