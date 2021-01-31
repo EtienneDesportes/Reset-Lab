@@ -1,13 +1,6 @@
 ---
 title: A propos
 sections:
-  - type: hero_section
-    title: A propos
-    subtitle: ''
-    align: center
-    background_color: primary
-    background_image: images/cool-crane.jpeg
-    background_image_opacity: 10
   - type: features_section
     features:
       - title: Atelier basé sur Brest
