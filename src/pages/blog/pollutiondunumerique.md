@@ -12,7 +12,7 @@ categories:
   - src/data/categories/general.yaml
 tags: []
 excerpt: ''
-image_position: left
+image_position: right
 template: post
 image: images/infographie_pollutionnumerique(1).png
 thumb_image: images/1537543161547-min.jpg
