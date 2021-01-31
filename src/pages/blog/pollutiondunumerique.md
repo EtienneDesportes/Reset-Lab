@@ -8,7 +8,8 @@ subtitle: >-
   en France. Principale cause : les appareils que nous utilisons, que nous
   importons, et ne gardons pas assez longtemps.
 date: '2021-01-28'
-categories: []
+categories:
+  - src/data/categories/general.yaml
 tags: []
 excerpt: ''
 image_position: left
