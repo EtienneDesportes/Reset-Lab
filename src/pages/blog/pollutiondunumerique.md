@@ -17,7 +17,7 @@ template: post
 image: images/infographie_pollutionnumerique(1).png
 thumb_image: images/1(1)-min(1).jpg
 ---
-\<div style="text-align: justify">
+<div style="text-align: justify">
 
 Regarder des séries sur les plateformes de VOD sur sa tablette, envoyer des dizaines de mails par jour, ou des fichiers volumineux par internet : en France, c'est finalement une petite part de la pollution numérique, qui représente un peu plus de 5% de nos émissions de gaz à effet de serre. C'est en tout cas ce qu'avance le collectif d'experts indépendants Green IT, dans [**un rapport publié ce mardi**](https://www.greenit.fr/impacts-environnementaux-du-numerique-en-france/). D’après ce rapport, **le gros de la pollution numérique en France n'est pas lié à l’usage qu’on fait de ces appareils, mais bien à leur fabrication**, qui nécessite des ressources importantes : eau, énergie et minerais notamment.
 
@@ -40,4 +40,3 @@ Green IT suggère aussi d'aller plus avant dans **la mutualisation des équipeme
 
 Réduire l'empreinte environnementale du numérique, c'est aussi **l'objet d'une étude commandée par une mission d'information du Sénat**, publiée mercredi matin. Une mission d'information qui a d'ailleurs auditionné le collectif Green IT.
 
-\</div>
