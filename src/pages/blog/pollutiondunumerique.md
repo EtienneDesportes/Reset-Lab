@@ -11,7 +11,7 @@ date: '2021-01-28'
 categories: []
 tags: []
 excerpt: ''
-image_position: top
+image_position: left
 template: post
 image: images/infographie_pollutionnumerique(1).png
 ---
