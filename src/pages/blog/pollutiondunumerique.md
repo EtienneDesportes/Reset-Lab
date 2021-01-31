@@ -10,7 +10,7 @@ subtitle: >-
 date: '2021-01-28'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: ''
 image_position: top
 template: post
 ---
