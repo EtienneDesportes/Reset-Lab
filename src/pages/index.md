@@ -2,7 +2,6 @@
 title: Accueil
 sections:
   - type: hero_section
-      - type: hero_section
     title: Votre MacBook est en panne ?
     subtitle: ''
     content: >
@@ -27,7 +26,7 @@ sections:
     align: left
     padding_top: none
     padding_bottom: none
-    background_color: secondary
+    background_color: primary
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
