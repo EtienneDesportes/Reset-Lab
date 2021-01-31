@@ -5,21 +5,21 @@ sections:
     title: ''
     subtitle: ''
     content: >
-      
-      <h2 style="color:white"><strong>Votre MacBook est en panne ?</strong></h2>
+      div<style="color:white">
+      <h2><strong>Votre MacBook est en panne ?</strong></h2>
       <h5 style="color:white"><strong>Pas de souci ! Nous sommes spécialistes en
       micro-soudure</strong></h5>
 
 
       <h5 style="color:white"><strong>Type de réparations:</strong></h5>
 
-<ul>
-    <li style="color:white">Dommage liquide</li>
 
-     <li style="color:white">Rétro-éclairage</li>
+    *Dommage liquide
 
-    <li style="color:white">Problème de démarrage</li>
-      </ul> 
+    *Rétro-éclairage
+
+    *Problème de démarrage
+     </div>
     actions:
       - label: Faire un devis
         url: /general-enquiries
