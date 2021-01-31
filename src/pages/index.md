@@ -13,13 +13,13 @@ sections:
 
       <h5 style="color:white"><strong>Type de réparations:</strong></h5>
 
+<ul>
+    <li style="color:white">Dommage liquide</li>
 
-     <span style="color:white"> *   Dommage liquide</span>
+     <li style="color:white">Rétro-éclairage</li>
 
-      <span style="color:white">*   Rétro-éclairage</span>
-
-      <span style="color:white">*   Problème de démarrage</span>
-      
+    <li style="color:white">Problème de démarrage</li>
+      </ul> 
     actions:
       - label: Faire un devis
         url: /general-enquiries
