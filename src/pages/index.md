@@ -5,13 +5,13 @@ sections:
     title: Votre MacBook est en panne ?
     subtitle: ''
     content: |
-      <h4 ><strong>
+      <h4><strong>
 
-      <h5 style="color:white"><strong>Type de réparations:</strong></h5>
+      <h5 ><strong>Type de réparations:</strong></h5>
 
-      *   \<span style="color:white">Dommage liquide\</span>
-      *   \<span style="color:white">Rétro-éclairage\</span>
-      *   \<span style="color:white">Problème de démarrage\</span>
+      *   Dommage liquide
+      *   Rétro-éclairage
+      *   Problème de démarrage
     actions:
       - label: Faire un devis
         url: /general-enquiries
