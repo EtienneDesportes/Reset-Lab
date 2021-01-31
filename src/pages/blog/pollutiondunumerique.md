@@ -40,3 +40,4 @@ Green IT suggère aussi d'aller plus avant dans **la mutualisation des équipeme
 
 Réduire l'empreinte environnementale du numérique, c'est aussi **l'objet d'une étude commandée par une mission d'information du Sénat**, publiée mercredi matin. Une mission d'information qui a d'ailleurs auditionné le collectif Green IT.
 
+Source: France Inter
