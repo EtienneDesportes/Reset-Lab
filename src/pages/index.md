@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >-
       <h3 style="color:white"><strong>Votre MacBook est en panne ?</strong></h3>
-      <h4 style="color:white"><strong>Pas de souci ! Nous sommes spécialistes en micro-soudure</strong></h4>
+      <h5 style="color:white"><strong>Pas de souci ! Nous sommes spécialistes en micro-soudure</strong></h5>
       <h5 style="color:white"><strong>Type de réparations:</strong></h5>
       <ul style="color:white">
       <li>Dommage liquide</li>
@@ -22,7 +22,7 @@ sections:
     align: left
     padding_top: none
     padding_bottom: none
-    background_color: primary
+    background_color: secondary
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
