@@ -50,7 +50,7 @@
             },
             {
                 "label": "Faire un devis",
-                "url": "/general-enquiries",
+                "url": "/",
                 "style": "primary"
             }
         ],
