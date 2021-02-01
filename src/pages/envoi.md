@@ -1,6 +1,6 @@
 ---
 title: Fonctionnement
-excerpt: lorem-ipsum
+excerpt: ''
 sections:
   - title: ''
     subtitle: ''
