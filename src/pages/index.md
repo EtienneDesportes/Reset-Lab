@@ -27,7 +27,7 @@ sections:
     background_image_opacity: 0
     has_border: false
   - type: grid_section
-    title: ''
+    title: L'envoi est gratuit !
     subtitle: ''
     grid_items:
       - title: Devis et envoi gratuit
