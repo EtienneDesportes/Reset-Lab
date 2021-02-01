@@ -9,9 +9,10 @@ sections:
           *   Microscope binoculaire Amscope 4-NTP
           *   Station de soudage ERSA i-con 2
           *   Station à air chaud Quick 861dw
-          *   Alimentation de labo 0-35V, 0-5A
+          *   Alimentation de labo Owon 0-35V, 0-5A
           *   Multimètre Fluke 17b
-          *   Matériel divers: Etain, flux Amtech, Alcool IPA
+          *   Oscilloscope Owon SDS1102
+          *   Matériel divers: Etain, Flux Amtech,  Alcool IPA
         video_embed_html: ''
         media_position: left
         media_width: fifty
