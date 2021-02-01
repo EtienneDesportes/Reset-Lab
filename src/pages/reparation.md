@@ -20,7 +20,7 @@ sections:
       - title: Le diagnostic
         subtitle: ''
         content: >
-          \<div style='text-align: justify;'> 
+          <div style='text-align: justify;'> 
 
 
           Quand un MacBook tombe en panne, il faut dans un premier temps
@@ -40,7 +40,7 @@ sections:
           On peut ainsi réparer une carte-mère sans la changer entièrement !
 
 
-          \</div>
+          </div>
         image: images/apple_macbook_air_a1466_j13_820-3209-a_rev_2.0.0_sch.pdf_2.png
         media_position: right
         media_width: fifty
