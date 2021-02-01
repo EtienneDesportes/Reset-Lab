@@ -19,8 +19,8 @@ sections:
         image: images/logic-board-repair-min.jpg
       - title: Le diagnostic
         subtitle: ''
-        content: >-
-          <p style='text-align: justify;'> Quand un MacBook tombe en panne, il
+        content: >
+          \<p style='text-align: justify;'> Quand un MacBook tombe en panne, il
           faut dans un premier temps utiliser son esprit de déduction et
           d'observation pour identifier les composants défectueux. On se
           retrouve donc dans la peau d'un détective en quelque sorte ! Toutes
@@ -30,11 +30,12 @@ sections:
           équipé d'un multimère, il faut analyser comment le circuit se comporte
           en l'état actuel et comparer avec les valeurs retrouvées sur le schéma
           du circuit. La machine injecte-elle bien assez de voltage pour
-          démarrer le onewirecircuit ? La ligne électrique PP3V42_G3H est-elle
+          démarrer le onewirecircuit ? La ligne électrique PP3V42\_G3H est-elle
           bien présente ? Résistance, fusible, condensateur, il ne faut rien
           rater. À l'aide d'une alimentation de labo, on peut injecter du
           voltage dans certaines parties du circuit afin d'en trouver les
-          courts-circuits potentiels. </p> 
+          courts-circuits potentiels. On peut ainsi réparer une carte-mère sans
+          la changer entièrement !\</p> 
         image: images/apple_macbook_air_a1466_j13_820-3209-a_rev_2.0.0_sch.pdf_2.png
         media_position: right
         media_width: fifty
