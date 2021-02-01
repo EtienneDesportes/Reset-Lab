@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Faireun
 sections:
   - type: form_section
     content: >
