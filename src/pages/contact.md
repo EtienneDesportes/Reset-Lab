@@ -57,4 +57,5 @@ sections:
     background_image: images/splendid-whale.jpeg
     background_image_opacity: 10
 template: advanced
+excerpt: J'ai une question
 ---
