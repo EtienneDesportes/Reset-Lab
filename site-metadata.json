@@ -22,7 +22,7 @@
             },
             {
                 "label": "La réparation",
-                "url": "/lareparation",
+                "url": "/reparationmacbook",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
