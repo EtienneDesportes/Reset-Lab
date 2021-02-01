@@ -5,7 +5,7 @@ sections:
     title: ''
     subtitle: ''
     content: >
-      <h2 style="color:white"><strong>Votre MacBook est en panne ?</strong></h2>
+      <h1 style="color:white"><strong>Votre MacBook est en panne ?</strong></h1>
       <h4 style="color:white"><strong>Pas de souci ! Nous sommes spécialistes en
       micro-soudure</strong></h4> <h5 style="color:white">Type de
       réparations:</h5> <ul style="color:white"> <li>Dommage liquide</li>
