@@ -5,9 +5,10 @@ sections:
     title: ''
     subtitle: ''
     content: >-
-      <h4><strong>Pas de souci ! Nous sommes spécialistes en micro-soudure</strong></h4>
-      <h5 ><strong>Type de réparations:</strong></h5>
-      <ul>
+      <h3 style="color:white"><strong>Votre MacBook est en panne ?</strong></h3>
+      <h4 style="color:white"><strong>Pas de souci ! Nous sommes spécialistes en micro-soudure</strong></h4>
+      <h5 style="color:white"><strong>Type de réparations:</strong></h5>
+      <ul style="color:white">
       <li>Dommage liquide</li>
       <li>Rétro-éclairage</li>
       <li>Problème de démarrage</li>
