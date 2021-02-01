@@ -3,6 +3,7 @@ title: Conditions Générales d'Utilisation
 template: page
 ---
 <div style="text-align: justify">
+  
 **1. A propos de nous**
 
 La Société RESET LAB, dont le siège social est à BREST (29200) 28 rue Duret, immatriculée au registre du commerce et des sociétés de BREST sous le numéro 82 283 125 100 019. La Société commercialise, à ses Clients via son Site Internet, les produits suivants : Prestation de service - Réparation MacBook.
