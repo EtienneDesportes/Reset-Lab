@@ -96,4 +96,5 @@ sections:
     background_image_opacity: 10
     background_image: images/perpetual-yam.jpeg
 template: advanced
+excerpt: Réparer mon MacBook
 ---
