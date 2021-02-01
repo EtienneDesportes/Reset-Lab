@@ -64,5 +64,6 @@ sections:
     has_border: false
     background_color: primary
     background_image: images/knowledgeable-whale.jpeg
+    background_image_opacity: 10
 template: advanced
 ---
