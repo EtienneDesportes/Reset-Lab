@@ -6,13 +6,10 @@ sections:
     subtitle: ''
     content: >-
       <h1 style="color:white"><strong>Votre MacBook est en panne ?</strong></h1>
-      <h4 style="color:white"><strong>Pas de souci ! Nous sommes spécialistes en micro-soudure</strong></h4>
-      <h5 style="color:white">Type de réparations:</h5>
-      <ul style="color:white">
-      <li>Dommage liquide</li>
-      <li>Rétro-éclairage</li>
-      <li>Problème de démarrage</li>
-      </ul> 
+      <h4 style="color:white"><strong>Pas de souci ! Nous sommes spécialistes en
+      micro-soudure</strong></h4> <h5 style="color:white">Type de
+      réparations:</h5> <ul style="color:white"> <li>Dommage liquide</li>
+      <li>Rétro-éclairage</li> <li>Problème de démarrage</li> </ul> 
     actions:
       - label: Faire un devis
         url: /general-enquiries
@@ -115,6 +112,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: primary
+    background_image: images/itl.cat_motherboard-wallpaper_2557381(1).jpeg
   - type: features_section
     features:
       - title: +Economique +Ecologique
