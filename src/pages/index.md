@@ -25,6 +25,7 @@ sections:
     background_image_repeat: no-repeat
     background_image: images/magnificent-lavender.jpg
     background_image_opacity: 0
+    has_border: true
   - type: grid_section
     title: L'envoi est gratuit !
     subtitle: ''
