@@ -54,5 +54,6 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: primary
+    background_image: images/splendid-whale.jpeg
 template: advanced
 ---
