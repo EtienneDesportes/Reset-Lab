@@ -12,7 +12,7 @@ sections:
       <li>Rétro-éclairage</li> <li>Problème de démarrage</li> </ul> 
     actions:
       - label: Faire un devis
-        url: /general-enquiries
+        url: /faireundevis
         style: primary
     media_position: bottom
     media_width: fourty
