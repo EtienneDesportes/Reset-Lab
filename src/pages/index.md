@@ -14,7 +14,7 @@ sections:
       - label: Faire un devis
         url: /general-enquiries
         style: primary
-    media_position: left
+    media_position: bottom
     media_width: fourty
     align: left
     padding_top: none
