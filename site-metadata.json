@@ -22,7 +22,7 @@
             },
             {
                 "label": "La réparation",
-                "url": "/features",
+                "url": "/lareparation",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
