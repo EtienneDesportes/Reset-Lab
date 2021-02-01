@@ -58,3 +58,5 @@ L’Utilisateur dispose de la possibilité de bloquer, modifier la durée de con
 
 Reset Lab
 28 rue Duret, Brest 29200
+
+\</div>
