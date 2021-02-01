@@ -36,7 +36,7 @@ sections:
         content_align: center
         actions:
           - label: J'ai une question !
-            url: /question
+            url: /questions
             style: primary
             has_icon: true
             icon: arrow-right
