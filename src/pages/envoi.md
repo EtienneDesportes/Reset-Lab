@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Fonctionnement
 excerpt: lorem-ipsum
 sections:
   - title: ''
