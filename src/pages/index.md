@@ -230,4 +230,5 @@ sections:
     background_image_opacity: 10
     background_image: images/modern-pineapple.jpeg
 template: advanced
+excerpt: Réparer mon MacBook
 ---
