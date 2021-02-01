@@ -189,6 +189,7 @@ sections:
     align: center
     background_color: primary
     background_image: images/beige-aspen.jpeg
+    background_image_opacity: 10
   - type: blog_feed_section
     title: Quoi de neuf ?
     subtitle: ''
