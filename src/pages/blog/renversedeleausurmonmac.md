@@ -31,7 +31,7 @@ Ouvrez votre Mac si vous avez les outils (Tournevis Pentalobe P5) et déconnecte
 
 ##### Étape 5. Absorber autant de liquide que possible
 
-Il est temps d’absorber l’eau ou le liquide que vous avez renversé sur votre MacBook. Le moyen le plus simple de le faire est de l'essuyer avec une serviette en papier ou un tissu en coton. Veillez à ne pas allumer accidentellement votre Mac en appuyant sur le bouton d'alimentation. Si vous le faites, maintenez à nouveau le bouton enfoncé pour allumer votre Mac.
+Il est temps d’absorber l’eau ou le liquide que vous avez renversé sur votre MacBook. Le moyen le plus simple de le faire est de l'essuyer avec une serviette en papier ou un tissu en coton. Veillez à ne pas allumer accidentellement votre Mac en appuyant sur le bouton d'alimentation. 
 
 ##### Étape 6. Laissez votre MacBook sécher à l'air pendant au moins 48 heures
 
@@ -43,7 +43,7 @@ Attendez au minimum 48 heures, voire le double, pour que votre MacBook sèche à
 
 Restez patient et attendez au moins 48 heures avant de rallumer votre MacBook. Cela permet à l'eau ou au liquide que vous avez renversé à l'intérieur de votre MacBook de sécher, ce qui lui donne les meilleures chances de survivre à long terme.
 
-Malheureusement, même si votre MacBook semble fonctionner parfaitement, vous risquez de rencontrer de nouveaux problèmes plus tard. L'une des pires choses à propos du renversement de liquide sur votre MacBook est que les composants continuent de rouiller même après avoir séché.
+Malheureusement, même si votre MacBook semble fonctionner parfaitement, vous risquez de rencontrer de nouveaux problèmes plus tard. L'une des pires choses à propos du renversement de liquide sur votre MacBook est que les composants continuent de rouiller même après avoir séchés.
 
 ##### Le type de liquide renversé sur mon MacBook a-t-il une importance ?
 
