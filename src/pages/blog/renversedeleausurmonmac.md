@@ -37,8 +37,6 @@ Il est temps d’absorber l’eau ou le liquide que vous avez renversé sur votr
 
 À ce stade, vous êtes probablement tenté d'allumer votre MacBook pour voir s'il fonctionne toujours. C'est une mauvaise idée. Même si votre MacBook s'allume, il y a probablement encore du liquide sur les composants internes. Lorsque vous l'allumez, le courant électrique traversant ces composants humides peut causer de nombreux dommages supplémentaires.
 
-Attendez au minimum 48 heures, voire le double, pour que votre MacBook sèche à l'air.
-
 Malheureusement, même si votre MacBook semble fonctionner parfaitement, vous risquez de rencontrer de nouveaux problèmes plus tard. L'une des pires choses à propos du renversement de liquide sur votre MacBook est que les composants continuent de rouiller même après avoir séchés.
 
 ##### Le type de liquide renversé sur mon MacBook a-t-il une importance ?
