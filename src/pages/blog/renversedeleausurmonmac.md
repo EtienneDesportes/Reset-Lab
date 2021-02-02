@@ -17,7 +17,7 @@ image: images/maroon-goose.svg
 
 ##### Étape 1. Éteignez votre MacBook immédiatement
 
-Si vous avez renversé de l'eau alors qu'il était allumé, vous devez l'éteindre immédiatement. N'enregistrez pas d'abord votre travail, ne fermez pas vos applications, n'ouvrez même pas le menu. Maintenez le bouton d'alimentation enfoncé jusqu'à ce que votre MacBook s'éteigne.
+Si vous avez renversé de l'eau alors qu'il était allumé, vous devez l'éteindre immédiatement. N'enregistrez pas votre travail, ne fermez pas vos applications, ne commandez rien à manger. Maintenez le bouton d'alimentation enfoncé jusqu'à ce que votre MacBook s'éteigne.
 
 ##### Étape 2. Retournez votre MacBook
 
@@ -25,7 +25,7 @@ Déplacer le vers un endroit sec sur le bureau ou le pêcher hors de la piscine,
 
 ##### Étape 4. Déconnectez la batterie
 
-Ouvrez votre Mac si vous avez les outils (Tournevis Pentalobe P5) et déconnectez la batterie. Au plus tôt celle-ci sera débranchée, au mieux toutes oxydations de la carte-mère sera évitée.
+Ouvrez votre Mac si vous avez les outils (Tournevis Pentalobe P5) et déconnectez la batterie. Au plus tôt celle-ci sera débranchée, au mieux toutes oxydations de la carte-mère seront évitées.
 
 ##### Étape 5. Absorber autant de liquide que possible
 
@@ -36,8 +36,6 @@ Il est temps d’absorber l’eau ou le liquide que vous avez renversé sur votr
 À ce stade, vous êtes probablement tenté d'allumer votre MacBook pour voir s'il fonctionne toujours. C'est une mauvaise idée. Même si votre MacBook s'allume, il y a probablement encore du liquide sur les composants internes. Lorsque vous l'allumez, le courant électrique traversant ces composants humides peut causer de nombreux dommages supplémentaires.
 
 Attendez au minimum 48 heures, voire le double, pour que votre MacBook sèche à l'air.
-
-Posez votre MacBook ouvert et à l'envers sur une serviette, l'écran suspendu au-dessus du bord d'une table. Assurez-vous que votre Mac est bien équilibré et qu'il ne risque pas de tomber Quoi que vous fassiez, évitez la chaleur. Une chaleur excessive est mauvaise pour les composants à l'intérieur de votre MacBook et peut causer davantage de dommages. N'utilisez pas de sèche-cheveux et ne placez pas votre MacBook sur un radiateur. Vous pouvez utiliser des sachets de gel de silice pour favoriser l’absorption, mais n’utilisez pas de riz sec. Les granules de riz se logent à l'intérieur de vos ports et provoquent la formation de résidus nocifs sur les composants internes.
 
 ##### Étape 7. Attendez que votre MacBook soit complètement sec
 
