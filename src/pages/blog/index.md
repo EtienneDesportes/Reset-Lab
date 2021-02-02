@@ -24,4 +24,5 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
 template: advanced
+excerpt: Mon MacBook est en panne
 ---
