@@ -82,7 +82,7 @@
             },
             {
                 "label": "Tutoriels",
-                "url": "/blog",
+                "url": "/blog/tutoriels",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
