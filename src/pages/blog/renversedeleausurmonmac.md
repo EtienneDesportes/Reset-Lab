@@ -9,37 +9,31 @@ excerpt: J'ai renversé de l'eau sur mon mac ! Voici ce que vous devez faire
 image_position: top
 template: post
 ---
-*C’est un scénario cauchemardesque: vous venez de renverser de l’eau ou un autre liquide sur votre cher MacBook. Pas de panique. Évidemment, ce n'est pas l'idéal, mais si vous suivez les instructions ci-dessous, vous pourriez encore sauver votre ordinateur.*
+*C’est un scénario cauchemardesque: vous venez de renverser de l’eau ou un autre liquide sur votre cher MacBook. Pas de panique. Évidemment, ce n'est pas l'idéal, mais si vous suivez les instructions ci-dessous, vous pouvez encore le sauver !*
 
 **Règle numéro:** Quoi que vous fassiez, ne l’allumer pas pour vérifier s’il fonctionne toujours !
 
 Si vous avez renversé de l'eau ou du liquide sur votre MacBook, suivez ces instructions d'aussi près que possible pour avoir les meilleures chances d'éviter les dommages causés par le liquide.
 
-##### Étape 1. Déconnectez votre MacBook de l'alimentation en toute sécurité
+##### Étape 1. Éteignez votre MacBook immédiatement
 
-Si votre MacBook est en cours de chargement, débranchez le chargeur du mur pour votre sécurité. Vous devez le faire avant de déplacer votre MacBook dans un espace sec, même si cela signifie que plus de liquide se répand sur votre MacBook entre-temps. Ne vous en faites pas si votre MacBook est déchargé de sa batterie.
-
-##### Étape 2. Éteignez votre MacBook immédiatement
-
-Si vous avez renversé de l'eau sur votre MacBook alors qu'il était allumé, vous devez l'éteindre immédiatement. N'enregistrez pas d'abord votre travail, ne fermez pas vos applications, n'ouvrez même pas le menu Apple.
+Si vous avez renversé de l'eau alors qu'il était allumé, vous devez l'éteindre immédiatement. N'enregistrez pas d'abord votre travail, ne fermez pas vos applications, n'ouvrez même pas le menu.
 
 Maintenez le bouton d'alimentation enfoncé jusqu'à ce que votre MacBook s'éteigne.
 
-##### Étape 3. Déplacez votre MacBook dans un espace sec
+##### Étape 2. Déplacez votre MacBook dans un espace sec
 
-Maintenant que vous avez déconnecté toutes les sources d’alimentation, vous devriez pouvoir retirer votre MacBook du liquide en toute sécurité. Cela peut signifier le déplacer vers un endroit sec sur le bureau ou le pêcher hors de la piscine, selon ce qui s'est passé. 
+Déplacer le vers un endroit sec sur le bureau ou le pêcher hors de la piscine, selon ce qui s'est passé.
 
-Poser le au-dessus d'une serviette ou un autre matériau absorbant dans un espace sûr et sec.
+Poser le au-dessus d'une serviette de bain ou un autre matériau absorbant dans un espace sûr et sec.
 
-##### Étape 4. Débranchez les accessoires et déconnectez la batterie
+##### Étape 4. Déconnectez la batterie
 
-Débranchez tous les appareils externes ou accessoires connectés à votre Mac. Cela inclut les périphériques de stockage externes, les moniteurs et même les périphériques d'entrée comme une souris ou un clavier.
-
-Ouvrez votre Mac si vous avez les outils (Tournevis Pentalobe P5) et déconnectez la batterie. Au plus tôt celle-ci sera débranché, au mieux toutes oxydations de la carte-mère sera évité. 
+Ouvrez votre Mac si vous avez les outils (Tournevis Pentalobe P5) et déconnectez la batterie. Au plus tôt celle-ci sera débranchée, au mieux toutes oxydations de la carte-mère sera évitée.
 
 ##### Étape 5. Absorber autant de liquide que possible
 
-Il est temps d’absorber l’eau ou le liquide que vous avez renversé sur votre MacBook. Le moyen le plus simple de le faire est de l'essuyer avec une serviette en papier ou un tissu en coton. 
+Il est temps d’absorber l’eau ou le liquide que vous avez renversé sur votre MacBook. Le moyen le plus simple de le faire est de l'essuyer avec une serviette en papier ou un tissu en coton.
 
 Veillez à ne pas allumer accidentellement votre Mac en appuyant sur le bouton d'alimentation. Si vous le faites, maintenez à nouveau le bouton enfoncé pour allumer votre Mac.
 
@@ -61,11 +55,11 @@ Vous pouvez utiliser des sachets de gel de silice pour favoriser l’absorption,
 
 Restez patient et attendez au moins 48 heures avant de rallumer votre MacBook. Cela permet à l'eau ou au liquide que vous avez renversé à l'intérieur de votre MacBook de sécher, ce qui lui donne les meilleures chances de survivre à long terme.
 
-Malheureusement, même si votre MacBook semble fonctionner parfaitement, vous risquez de rencontrer de nouveaux problèmes plus tard. L'une des pires choses à propos du renversement de liquide sur votre MacBook est que les composants continuent de se corroder et de rouiller même après avoir séché.
+Malheureusement, même si votre MacBook semble fonctionner parfaitement, vous risquez de rencontrer de nouveaux problèmes plus tard. L'une des pires choses à propos du renversement de liquide sur votre MacBook est que les composants continuent de rouiller même après avoir séché.
 
-##### Le type de liquide renversé sur mon MacBook a-t-il une importance?
+##### Le type de liquide renversé sur mon MacBook a-t-il une importance ?
 
-Oui. Certains liquides sont susceptibles de causer plus de dégâts que d'autres. Par exemple, la bière et les sodas deviennent collants lorsqu'ils sèchent et l'eau salé laisse un résidu conducteur.
+Oui. Certains liquides sont susceptibles de causer plus de dégâts que d'autres. Par exemple, la bière et les sodas deviennent collants lorsqu'ils sèchent et l'eau salée laisse un résidu conducteur.
 
 Les "meilleurs" liquides a renverser sur votre MacBook sont de l'eau distillée ou de l'alcool 100%.
 
