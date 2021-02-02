@@ -1,6 +1,6 @@
 ---
 title: J'ai renversé de l'eau sur mon Macbook ! Que faire ?
-subtitle: lorem-ipsum
+subtitle: 'Le guide complet pour éviter '
 date: '2021-02-02'
 categories: []
 tags: []
