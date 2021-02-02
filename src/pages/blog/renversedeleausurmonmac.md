@@ -1,5 +1,5 @@
 ---
-title: J'ai renversé de l'eau sur mon Macbook? Voici ce que vous devez fa
+title: J'ai renversé de l'eau sur mon Macbook ! Voici ce que vous devez fa
 subtitle: lorem-ipsum
 date: '2021-02-02'
 categories: []
