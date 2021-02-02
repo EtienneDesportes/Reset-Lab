@@ -5,7 +5,7 @@ date: '2021-02-02'
 categories:
   - src/data/categories/tutorials.yaml
 tags: []
-excerpt: 'J''ai renversé de l''eau sur mon mac ! '
+excerpt: J'ai renversé de l'eau sur mon mac ! Voici ce
 image_position: top
 template: post
 ---
