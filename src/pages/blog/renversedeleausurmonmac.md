@@ -6,7 +6,7 @@ categories:
   - src/data/categories/tutorials.yaml
 tags: []
 excerpt: J'ai renversé de l'eau sur mon mac ! Voici ce que vous devez faire
-image_position: top
+image_position: right
 template: post
 thumb_image: images/remarkable-spinach.svg
 image: images/maroon-goose.svg
