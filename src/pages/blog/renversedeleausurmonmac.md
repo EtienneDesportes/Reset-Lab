@@ -9,6 +9,7 @@ excerpt: J'ai renversé de l'eau sur mon mac ! Voici ce que vous devez faire
 image_position: top
 template: post
 thumb_image: images/remarkable-spinach.svg
+image: images/maroon-goose.svg
 ---
 *C’est un scénario cauchemardesque: vous venez de renverser de l’eau ou un autre liquide sur votre cher MacBook. Pas de panique. Évidemment, ce n'est pas l'idéal, mais si vous suivez les instructions ci-dessous, vous pouvez encore le sauver !*
 
