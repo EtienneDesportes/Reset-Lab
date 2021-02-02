@@ -11,6 +11,8 @@ template: post
 thumb_image: images/remarkable-spinach.svg
 image: images/maroon-goose.svg
 ---
+\<div style="text-align: justify">
+
 *C’est un scénario cauchemardesque: vous venez de renverser de l’eau ou un autre liquide sur votre cher MacBook. Pas de panique. Évidemment, ce n'est pas l'idéal, mais si vous suivez les instructions ci-dessous, vous pouvez encore le sauver !*
 
 **Règle numéro 1 :** Quoi que vous fassiez, ne l’allumer pas pour vérifier s’il fonctionne toujours !
@@ -50,3 +52,5 @@ Oui. Certains liquides sont susceptibles de causer plus de dégâts que d'autres
 Les "meilleurs" liquides a renverser sur votre MacBook sont de l'eau distillée ou de l'alcool 100%.
 
 ##### Si votre MacBook ne se rallume toujours pas après ces étapes, faites-le réparer chez nous. On s'en occupe !
+
+\</div>
