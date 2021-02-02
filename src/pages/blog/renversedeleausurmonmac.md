@@ -15,8 +15,6 @@ image: images/maroon-goose.svg
 
 **Règle numéro 1 :** Quoi que vous fassiez, ne l’allumer pas pour vérifier s’il fonctionne toujours !
 
-Si vous avez renversé de l'eau ou du liquide sur votre MacBook, suivez ces instructions d'aussi près que possible pour avoir les meilleures chances d'éviter les dommages causés par le liquide.
-
 ##### Étape 1. Éteignez votre MacBook immédiatement
 
 Si vous avez renversé de l'eau alors qu'il était allumé, vous devez l'éteindre immédiatement. N'enregistrez pas d'abord votre travail, ne fermez pas vos applications, n'ouvrez même pas le menu. Maintenez le bouton d'alimentation enfoncé jusqu'à ce que votre MacBook s'éteigne.
