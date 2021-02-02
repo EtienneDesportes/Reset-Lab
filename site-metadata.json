@@ -79,16 +79,6 @@
                 "label": "News",
                 "url": "/blog",
                 "style": "link"
-            },
-            {
-                "label": "Tutoriels",
-                "url": "/blog/tutoriels",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "type": "action"
             }
         ],
         "has_tertiary_nav": true,
