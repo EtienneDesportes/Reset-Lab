@@ -76,7 +76,7 @@
         "secondary_nav_title": "Blog",
         "secondary_nav_links": [
             {
-                "label": "Posts",
+                "label": "Articles",
                 "url": "/blog",
                 "style": "link"
             }
