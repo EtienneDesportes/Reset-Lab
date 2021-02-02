@@ -53,7 +53,7 @@ sections:
           - 'MacBook Pro '
           - MacBook
           - Iphone
-          - lorem-ipsum
+          - Je ne sais pas
         is_required: true
       - input_type: select
         name: type de pannes
