@@ -73,5 +73,5 @@ sections:
     background_image: images/knowledgeable-whale.jpeg
     background_image_opacity: 10
 template: advanced
-excerpt: Micro-Soudure
+excerpt: 'Micro-Soudure - J''ai renversé de l''eau sur mon Mac, c''est grave ?'
 ---
