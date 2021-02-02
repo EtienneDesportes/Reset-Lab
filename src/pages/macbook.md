@@ -1,6 +1,6 @@
 ---
 title: Fonctionnement
-excerpt: Réparer mon MacBook
+excerpt: 'Réparer mon MacBook '
 sections:
   - title: ''
     subtitle: ''
