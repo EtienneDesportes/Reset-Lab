@@ -1,7 +1,7 @@
 ---
 title: 'J''ai renversé de l''eau sur mon Macbook ! '
 subtitle: Le guide ultime pour éviter la catastrophe
-date: '2021-02-02'
+date: '2020-02-02'
 categories:
   - src/data/categories/tutorials.yaml
 tags: []
