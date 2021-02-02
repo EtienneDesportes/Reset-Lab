@@ -52,7 +52,7 @@ sections:
           - MacBook Air
           - 'MacBook Pro '
           - MacBook
-          - lorem-ipsum
+          - Iphone
         is_required: true
       - input_type: select
         name: type de pannes
