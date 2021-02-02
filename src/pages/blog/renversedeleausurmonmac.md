@@ -13,7 +13,7 @@ image: images/maroon-goose.svg
 ---
 *C’est un scénario cauchemardesque: vous venez de renverser de l’eau ou un autre liquide sur votre cher MacBook. Pas de panique. Évidemment, ce n'est pas l'idéal, mais si vous suivez les instructions ci-dessous, vous pouvez encore le sauver !*
 
-**Règle numéro:** Quoi que vous fassiez, ne l’allumer pas pour vérifier s’il fonctionne toujours !
+**Règle numéro 1 :** Quoi que vous fassiez, ne l’allumer pas pour vérifier s’il fonctionne toujours !
 
 Si vous avez renversé de l'eau ou du liquide sur votre MacBook, suivez ces instructions d'aussi près que possible pour avoir les meilleures chances d'éviter les dommages causés par le liquide.
 
