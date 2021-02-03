@@ -7,8 +7,8 @@ sections:
     content: >
       <h1 style="color:white"><strong>Votre MacBook est en panne ?</strong></h1>
       <h4 style="color:white"><strong>Pas de souci ! Nous sommes spécialistes en
-      micro-soudure</strong></h4> <h5 style="color:white">Réparations carte-mère
-      :</h5> <ul style="color:white"> <li>Dommage liquide</li>
+      micro-soudure</strong></h4> <h5 style="color:white">Réparation de
+      carte-mère :</h5> <ul style="color:white"> <li>Dommage liquide</li>
       <li>Rétro-éclairage</li> <li>Problème de démarrage</li> </ul> 
     actions:
       - label: Faire un devis
