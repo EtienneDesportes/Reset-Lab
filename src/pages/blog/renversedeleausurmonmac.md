@@ -19,7 +19,7 @@ image: images/maroon-goose.svg
 
 ##### Étape 1. Éteignez votre MacBook immédiatement
 
-Si vous avez renversé de l'eau alors qu'il était allumé, vous devez l'éteindre immédiatement. N'enregistrez pas votre travail, ne fermez pas vos applications, ne commandez rien à manger. Maintenez le bouton d'alimentation enfoncé jusqu'à ce que votre MacBook s'éteigne.
+Si vous avez renversé de l'eau alors qu'il était allumé, vous devez l'éteindre immédiatement. N'enregistrez pas votre travail, ne fermez pas vos applications. Maintenez le bouton d'alimentation enfoncé jusqu'à ce que votre MacBook s'éteigne.
 
 ##### Étape 2. Retournez votre MacBook
 
