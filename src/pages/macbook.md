@@ -125,13 +125,14 @@ sections:
       - title: ''
         subtitle: ''
         title_align: center
-        content: >-
-          **Devis et envoi gratuit**
+        content: >
+          **Devis et Envoi gratuit**
+
 
           <p style='text-align: justify;'>Après confirmation du devis, une
-          étiquette d’envoi avec assurance vous sera envoyé. Il ne vous reste
-          plus qu’à coller l’étiquette sur votre colis bien sécurisé et le
-          déposer en point relais. </p>
+          étiquette d’envoi avec assurance vous sera envoyée. Il ne vous reste
+          plus qu’à coller l’étiquette sur votre colis bien sécurisé et de le
+          déposer à votre poste. </p>
         content_align: center
         actions: []
         actions_align: left
