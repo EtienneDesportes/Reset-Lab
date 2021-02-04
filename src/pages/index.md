@@ -31,7 +31,7 @@ sections:
     title: L'envoi est gratuit !
     subtitle: ''
     grid_items:
-      - title: Devis et envoi gratuit
+      - title: Devis et Envoi gratuit
         title_align: center
         content: >-
           <p style='text-align: justify;'>Après confirmation du devis, une
