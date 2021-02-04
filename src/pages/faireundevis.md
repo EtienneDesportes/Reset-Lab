@@ -66,7 +66,7 @@ sections:
           - Batterie ne charge pas
           - Ventilateurs soufflent constamment
           - 'J''en ai aucune idée ! '
-          - lorem-ipsum
+          - Récupération de données
           - lorem-ipsum
         is_required: false
         type: form_field
