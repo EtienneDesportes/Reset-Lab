@@ -60,10 +60,10 @@ sections:
         image_has_padding: true
       - title: Retour & Règlement
         title_align: center
-        content: >-
+        content: >
           <p style='text-align: justify;'>Vous réglez uniquement le devis si la
           réparation est finalisée avec succès. On vous renvoie gratuitement
-          votre Mac en colis assuré.</p>
+          votre machine en colis assuré.</p>
         content_align: center
         actions: []
         actions_align: left
