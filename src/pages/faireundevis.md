@@ -65,8 +65,8 @@ sections:
           - 'Problème démarrage '
           - Batterie ne charge pas
           - Ventilateurs soufflent constamment
-          - 'J''en ai aucune idée ! '
           - Récupération de données
+          - 'J''en ai aucune idée ! '
           - lorem-ipsum
         is_required: false
         type: form_field
