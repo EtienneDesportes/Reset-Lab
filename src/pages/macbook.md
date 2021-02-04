@@ -164,12 +164,13 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: >-
+        content: >
           **Retour & Règlement**
+
 
           <p style='text-align: justify;'>Vous ne réglez uniquement le devis si
           réparation est finalisé avec succès. On vous renvoie gratuitement
-          votre Mac, en colis bien emballé et assuré par nos soins.</p>
+          votre machine, en colis bien emballé et assuré par nos soins.</p>
         content_align: center
         actions: []
         actions_align: left
