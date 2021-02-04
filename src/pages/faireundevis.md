@@ -67,6 +67,7 @@ sections:
           - Ventilateurs soufflent constamment
           - 'J''en ai aucune idée ! '
           - lorem-ipsum
+          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: select
