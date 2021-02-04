@@ -37,7 +37,7 @@ sections:
           <p style='text-align: justify;'>Après confirmation du devis, une
           étiquette d’envoi avec assurance vous sera envoyée. Il ne vous reste
           plus qu’à coller l’étiquette sur votre colis bien sécurisé et de le
-          déposer à votre poste. </p>
+          déposer en bureau de poste. </p>
         content_align: center
         actions: []
         actions_align: left
