@@ -4,18 +4,20 @@ excerpt: 'Réparer mon MacBook '
 sections:
   - title: ''
     subtitle: ''
-    content: >2-
-       **La carte mère est réparable :** 
+    content: >
+      **La carte mère est réparable :**
+
+
       <p style='text-align: justify;'>Vous réglez en ligne par CB le montant
-      indiqué sur le devis. L’envoi du Mac et son retour par colis sont
-      assurés et gratuits.</p>
+      indiqué sur le devis. L’envoi et retour par colis sont assurés et
+      gratuits.</p>
 
 
       **La carte mère n’est pas réparable :** <br>
 
 
       Vous serez informé par e-mail. Le retour de votre Mac est facturé 30€
-      TTC si vous n'êtes pas sur Brest. Aucun autre frais ne s’applique. 
+      TTC si vous n'êtes pas sur Brest. Aucun autre frais ne s’applique.
     actions: []
     video_embed_html: ''
     media_position: left
