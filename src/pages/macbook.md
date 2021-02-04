@@ -16,8 +16,8 @@ sections:
       **La carte mère n’est pas réparable :** <br>
 
 
-      Vous serez informé par e-mail. Le retour de votre Mac est facturé 30€
-      TTC si vous n'êtes pas sur Brest. Aucun autre frais ne s’applique.
+      Vous serez informé par e-mail. Le retour de votre MacBook est facturé
+      30€ TTC si vous n'êtes pas sur Brest. Aucun autre frais ne s’applique.
     actions: []
     video_embed_html: ''
     media_position: left
