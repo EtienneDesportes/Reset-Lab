@@ -50,7 +50,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: select
-        name: Modèle MacBook
+        name: 'Modèle '
         label: Modèle MacBook
         default_value: Sélectionner
         options:
