@@ -42,6 +42,13 @@ sections:
         label: Email
         default_value: 'Votre adresse email '
         is_required: true
+      - input_type: number
+        name: Téléphone
+        label: Numéro pour vous joindre
+        default_value: Numéro
+        options: []
+        is_required: false
+        type: form_field
       - input_type: select
         name: Modèle MacBook
         label: Modèle MacBook
@@ -91,13 +98,6 @@ sections:
         name: message
         label: Message
         default_value: Votre message
-      - input_type: number
-        name: Téléphone
-        label: Numéro pour vous joindre
-        default_value: Numéro
-        options: []
-        is_required: false
-        type: form_field
     submit_label: Envoyer ma demande
     align_vert: top
     padding_top: medium
