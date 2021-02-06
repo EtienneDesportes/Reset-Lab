@@ -92,7 +92,7 @@ sections:
         label: Message
         default_value: Votre message
       - input_type: number
-        name: 'Numéro '
+        name: Téléphone
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
