@@ -74,6 +74,7 @@ sections:
           - Ventilateurs soufflent constamment
           - Récupération de données
           - 'J''en ai aucune idée ! '
+          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: select
