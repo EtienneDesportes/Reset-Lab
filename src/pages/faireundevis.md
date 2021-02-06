@@ -45,7 +45,7 @@ sections:
       - input_type: tel
         name: Téléphone
         label: Téléphone
-        default_value: Votre Numéro
+        default_value: Votre Numérn
         options: []
         is_required: false
         type: form_field
