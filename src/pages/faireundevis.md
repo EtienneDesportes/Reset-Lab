@@ -93,7 +93,7 @@ sections:
         default_value: Votre message
       - input_type: number
         name: Téléphone
-        label: Téléphone
+        label: Numéro pour vous joindre
         default_value: lorem-ipsum
         options: []
         is_required: false
