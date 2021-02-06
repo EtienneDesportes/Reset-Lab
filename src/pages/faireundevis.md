@@ -51,7 +51,7 @@ sections:
         type: form_field
       - input_type: select
         name: 'Modèle '
-        label: Modèle de
+        label: L'appareil à réparer
         default_value: Sélectionner
         options:
           - MacBook Pro Retina
