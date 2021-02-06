@@ -94,7 +94,7 @@ sections:
       - input_type: number
         name: Téléphone
         label: Numéro pour vous joindre
-        default_value: lorem-ipsum
+        default_value: Numéro
         options: []
         is_required: false
         type: form_field
