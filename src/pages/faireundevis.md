@@ -51,7 +51,7 @@ sections:
         type: form_field
       - input_type: select
         name: 'Modèle '
-        label: Modèle du produit
+        label: Modèle de l'appareil
         default_value: Sélectionner
         options:
           - MacBook Pro Retina
