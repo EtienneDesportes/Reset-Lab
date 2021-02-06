@@ -44,7 +44,7 @@ sections:
         is_required: true
       - input_type: number
         name: Téléphone
-        label: Numéro pour vous joindre
+        label: Téléphone
         default_value: Numéro
         options: []
         is_required: false
