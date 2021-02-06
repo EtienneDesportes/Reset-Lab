@@ -73,8 +73,8 @@ sections:
           - Batterie ne charge pas
           - Ventilateurs soufflent constamment
           - Récupération de données
-          - 'J''en ai aucune idée ! '
           - Remplacement Batterie
+          - 'J''en ai aucune idée ! '
         is_required: false
         type: form_field
       - input_type: select
