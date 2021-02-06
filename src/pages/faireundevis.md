@@ -42,7 +42,7 @@ sections:
         label: Email
         default_value: 'Votre adresse email '
         is_required: true
-      - input_type: number
+      - input_type: tel
         name: Téléphone
         label: Téléphone
         default_value: Numéro
