@@ -6,7 +6,6 @@ sections:
       - title: ''
         subtitle: ''
         content: >
-          Atelier de réparation basé sur Brest depuis 2020. <br>
 
 
           <div style="text-align: justify"><strong>Etienne Desportes </strong>:
