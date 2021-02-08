@@ -3,7 +3,7 @@ title: A propos
 sections:
   - type: features_section
     features:
-      - title: Atelier de réparation basé sur Brest depuis 2020
+      - title: Création d'un atelier
         subtitle: ''
         content: >
           <div style="text-align: justify"><strong>Etienne Desportes </strong>:
