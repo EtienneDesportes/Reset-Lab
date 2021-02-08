@@ -3,7 +3,7 @@ title: A propos
 sections:
   - type: features_section
     features:
-      - title: ''
+      - title: Atelier de réparation basé sur Brest depuis 2020
         subtitle: ''
         content: >
 
