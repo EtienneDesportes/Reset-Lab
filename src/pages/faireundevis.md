@@ -61,7 +61,7 @@ sections:
           - MacBook
           - Iphone
           - Je ne sais pas
-          - lorem-ipsum
+          - Ipad
         is_required: true
       - input_type: select
         name: type de pannes
