@@ -75,8 +75,8 @@ sections:
           - Ventilateurs soufflent constamment
           - Récupération de données
           - Remplacement Batterie
-          - 'J''en ai aucune idée ! '
           - Connecteur cassé
+          - 'J''en ai aucune idée ! '
         is_required: false
         type: form_field
       - input_type: select
