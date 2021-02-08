@@ -175,7 +175,7 @@ sections:
           qu’en soit la raison, nous avons l'éxperience pour identifier la
           source du problème, et réparer votre carte mère, plutôt que de la
           changer. Notre expertise nous permet de résoudre les pannnes les plus
-          complexes, donner une seconde chance à votre machine !</p>
+          complexes, donnez une seconde chance à votre machine !</p>
         actions:
           - label: Faire un devis
             url: /faireundevis
