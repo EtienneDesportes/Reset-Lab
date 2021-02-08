@@ -4,7 +4,7 @@ sections:
   - type: features_section
     features:
       - title: ''
-        subtitle: Atelier de réparation basé sur Brest
+        subtitle: ''
         content: >
           <div style="text-align: justify">En 2020, Etienne Desportes, bricoleur
           en tout genre, décide d'ouvrir son atelier pour redonner aux
