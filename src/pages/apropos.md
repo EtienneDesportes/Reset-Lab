@@ -5,7 +5,7 @@ sections:
     features:
       - title: Atelier basé sur Brest
         subtitle: ''
-        content: 
+        content: <
           Atelier de réparation basé sur Brest depuis 2020. <br>
 
 
