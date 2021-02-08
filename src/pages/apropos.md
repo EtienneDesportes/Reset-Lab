@@ -6,8 +6,6 @@ sections:
       - title: Atelier de réparation basé sur Brest depuis 2020
         subtitle: ''
         content: >
-
-
           <div style="text-align: justify"><strong>Etienne Desportes </strong>:
           Chef réparateur, diplômé d'ingénieur en suisse de la formation
           trinationale mécatronique de Bâle. Si vous êtes dans le coin vous
