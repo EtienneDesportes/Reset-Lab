@@ -6,7 +6,7 @@ sections:
       - title: ''
         subtitle: ''
         content: >
-          <h2>Atelier de réparation basé sur Brest</h2>
+          <h3>Atelier de réparation basé sur Brest</h3>
 
 
           <div style="text-align: justify">En 2020, Etienne Desportes, bricoleur
