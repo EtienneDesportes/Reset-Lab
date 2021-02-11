@@ -14,9 +14,9 @@ sections:
           pour redonner aux technologies du quotidien la valeur qu'ils méritent
           : <strong>rien ne se jette, tout est réparable</strong>. Diplômé de la
           formaton trinationale mécatronique en suisse, l'électronique est une
-          réelle passion pour lui. Si vous êtes sur Brest vous pouvez
-          directement venir déposer votre machine. On se fera un plaisir de vous
-          expliquer comment on procède.
+          réelle passion. Si vous êtes sur Brest vous pouvez directement venir
+          déposer votre machine. On se fera un plaisir de vous expliquer comment
+          on procède.
 
 
           </div>
