@@ -90,7 +90,6 @@ models:
         label: Footer configuration
         models:
           - footer
-  
   header:
     type: object
     label: Header configuration
