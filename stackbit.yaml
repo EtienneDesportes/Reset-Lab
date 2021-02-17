@@ -94,7 +94,7 @@ models:
    type: object
    label: Page meta data
    fields:
-     - type: string
+    - type: string
       name: title
       label: Title
       description: The page title that goes into the <title> tag
