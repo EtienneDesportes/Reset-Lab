@@ -29,12 +29,15 @@ models:
       - type: string
         name: domain
         label: Domain
-      - type: string
-        name: description
-        label: Site description
-        description: The default site description used in meta data
+        description: >-
+          The domain of your site, including the protocol, e.g.
+          https://mysite.com/
+      - type: image
+        name: favicon
+        label: Favicon
+        description: A square icon that represents your website
       - type: enum
-        name: layout
+        name: layout_type
         label: Layout
         options:
           - full-width
@@ -89,7 +92,7 @@ models:
         name: footer
         label: Footer configuration
         models:
-          - footer 
+          - footer
   header:
     type: object
     label: Header configuration
@@ -103,6 +106,10 @@ models:
         name: logo
         label: Logo
         description: The logo image displayed on the left side
+      - type: string
+        name: logo_alt
+        label: Logo alt text
+        description: The alt text of the logo image
       - type: boolean
         name: has_primary_nav
         label: Enable primary navigation menu
@@ -174,6 +181,10 @@ models:
         name: logo
         label: Logo
         description: The logo image displayed on the left side
+      - type: string
+        name: logo_alt
+        label: Logo alt text
+        description: The alt text of the logo image
       - type: boolean
         name: has_primary_nav
         label: Enable primary navigation menu
@@ -273,8 +284,10 @@ models:
         label: Last name
       - type: image
         name: photo
-        label: Photo
-        description: The photo of the author
+        label: Image
+      - type: string
+        name: photo_alt
+        label: Image alt text
   category:
     type: data
     label: Category
@@ -324,10 +337,10 @@ models:
         label: Title
         description: The title of the page
         required: true
-      - type: string
-        name: excerpt
-        label: Excerpt
-        description: The excerpt of the page displayed in meta data
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
   post:
     type: page
     urlPath: '/blog/{slug}'
@@ -379,18 +392,26 @@ models:
       - type: string
         name: excerpt
         label: Excerpt
-        description: The excerpt of the post displayed in the blog feed and meta data
+        description: The excerpt of the post displayed in the blog feed
       - type: image
         name: thumb_image
-        label: Blog feed image
+        label: Image (blog feed)
         description: The image displayed in the blog feed
+      - type: string
+        name: thumb_image_alt
+        label: Image alt text (blog feed)
+        description: The alt text of the blog feed image
       - type: image
         name: image
-        label: Featured image
-        description: The image displayed in the blog post
+        label: Image (single post)
+        description: The image displayed in the single post
+      - type: string
+        name: image_alt
+        label: Image alt text (single post)
+        description: The alt text of the single post image
       - type: enum
         name: image_position
-        label: Featured image position
+        label: Image position (single post)
         options:
           - left
           - right
@@ -399,6 +420,10 @@ models:
         description: >-
           The featured image position in the blog post relative to the post
           header content
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
   advanced:
     type: page
     label: Advanced page
@@ -410,10 +435,6 @@ models:
         label: Title
         description: The title of the page
         required: true
-      - type: string
-        name: excerpt
-        label: Excerpt
-        description: The excerpt of the page displayed in meta data
       - type: list
         name: sections
         label: Sections
@@ -428,6 +449,10 @@ models:
             - blog_feed_section
             - cta_section
             - form_section
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
   hero_section:
     type: object
     label: Hero section
@@ -456,6 +481,10 @@ models:
         name: image
         label: Image
         description: The image of the section
+      - type: string
+        name: image_alt
+        label: Image alt text
+        description: The alt text of the section image
       - type: text
         name: video_embed_html
         label: Video Embed Code
@@ -1356,6 +1385,10 @@ models:
         name: image
         label: Image
         description: The image of the feature
+      - type: string
+        name: image_alt
+        label: Image alt text
+        description: The alt text of the feature image
       - type: text
         name: video_embed_html
         label: Video Embed Code
@@ -1455,6 +1488,10 @@ models:
         name: image
         label: Image
         description: The image of the item
+      - type: string
+        name: image_alt
+        label: Image alt text
+        description: The alt text of the item image
       - type: enum
         name: image_position
         label: Image position
@@ -1587,7 +1624,12 @@ models:
         name: new_window
         label: Open in new tab/window
         default: false
-stackbit_page_meta:
+      - type: boolean
+        name: no_follow
+        label: No follow
+        default: false
+        description: Add rel="nofollow" attribute to the link
+  stackbit_page_meta:
     type: object
     label: Page meta data
     fields:
