@@ -95,5 +95,6 @@
         "content": "&copy; ResetLab. Atelier de réparation MacBook. "
     },
     "title": "Reset Lab - Mon MacBook est en panne - Spécialiste réparation Apple",
-    "domain": "https://www.resetlab.fr"
+    "domain": "https://www.resetlab.fr",
+    "favicon": "images/Réparermacbook.svg"
 }
