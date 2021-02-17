@@ -11,7 +11,7 @@ thumb_image: images/softoffice-pc-9-scaled (1) (1)-min.jpg
 image: images/softoffice-pc-9-scaled (1) (2).jpg
 image_position: right
 template: post
-thumb_image_alt: Micro-
+thumb_image_alt: Micro-Soudure Macbook
 ---
 <div style='text-align: justify;'>
 
