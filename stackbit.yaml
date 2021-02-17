@@ -26,6 +26,9 @@ models:
         label: Title
         description: Site title
         required: true
+              - type: string
+        name: domain
+        label: Domain
       - type: string
         name: description
         label: Site description
