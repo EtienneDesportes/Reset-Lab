@@ -147,6 +147,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/icon.svg
+        image_alt: Envoyer mon colis
       - title: ''
         subtitle: ''
         title_align: left
