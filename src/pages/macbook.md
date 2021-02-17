@@ -71,7 +71,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/rainy-stegosaurus.svg
-        image_alt: Eau dans mon macbook
+        image_alt: Iphone ne démarre pas
       - title: ''
         subtitle: ''
         title_align: left
