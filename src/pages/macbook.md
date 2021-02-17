@@ -167,6 +167,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/diagnostics-icon.svg
+        image_alt: 'Réparation Apple Brest '
       - title: ''
         subtitle: ''
         title_align: left
