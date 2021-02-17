@@ -53,6 +53,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/kind-giraffe.svg
+        image_alt: Ecran marche pas Macbook
       - title: ''
         subtitle: ''
         title_align: left
