@@ -60,7 +60,7 @@ sections:
         image: images/remarkable-mint.svg
         image_position: left
         image_width: thirty-three
-        image_alt: J'ai renversé de l'eau sur MacBook
+        image_alt: J'ai renversé de l'eau sur mon MacBook
       - content: |
           **Type de panne:** Dommage liquide <br>
           **Modèle:** MacBook Pro Touchbar 15 pouces<br>
