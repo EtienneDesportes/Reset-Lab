@@ -107,6 +107,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/magenta-pluto.svg
+        image_alt: Ipad ne charge pas
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
