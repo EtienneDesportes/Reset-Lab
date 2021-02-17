@@ -17,7 +17,7 @@ sections:
         media_position: left
         media_width: fifty
         image: images/logic-board-repair-min.jpg
-        image_alt: Réparation Micro-soudure MacBook
+        image_alt: Réparation Carte-mère MacBook
       - title: Le diagnostic
         subtitle: ''
         content: >
