@@ -233,7 +233,7 @@ sections:
 template: advanced
 excerpt: Réparer mon MacBook
 seo:
-  title: ''
+  title: Reset Lab - Réparation Apple sur Brest
   description: ''
   robots: []
   extra: []
