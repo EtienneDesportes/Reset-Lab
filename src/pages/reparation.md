@@ -59,7 +59,7 @@ sections:
         align: left
         type: feature
         image: images/multiple pannes.svg
-        image_alt: 'Réparation '
+        image_alt: Micro
   - type: cta_section
     title: Vous avez besoin d'une réparation ?
     content: Nous sommes spécialistes en micro-soudure MacBook
