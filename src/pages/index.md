@@ -247,7 +247,8 @@ seo:
   title: Reset Lab - Réparation Apple sur Brest
   description: >-
     Votre Appareil Apple est en panne ? Nous sommes spécialistes en réparation
-    MacBook Iphone Ipad. Venez déposer votre machine ! 
+    et micro-soudure pour MacBook / Iphone / Ipad. Venez déposer votre machine
+    ! 
   robots: []
   extra:
     - name: 'og:image'
