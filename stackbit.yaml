@@ -91,9 +91,9 @@ models:
         models:
           - footer
   stackbit_page_meta:
-  type: object
-  label: Page meta data
-  fields:
+   type: object
+   label: Page meta data
+   fields:
     - type: string
       name: title
       label: Title
