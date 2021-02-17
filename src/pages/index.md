@@ -116,6 +116,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        image_alt: Réparation Macbook Brest
       - title: Retour & Règlement
         title_align: center
         content: >
