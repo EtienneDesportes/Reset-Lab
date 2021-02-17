@@ -377,7 +377,7 @@ models:
         required: true
       - type: model
         name: seo
-      models:
+        models:
         - stackbit_page_meta
       - type: string
         name: excerpt
