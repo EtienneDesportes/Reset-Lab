@@ -17,6 +17,7 @@ template: post
 image: images/infographie_pollutionnumerique(1).png
 thumb_image: images/1537543161547-min.jpg
 thumb_image_alt: Pollution du numérique
+image_alt: Réparation Ipad Brest
 ---
 <div style="text-align: justify">
 
