@@ -188,6 +188,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/icon-maintenance.svg
+        image_alt: Réparation Ipad Brest
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
