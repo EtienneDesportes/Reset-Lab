@@ -234,7 +234,9 @@ template: advanced
 excerpt: Réparer mon MacBook
 seo:
   title: Reset Lab - Réparation Apple sur Brest
-  description: ''
+  description: >-
+    Votre MacBook est en panne ? Nous sommes spécialistes pour MacBook Iphone
+    Ipad en micro-soudure. Réparation de carte-mère.
   robots: []
   extra: []
   type: stackbit_page_meta
