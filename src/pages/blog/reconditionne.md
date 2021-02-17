@@ -11,6 +11,7 @@ thumb_image: >-
 image: images/square-strawberry.jpeg
 image_position: right
 template: post
+thumb_image_alt: Appareil recond
 ---
 <div style="text-align: justify">
 
