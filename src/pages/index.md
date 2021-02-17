@@ -52,7 +52,7 @@ sections:
         image: images/retroeclairage mac.svg
         image_position: left
         image_width: thirty-three
-        image_alt: Réparation MacBook Brest
+        image_alt: 'Réparation MacBook '
       - content: |
           **Type de panne:** Dommage liquide <br>
           **Modèle:** MacBook pro Retina 15 pouces <br>
