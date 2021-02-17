@@ -249,6 +249,10 @@ seo:
     Votre Appareil Apple est en panne ? Nous sommes spécialistes en réparation
     MacBook Iphone Ipad. Venez déposer votre machine ! 
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/réparation-macbook-brest.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 ---
