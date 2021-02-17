@@ -11,6 +11,7 @@ template: post
 thumb_image: images/remarkable-spinach.svg
 image: images/maroon-goose.svg
 thumb_image_alt: Mon mac a pris l'eau
+image_alt: 'J''ai renversé de l''eau '
 ---
 <div style="text-align: justify">
 
