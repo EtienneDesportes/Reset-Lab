@@ -12,6 +12,7 @@ image: images/softoffice-pc-9-scaled (1) (2).jpg
 image_position: right
 template: post
 thumb_image_alt: Micro-Soudure Macbook
+image_alt: Réparation MacBook Brest
 ---
 <div style='text-align: justify;'>
 
