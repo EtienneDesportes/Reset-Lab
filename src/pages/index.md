@@ -38,7 +38,7 @@ sections:
     feature_padding_vert: small
     background_color: none
     background_image_opacity: 10
-    subtitle: ''
+    subtitle: +Economique +Ecologique
     background_image_position: center center
   - type: grid_section
     title: Exemples de réparations
