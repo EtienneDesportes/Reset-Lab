@@ -68,6 +68,7 @@ sections:
         image: images/unique-hickory.svg
         image_position: left
         image_width: thirty-three
+        image_alt: Dommage liquide Macbook
       - content: |-
           **Type de panne:** Batterie ne charge pas <br>
           **Modèle:** MacBook Air 2014  <br>
