@@ -23,6 +23,7 @@ models:
     fields:
       - type: string
         name: title
+        name: domain
         label: Title
         description: Site title
         required: true
