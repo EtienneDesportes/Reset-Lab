@@ -248,8 +248,6 @@ seo:
   description: >-
     Votre MacBook est en panne ? Nous sommes spécialistes pour MacBook Iphone
     Ipad en micro-soudure. 
-
-    Réparation de carte-mère.
   robots: []
   extra: []
   type: stackbit_page_meta
