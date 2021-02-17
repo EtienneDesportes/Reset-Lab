@@ -76,6 +76,7 @@ sections:
         image: images/batterie mac.svg
         image_position: left
         image_width: thirty-three
+        image_alt: Batterie en panne Macbook
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
