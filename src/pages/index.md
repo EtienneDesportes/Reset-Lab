@@ -29,8 +29,7 @@ sections:
     has_border: false
   - type: features_section
     features:
-      - title: +Economique +Ecologique
-        subtitle: ''
+      - subtitle: ''
         image: images/mighty-whale.svg
         media_position: right
         media_width: thirty-three
