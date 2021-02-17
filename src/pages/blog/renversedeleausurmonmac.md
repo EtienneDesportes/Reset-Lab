@@ -10,7 +10,7 @@ image_position: right
 template: post
 thumb_image: images/remarkable-spinach.svg
 image: images/maroon-goose.svg
-thumb_image_alt: Mon mac
+thumb_image_alt: Mon mac a pris l'eau
 ---
 <div style="text-align: justify">
 
