@@ -12,6 +12,7 @@ image: images/square-strawberry.jpeg
 image_position: right
 template: post
 thumb_image_alt: Appareil reconditionné
+image_alt: Réparation Iphone Brest
 ---
 <div style="text-align: justify">
 
