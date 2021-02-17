@@ -89,7 +89,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/mighty-amaranth.png
-        image_alt: 'Dommage liquide '
+        image_alt: Dommage liquide Ipad
       - title: ''
         subtitle: ''
         title_align: left
