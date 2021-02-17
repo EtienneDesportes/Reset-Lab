@@ -161,6 +161,7 @@ sections:
         image: images/famous-tomato.svg
         media_position: right
         media_width: fifty
+        image_alt: 'Eau sur '
       - title: Rétro-Eclairage
         content: >-
           <p style="text-align:justify;">Vous arrivez plus ou moins à voir une
