@@ -71,7 +71,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/rainy-stegosaurus.svg
-        image_alt: Iphone ne démarre pas
+        image_alt: Iphone réparation
       - title: ''
         subtitle: ''
         title_align: left
