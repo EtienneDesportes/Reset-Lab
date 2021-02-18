@@ -37,7 +37,7 @@ sections:
         align: right
         title: +Economique +Ecologique
         image_alt: Réparation Smartphone Brest
-    feature_padding_vert: small
+    feature_padding_vert: medium
     background_color: none
     background_image_opacity: 10
     background_image_position: center center
