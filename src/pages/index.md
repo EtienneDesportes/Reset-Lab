@@ -2,7 +2,7 @@
 title: Accueil
 sections:
   - type: hero_section
-    title: ''
+    title: Réparations Macbook / Ipad / Iphone
     subtitle: ''
     content: >
       <h1 style="color:white"><strong>Réparations Macbook / Ipad /
