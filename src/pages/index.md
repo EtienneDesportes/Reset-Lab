@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: ''
     content: >
-      <h1 style="color:white">Macbook / Ipad / Iphone</h1> <h4
+      <h1 style="color:white">Réparation Macbook / Ipad / Iphone</h1> <h4
       style="color:white">Vous avez besoin d'une réparation ? Nous sommes
       spécialistes en micro-soudure</h4> <h5 style="color:white">Réparations de
       carte-mère :</h5> <ul style="color:white"> <li>Dommage liquide</li>
