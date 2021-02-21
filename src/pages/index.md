@@ -5,9 +5,9 @@ sections:
     title: ''
     subtitle: ''
     content: >
-      <h1 style="color:white"><strong>Votre Appareil est en panne
-      ?</strong></h1> <h4 style="color:white"><strong>Pas de souci ! Nous sommes
-      spécialistes en micro-soudure</strong></h4> <h5
+      <h1 style="color:white"><strong>Réparations Macbook / Ipad /
+      Iphone</strong></h1> <h4 style="color:white"><strong>Pas de souci ! Nous
+      sommes spécialistes en micro-soudure</strong></h4> <h5
       style="color:white">Réparations de carte-mère :</h5> <ul
       style="color:white"> <li>Dommage liquide</li> <li>Rétro-éclairage</li>
       <li>Problème de démarrage</li> <li>Récupération de données</li></ul> 
