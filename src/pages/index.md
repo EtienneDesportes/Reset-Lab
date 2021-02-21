@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: ''
     content: >
-      <h1 style="color:white; font-size:24pt;">Vous avez besoin d'une réparation
+      <h1 style="color:white; font-size:25pt;">Vous avez besoin d'une réparation
       ?</h1> <h1 style="color:white; font-size:19pt;">Nous sommes spécialistes
       Macbook / Ipad / Iphone</h1> <h2 style="color:white ;
       font-size:16pt;">Réparations de carte-mère :</h2> <ul style="color:white">
