@@ -4,12 +4,12 @@ sections:
   - type: hero_section
     subtitle: ''
     content: >
-      <h1 style="color:white; font-size:23pt;">Réparation Mac / Ipad /
-      Iphone</h1> <h4 style="color:white; font-size:18pt;">Nous sommes
-      spécialistes en micro-soudure</h4> <h5 style="color:white">Réparations de
-      carte-mère :</h5> <ul style="color:white"> <li>Dommage liquide</li>
-      <li>Rétro-éclairage</li> <li>Problème de démarrage</li> <li>Récupération
-      de données</li></ul> 
+      <h1 style="color:white; font-size:23pt;">Vous avez besoin d'une réparation
+      Mac / Ipad / Iphone ?</h1> <h4 style="color:white; font-size:18pt;">Nous
+      sommes spécialistes en micro-soudure !</h4> <h5
+      style="color:white">Réparations de carte-mère :</h5> <ul
+      style="color:white"> <li>Dommage liquide</li> <li>Rétro-éclairage</li>
+      <li>Problème de démarrage</li> <li>Récupération de données</li></ul> 
     actions:
       - label: Faire un devis
         url: /faireundevis
