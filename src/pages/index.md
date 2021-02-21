@@ -4,13 +4,12 @@ sections:
   - type: hero_section
     subtitle: ''
     content: >
-      <h1 style="color:white; font-size:25pt;"><strong>Vous avez besoin d'une
-      réparation ?</strong></h1> <h1 style="color:white; font-size:18pt;
-      font-style: normal;">Nous sommes spécialistes Macbook / Ipad / Iphone</h1>
-      <h2 style="color:white ; font-size:16pt;">Réparations de carte-mère :</h2>
-      <ul style="color:white"> <li>Dommage liquide</li>
-      <li>Rétro-éclairage</li> <li>Problème de démarrage</li> <li>Récupération
-      de données</li></ul> 
+      <h1 style="color:white; font-size:25pt;">Vous avez besoin d'une réparation
+      ?</h1> <h1 style="color:white; font-size:16pt;">Nous sommes spécialistes
+      Macbook / Ipad / Iphone</h1> <h2 style="color:white ;
+      font-size:16pt;">Réparations de carte-mère :</h2> <ul style="color:white">
+      <li>Dommage liquide</li> <li>Rétro-éclairage</li> <li>Problème de
+      démarrage</li> <li>Récupération de données</li></ul> 
     actions:
       - label: Faire un devis
         url: /faireundevis
