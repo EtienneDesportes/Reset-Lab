@@ -1,5 +1,5 @@
 ---
-title: 'Accueil - '
+title: Accueil - Réparation Macbook / Ipad / Iphone basé sur Brest
 sections:
   - type: hero_section
     subtitle: ''
