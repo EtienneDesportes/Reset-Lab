@@ -1,5 +1,5 @@
 ---
-title: Accueil
+title: 'Accueil - '
 sections:
   - type: hero_section
     subtitle: ''
