@@ -59,7 +59,8 @@
         "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
-        "anncmnt_id": "Réparation MacBook"
+        "anncmnt_id": "Réparation MacBook",
+        "logo_alt": "Reset Lab - Réparation Macbook / Ipad / Iphone basé sur Brest"
     },
     "footer": {
         "logo": "images/super-hickory.svg",
