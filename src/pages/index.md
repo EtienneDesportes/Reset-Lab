@@ -47,25 +47,23 @@ sections:
       - content: |
           **Type de panne:** Rétro-eclairage <br>
           **Modèle:** MacBook pro Retina 15 pouces <br>
-          **Réparation:** 260€
+          **Réparation:** 240€
         image: images/retroeclairage mac.svg
         image_position: left
         image_width: thirty-three
-        image_alt: 'Réparation Ecran MacBook '
+        image_alt: Réparation MacBook
       - content: |
           **Type de panne:** Dommage liquide <br>
           **Modèle:** MacBook pro Retina 15 pouces <br>
-          **Réparation:** 320€
+          **Réparation:** 280€
         image: images/remarkable-mint.svg
         image_position: left
         image_width: thirty-three
         image_alt: J'ai renversé de l'eau sur mon MacBook
       - content: |
-          **Type de panne:** Dommage liquide
-
-          **Modèle:** MacBook Pro Touchbar 15 pouces
-
-          **Réparation:** 420€
+          **Type de panne:** Dommage liquide <br>
+          **Modèle:** MacBook Pro Touchbar 15 pouces <br>
+          **Réparation:** 380€
         image: images/unique-hickory.svg
         image_position: left
         image_width: thirty-three
@@ -73,7 +71,7 @@ sections:
       - content: |-
           **Type de panne:** Batterie ne charge pas <br>
           **Modèle:** MacBook Air 2014  <br>
-          **Réparation:** 280€
+          **Réparation:** 260€
         image: images/batterie mac.svg
         image_position: left
         image_width: thirty-three
