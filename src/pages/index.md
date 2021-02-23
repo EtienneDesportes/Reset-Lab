@@ -60,12 +60,9 @@ sections:
         image_position: left
         image_width: thirty-three
         image_alt: J'ai renversé de l'eau sur mon MacBook
-      - content: |
-          **Type de panne:** Dommage liquide
-
-          **Modèle:** MacBook Pro Touchbar 15 pouces
-
-          **Réparation:** 420€
+      - content: >
+          **Type de panne:** Dommage liquide** **\</br>**Modèle:** MacBook Pro
+          Touchbar 15 pouces** **\</br>**Réparation:** 420€
         image: images/unique-hickory.svg
         image_position: left
         image_width: thirty-three
