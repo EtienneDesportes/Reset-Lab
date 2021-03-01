@@ -246,7 +246,7 @@ seo:
   title: Reset Lab - Réparation Apple
   description: >-
     Votre MacBook / Iphone / Ipad est en panne ? Nous sommes spécialistes en
-    réparation de carte-mère. Venez déposer votre machine ! 
+    réparation de carte-mère. Venez déposer votre machine sur Brest ! 
   robots: []
   extra:
     - name: 'og:image'
