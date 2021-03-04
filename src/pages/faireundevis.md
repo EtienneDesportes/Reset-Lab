@@ -8,8 +8,7 @@ sections:
 
       <p style="text-align: justify;">La réparation est facturée si elle est
       réalisée avec succès. Si elle n'est pas réalisable, uniquement les frais
-      d'envoi seront à votre charge. Nous pouvons vous prêter un MacBook le
-      temps de la réparation.</p>
+      d'envoi seront à votre charge.</p>
 
 
       **ENVOI ET RETOUR INCLUS**<br>
