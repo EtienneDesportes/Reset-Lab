@@ -61,8 +61,8 @@ sections:
           - MacBook
           - Iphone
           - Ipad
-          - Je ne sais pas
           - Imac
+          - Je ne sais pas
         is_required: true
       - input_type: select
         name: type de pannes
