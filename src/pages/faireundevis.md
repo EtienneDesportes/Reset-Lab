@@ -2,14 +2,14 @@
 title: Faireundevis
 sections:
   - type: form_section
-    content: >+
+    content: >
       **DEVIS GRATUIT**<br>
 
 
       <p style="text-align: justify;">La réparation est facturée si elle est
       réalisée avec succès. Si elle n'est pas réalisable, uniquement les frais
       d'envoi seront à votre charge. Nous pouvons vous prêter un MacBook le
-      temps de la réparation pour 20 €.</p>
+      temps de la réparation.</p>
 
 
       **ENVOI ET RETOUR INCLUS**<br>
@@ -25,7 +25,6 @@ sections:
 
       <p style="text-align: justify;">Notre expertise nous permet de vous
       garantir nos interventions pendant 90 jours.</p>
-
     content_align: left
     form_position: right
     form_width: fifty
