@@ -245,8 +245,8 @@ excerpt: Réparer mon MacBook
 seo:
   title: Reset Lab - Réparation Apple
   description: >-
-    Votre MacBook / Iphone / Ipad est en panne ? Nous sommes spécialistes en
-    réparation de carte-mère. Venez déposer votre machine sur Brest ! 
+    Votre MacBook / Iphone / Ipad / Imac est en panne ? Nous sommes spécialistes
+    en réparation de carte-mère. Venez déposer votre machine sur Brest ! 
   robots: []
   extra:
     - name: 'og:image'
