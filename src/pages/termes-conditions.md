@@ -4,8 +4,6 @@ template: page
 ---
 <div style="text-align: justify">
 
-
-
 **1. A propos de nous**
 
 La Société RESET LAB, dont le siège social est à BREST (29200) 28 rue Duret, immatriculée au registre du commerce et des sociétés de BREST sous le numéro 82 283 125 100 019. La Société commercialise, à ses Clients via son Site Internet, les produits suivants : Prestation de service - Réparation MacBook.
@@ -26,7 +24,7 @@ L'enregistrement sur le Site entraîne le traitement des données à caractère 
 
 Ce traitement des données à caractère personnel se fait dans le respect du Règlement Général sur la Protection des Données 2016/679 du 27 avril 2016.
 
-Par ailleurs, conformément à la loi Informatique et Libertés du 6 janvier 1978, le Client dispose, à tout moment, d'un droit d'interrogation, d'accès, de rectification, de modification et d'opposition à l'ensemble de ses données personnelles en écrivant, par courrier et en justifiant de son identité, à l'adresse suivante : resetlab@gmail.com .
+Par ailleurs, conformément à la loi Informatique et Libertés du 6 janvier 1978, le Client dispose, à tout moment, d'un droit d'interrogation, d'accès, de rectification, de modification et d'opposition à l'ensemble de ses données personnelles en écrivant, par courrier et en justifiant de son identité, à l'adresse suivante : "etienne@resetlab.fr".
 
 Ces données personnelles sont nécessaires au traitement de sa Commande et à l'établissement de ses factures le cas échéant, ainsi qu'à l'amélioration des fonctionnalités du Site.
 
