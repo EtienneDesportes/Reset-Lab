@@ -53,11 +53,16 @@ sections:
       - title: MacBook Touchbar 2017
         title_align: left
         content: >
-          <p style="text-align:justify; font-style: italic;">Je pensais mon mac
+          <p style="text-align:justify; font-style: italic;">"Je pensais mon mac
           book pro définitivement mort après avoir renversé du café dessus mais
           Reset Lab l'a sauvé, il est comme neuf! Milles Merci, même Apple le
           disait perdu! Un grand bravo pour l'efficacité et le
-          professionnalisme!</p>
+          professionnalisme!"</p>
+
+
+
+
+          Naomi Baudy
         content_align: left
         actions: []
         actions_align: left
