@@ -28,8 +28,7 @@ sections:
 
       **REPARATION AVEC SATISFACTION GARANTIE**<br>
 
-      <p style="text-align: justify;">Vous réglez uniquement le devis
-      indiqué sur le devis si la réparation est réalisée.</p>
+      <p style="text-align: justify;">Vous réglez uniquement le devis si la réparation est réalisée.</p>
     content_align: left
     form_position: right
     form_width: fifty
