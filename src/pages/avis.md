@@ -103,7 +103,7 @@ sections:
         content: |
           Très Pro, prix correct, mon MacbookPro re-fonctionne a merveille!
 
-          Julien Scheffelmeier
+          Julien 
         content_align: left
         actions: []
         actions_align: left
