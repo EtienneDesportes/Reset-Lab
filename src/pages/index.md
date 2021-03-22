@@ -192,7 +192,7 @@ sections:
             icon_position: right
         image: images/green-iron.svg
         media_position: right
-        media_width: fifty
+        media_width: fourty
         image_alt: Macbook ne démarre pas
     feature_padding_vert: large
     align: center
