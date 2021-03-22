@@ -156,6 +156,7 @@ sections:
         media_position: right
         media_width: thirty-three
         image_alt: Eau sur mon macbook
+        subtitle: 90% des dommages liquides sont réparables
       - content: >
           \<p style="text-align:justify;">Vous arrivez plus ou moins à voir une
           image dans votre écran qui semble quasi éteint ? Un ou plusieurs
