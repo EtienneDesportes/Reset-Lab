@@ -40,7 +40,6 @@ sections:
     background_image_position: center center
     title: +Economique +Ecologique
   - type: grid_section
-    subtitle: La réparation est uniquement facturée si elle est réalisée avec succès
     grid_items:
       - content: |
           **Type de panne:** Rétro-eclairage <br>
