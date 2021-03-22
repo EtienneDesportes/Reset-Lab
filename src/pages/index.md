@@ -41,7 +41,7 @@ sections:
     background_image_position: center center
     title: +Economique +Ecologique
   - type: grid_section
-    title: Exemples de réparations
+    title: La réparation est uniquement facturée si elle est réalisée avec succès !
     subtitle: ''
     grid_items:
       - content: |
