@@ -80,7 +80,7 @@ sections:
     background_color: primary
     background_image: images/itl.cat_motherboard-wallpaper_2557381(1).jpeg
     background_image_opacity: 10
-    title: Le devis est gratuit
+    title: Le devis est gratuit !
   - type: grid_section
     subtitle: ''
     grid_items:
