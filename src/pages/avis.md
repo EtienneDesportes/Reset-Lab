@@ -112,6 +112,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/pleasant-mars.png
       - title: Ipad Pro
         subtitle: 'Type de panne : Carte-mère'
         title_align: left
