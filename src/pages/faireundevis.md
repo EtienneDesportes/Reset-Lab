@@ -11,8 +11,11 @@ sections:
       d'envoi seront à votre charge.</p>
 
 
-      **REPARATION AVEC SATISFACTION GARANTIE** Vous réglez uniquement le devis
-      si la réparation est réalisée avec succès. Pas de mauvaises surprises.
+      **REPARATION AVEC SATISFACTION GARANTIE** 
+
+
+      Vous réglez uniquement le devis si la réparation est réalisée avec succès.
+      Pas de mauvaises surprises.
 
 
       **ENVOI ET RETOUR INCLUS**<br>
