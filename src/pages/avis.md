@@ -16,6 +16,9 @@ sections:
           rendu le mercredi ce que j'ai trouvé très rapide de sa part. Le mac
           marche super bien, je suis très content du résultat. Etienne est très
           professionnel et super compétent. Merci encore !!!"</p>
+
+
+          Francis Chaput
         content_align: left
         actions: []
         actions_align: left
