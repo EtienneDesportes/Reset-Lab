@@ -15,7 +15,7 @@ sections:
           Vous serez informé par e-mail. Le retour de votre MacBook est facturé
           30€ TTC si vous n'êtes pas sur Brest. Aucun autre frais ne s’applique.
         actions: []
-        media_position: bottom
+        media_position: right
         media_width: thirty-three
         align: left
         type: feature
