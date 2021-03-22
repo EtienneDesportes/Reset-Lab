@@ -49,11 +49,6 @@
                 "style": "link"
             },
             {
-                "label": "Faire un devis",
-                "url": "/faireundevis",
-                "style": "primary"
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "link",
@@ -63,6 +58,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Faire un devis",
+                "url": "/faireundevis",
+                "style": "primary"
             }
         ],
         "has_anncmnt": true,
