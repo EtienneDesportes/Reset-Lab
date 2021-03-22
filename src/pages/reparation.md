@@ -22,6 +22,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
+        image: images/1913898_170555691285_3301330_n.jpg
       - subtitle: ''
         content: |
           *   Microscope binoculaire Amscope 4-NTP
