@@ -26,7 +26,7 @@ sections:
       garantir nos interventions pendant 90 jours.</p>
 
 
-      **REPARATION AVEC SATIS**<br>
+      **REPARATION AVEC SATISFACTION GARANTIE**<br>
 
       <p style="text-align: justify;">Vous réglez en ligne par CB le montant
       indiqué sur le devis si la réparation est réalisée.</p>
