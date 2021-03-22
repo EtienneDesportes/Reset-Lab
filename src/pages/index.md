@@ -55,7 +55,7 @@ sections:
           **Réparation:** 280€
         image: images/remarkable-mint.svg
         image_position: left
-        image_width: twenty-five
+        image_width: thirty-three
         image_alt: J'ai renversé de l'eau sur mon MacBook
       - content: |
           **Type de panne:** Dommage liquide <br>
