@@ -138,7 +138,7 @@ sections:
     subtitle: ''
     features:
       - content: >
-          **Dommage liquide**
+          #### **Dommage liquide**
 
 
           90% des dommages liquides sont réparables
