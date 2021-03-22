@@ -26,15 +26,17 @@ sections:
       garantir nos interventions pendant 90 jours.</p>
 
 
+      ****
 
 
-      Réparation facturée uniquement si réalisée avec succès 
+      **Réparation facturée uniquement si réalisée avec succès**
 
 
+      \<br>
 
 
-      <p style="text-align: justify;">Vous réglez en ligne par CB le montant
-      indiqué sur le devis si la réparation est réalisée.</p>
+      \<p style="text-align: justify;">Vous réglez en ligne par CB le montant
+      indiqué sur le devis si la réparation est réalisée.\</p>
     content_align: left
     form_position: right
     form_width: fifty
