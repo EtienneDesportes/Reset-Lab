@@ -1,8 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
