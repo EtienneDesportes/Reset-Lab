@@ -159,7 +159,7 @@ sections:
         subtitle: 90% des dommages liquides sont réparables
         title: Dommage liquide
       - content: >
-          \<p style="text-align:justify;">Vous arrivez plus ou moins à voir une
+          <p style="text-align:justify;">Vous arrivez plus ou moins à voir une
           image dans votre écran qui semble quasi éteint ? Un ou plusieurs
           composants (inducteurs, connecteurs ou capteurs de courant...) ont dû
           griller. Pas de panique ! Nous sommes équipés pour y remédier.\</p>
