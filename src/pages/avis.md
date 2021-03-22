@@ -4,7 +4,7 @@ sections:
   - actions: []
     grid_items:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: Francis Chaput
         title_align: left
         content: >-
           ## Lorem ipsum
