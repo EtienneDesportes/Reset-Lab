@@ -179,6 +179,7 @@ sections:
         media_position: left
         media_width: fourty
         image_alt: Ecran hs macbook
+        title: Rétro-Eclairage
       - title: Problème de démarrage
         subtitle: ''
         content: >
