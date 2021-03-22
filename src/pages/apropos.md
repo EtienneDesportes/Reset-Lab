@@ -24,4 +24,10 @@ sections:
         media_position: right
         media_width: fifty
 template: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
