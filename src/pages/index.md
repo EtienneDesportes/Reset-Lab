@@ -138,13 +138,13 @@ sections:
     subtitle: ''
     features:
       - content: >
-          <p style="text-align:justify; font-size:12pt;">Il reste une chance
-          pour réparer votre machine à moindre coût. Si l'apple store vous
-          explique qu'il faut remplacer toute la carte mère pour un coût
-          éxorbitant, ce n'est heureusement rarement le cas ! Après avoir établi
-          un premier diagnostic à l'aide d'un multimètre et une alimentation de
-          labo, nous remplacerons les composants défecteux (résistances,
-          fusibles, condensateurs, mosfets... )</p>
+          <p style="text-align:justify;">Il reste une chance pour réparer votre
+          machine à moindre coût. Si l'apple store vous explique qu'il faut
+          remplacer toute la carte mère pour un coût éxorbitant, ce n'est
+          heureusement rarement le cas ! Après avoir établi un premier
+          diagnostic à l'aide d'un multimètre et une alimentation de labo, nous
+          remplacerons les composants défecteux (résistances, fusibles,
+          condensateurs, mosfets... )</p>
         actions:
           - label: Faire un devis
             url: /faireundevis
