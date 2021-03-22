@@ -113,7 +113,9 @@ template: advanced
 excerpt: Réparer mon MacBook
 seo:
   title: ''
-  description: ''
+  description: >-
+    Votre MacBook / Iphone / Ipad / Imac est en panne ? Nous sommes spécialistes
+    en réparation de carte-mère. Venez déposer votre machine sur Brest ! 
   robots: []
   extra: []
   type: stackbit_page_meta
