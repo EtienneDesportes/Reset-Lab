@@ -82,7 +82,6 @@ sections:
     background_image_opacity: 10
     title: La réparation est uniquement facturée si elle est réalisée avec succès
   - type: grid_section
-    title: L'envoi est gratuit !
     subtitle: ''
     grid_items:
       - title: Devis et Envoi gratuit
