@@ -80,7 +80,6 @@ sections:
     background_color: primary
     background_image: images/itl.cat_motherboard-wallpaper_2557381(1).jpeg
     background_image_opacity: 10
-    title: Réparation uniquement facturée si réalisée avec succès !
   - type: grid_section
     subtitle: ''
     grid_items:
