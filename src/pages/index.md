@@ -162,7 +162,7 @@ sections:
           <p style="text-align:justify;">Vous arrivez plus ou moins à voir une
           image dans votre écran qui semble quasi éteint ? Un ou plusieurs
           composants (inducteurs, connecteurs ou capteurs de courant...) ont dû
-          griller. Pas de panique ! Nous sommes équipés pour y remédier.\</p>
+          griller. Pas de panique ! Nous sommes équipés pour y remédier.</p>
         actions:
           - label: Faire un devis
             url: /faireundevis
