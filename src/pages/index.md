@@ -156,7 +156,7 @@ sections:
             icon_position: right
         image: images/famous-tomato.svg
         media_position: right
-        media_width: fourty
+        media_width: thirty-three
         image_alt: Eau sur mon macbook
       - title: Rétro-Eclairage
         content: >-
