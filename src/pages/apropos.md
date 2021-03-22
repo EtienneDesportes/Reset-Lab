@@ -27,8 +27,9 @@ template: advanced
 seo:
   title: Reset Lab - A propos
   description: >-
-    Votre MacBook / Iphone / Ipad / Imac est en panne ? Nous sommes spécialistes
-    en réparation de carte-mère. Venez déposer votre machine sur Brest ! 
+    Atelier de réparation d'électronique basé sur Brest. Nous sommes
+    spécialistes en réparation de carte-mère. Venez déposer votre machine sur
+    Brest ! 
   robots: []
   extra: []
   type: stackbit_page_meta
