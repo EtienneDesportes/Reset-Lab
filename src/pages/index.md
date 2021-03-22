@@ -74,7 +74,7 @@ sections:
         image_width: thirty-three
         image_alt: Batterie en panne Macbook
     grid_cols: two
-    grid_gap_horiz: medium
+    grid_gap_horiz: small
     grid_gap_vert: medium
     align: center
     background_color: primary
