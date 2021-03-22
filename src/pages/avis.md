@@ -34,11 +34,9 @@ sections:
         title_align: left
         content: >
           <p style="text-align:justify; font-style: italic;">"Une seconde vie
-          pour mon macbook pro ! J'aurai dû venir bien plus tôt. Un grand merci
-          à Étienne pour son professionnalisme, son efficacité et sa sympathie
+          pour mon macbook pro ! J'aurais dû venir bien plus tôt. Un grand merci
+          à Etienne pour son professionnalisme, son efficacité et sa sympathie
           :) je recommande !"</p>
-
-
 
 
           Romane Vix
