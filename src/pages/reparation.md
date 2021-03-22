@@ -21,7 +21,9 @@ sections:
         type: feature
         image: >-
           images/Agence-M-Com-Marseille-Eleo-Informtique-Aix-en-Provence-Icone-advice-SVG.svg
-        title: La réparation est uniquement facturée si réalisée avec succès !
+        title: >-
+          La réparation est uniquement facturée si elle est réalisée avec succès
+          !
       - subtitle: ''
         content: |
           *   Microscope binoculaire Amscope 4-NTP
