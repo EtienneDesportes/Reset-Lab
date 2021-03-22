@@ -77,6 +77,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: 'Type de panne : Dommage liquide'
+        image: images/pink-kale.png
       - title: Ipad Air 2
         subtitle: 'Type de panne : Connecteur cassé'
         title_align: left
