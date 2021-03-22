@@ -25,14 +25,16 @@ sections:
 
       <p style="text-align: justify;">Vous recevez une étiquette d'envoi, avec
       assurance incluse. Votre colis bien sécurisé, il ne vous reste plus qu’à
-      coller l’étiquette et le déposer en point relais. </p>
+      coller l’étiquette et le déposer en point relais. Vous pouvez aussi
+      déposer votre machine à notre atelier si vous êtes sur Brest. </p>
 
 
       **GARANTIE 90 JOURS**<br>
 
 
       <p style="text-align: justify;">Notre expertise nous permet de vous
-      garantir nos interventions pendant 90 jours.</p>
+      garantir nos interventions pendant 90 jours. Nous avons les outils et
+      composants pour assurer une réparation de haute qualité.</p>
     content_align: left
     form_position: right
     form_width: fifty
