@@ -162,11 +162,15 @@ sections:
         media_position: right
         media_width: thirty-three
         image_alt: Eau sur mon macbook
-      - content: >-
-          <p style="text-align:justify;">Vous arrivez plus ou moins à voir une
-          image dans votre écran qui semble quasi éteint ? Un ou plusieurs
-          composants (inducteurs, connecteurs ou capteurs de courant...) ont dû
-          griller. Pas de panique ! Nous sommes équipés pour y remédier.</p>
+      - content: >
+          #### **Rétro-Eclairage**
+
+
+          \<p style="text-align:justify; font-size:12pt;">Vous arrivez plus ou
+          moins à voir une image dans votre écran qui semble quasi éteint ? Un
+          ou plusieurs composants (inducteurs, connecteurs ou capteurs de
+          courant...) ont dû griller. Pas de panique ! Nous sommes équipés pour
+          y remédier.\</p>
         actions:
           - label: Faire un devis
             url: /faireundevis
