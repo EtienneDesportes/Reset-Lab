@@ -77,7 +77,7 @@ sections:
       - title: MacBook Air 13" 2014
         subtitle: 'Type de panne : Batterie ne charge pas'
         title_align: left
-        content: "Une seconde vie pour mon macbook pro ! J'aurai dû venir bien plus tôt. Un grand merci à Étienne pour son professionnalisme, son efficacité et sa sympathie \U0001F60A je recommande !\n"
+        content: "\\<p style=\"text-align:justify; font-style: italic;\">\"Une seconde vie pour mon macbook pro ! J'aurai dû venir bien plus tôt. Un grand merci à Étienne pour son professionnalisme, son efficacité et sa sympathie \U0001F60A je recommande !\"\\</p>\n\nRomane Vix\n"
         content_align: left
         actions: []
         actions_align: left
