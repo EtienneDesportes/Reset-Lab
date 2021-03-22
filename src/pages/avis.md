@@ -29,27 +29,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Ipad Air 2
-        subtitle: 'Type de panne : Connecteur cassé'
-        title_align: left
-        content: >
-          <p style="text-align:justify; font-style: italic;">"Travail parfait,
-          rapide. Contact très sympathique, je recommande sans hésitation"</p>
-
-
-
-
-          Véronique Le Reun
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - title: MacBook Touchbar 2017
         title_align: left
         content: >
@@ -87,6 +66,27 @@ sections:
 
 
           Romane Vix
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: Ipad Air 2
+        subtitle: 'Type de panne : Connecteur cassé'
+        title_align: left
+        content: >
+          <p style="text-align:justify; font-style: italic;">"Travail parfait,
+          rapide. Contact très sympathique, je recommande sans hésitation"</p>
+
+
+
+
+          Véronique Le Reun
         content_align: left
         actions: []
         actions_align: left
