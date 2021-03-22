@@ -75,7 +75,7 @@ sections:
         type: grid_item
         subtitle: 'Type de panne : Dommage liquide'
       - title: MacBook Air 13" 2014
-        subtitle: 'Type de panne :'
+        subtitle: 'Type de panne : Batterie ne charge pas'
         title_align: left
         content: "Une seconde vie pour mon macbook pro ! J'aurai dû venir bien plus tôt. Un grand merci à Étienne pour son professionnalisme, son efficacité et sa sympathie \U0001F60A je recommande !\n"
         content_align: left
