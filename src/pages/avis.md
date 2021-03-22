@@ -100,10 +100,12 @@ sections:
       - title: MacBook 15" Retina 2015
         subtitle: 'Type de panne : Rétro-éclairage'
         title_align: left
-        content: |
-          Très Pro, prix correct, mon MacbookPro re-fonctionne a merveille!
+        content: >
+          \<p style="text-align:justify; font-style: italic;">Très Pro, prix
+          correct, mon MacbookPro re-fonctionne a merveille!\</p>
 
-          Julien 
+
+          Julien
         content_align: left
         actions: []
         actions_align: left
