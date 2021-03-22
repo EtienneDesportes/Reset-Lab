@@ -162,8 +162,7 @@ sections:
         media_position: right
         media_width: thirty-three
         image_alt: Eau sur mon macbook
-      - title: Rétro-Eclairage
-        content: >-
+      - content: >-
           <p style="text-align:justify;">Vous arrivez plus ou moins à voir une
           image dans votre écran qui semble quasi éteint ? Un ou plusieurs
           composants (inducteurs, connecteurs ou capteurs de courant...) ont dû
