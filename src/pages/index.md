@@ -75,7 +75,7 @@ sections:
         image_alt: Batterie en panne Macbook
     grid_cols: two
     grid_gap_horiz: small
-    grid_gap_vert: medium
+    grid_gap_vert: small
     align: center
     background_color: primary
     background_image: images/itl.cat_motherboard-wallpaper_2557381(1).jpeg
