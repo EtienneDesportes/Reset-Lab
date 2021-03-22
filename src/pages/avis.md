@@ -7,7 +7,7 @@ sections:
         subtitle: Francis Chaput
         title_align: left
         content: >
-          \<p style="text-align:justify;">*"Ca fait deux ans que mon macbook pro
+          <p style="text-align:justify;">*"Ca fait deux ans que mon macbook pro
           était cassé impossible de le rallumer après une surtension avec un
           câble de batterie. Pour le faire réparer, c'était trop chère pour moi.
           Ma mère a trouvé le site d'Etienne sur google , il a répondu très
