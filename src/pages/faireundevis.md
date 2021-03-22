@@ -26,7 +26,7 @@ sections:
       garantir nos interventions pendant 90 jours.</p>
 
 
-      **REPARATION FACTUREE UNIQUEMENT SIE réalisée avec succès**<br>
+      **REPARATION FACTUREE UNIQUEMENT SIE REALISEE avec succès**<br>
 
       <p style="text-align: justify;">Vous réglez en ligne par CB le montant
       indiqué sur le devis si la réparation est réalisée.</p>
