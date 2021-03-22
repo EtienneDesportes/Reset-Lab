@@ -102,7 +102,7 @@ sections:
         title_align: left
         content: >
           <p style="text-align:justify; font-style: italic;">Très Pro, prix
-          correct, mon MacbookPro re-fonctionne a merveille!\</p>
+          correct, mon MacbookPro re-fonctionne a merveille!</p>
 
 
           Julien
