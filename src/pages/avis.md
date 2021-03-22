@@ -15,7 +15,7 @@ sections:
           avons déposé le mac book le vendredi et il nous l'a rendu le mercredi
           ce que j'ai trouvé très rapide de sa part. Le mac marche super bien,
           je suis très content du résultat. Etienne est très professionnel et
-          super compétent. Merci encore !!!"\</p>*
+          super compétent. Merci encore !!!"\</p>
         content_align: left
         actions: []
         actions_align: left
