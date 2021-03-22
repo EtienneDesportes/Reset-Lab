@@ -2,7 +2,7 @@
 title: 'Accueil - Réparation Macbook / Ipad / Iphone '
 sections:
   - type: hero_section
-    subtitle: ''
+    subtitle: La réparation est uniquement facturée si elle est réalisée avec succès
     content: >
       <h1 style="color:white; font-size:28pt;">Vous avez besoin d'une réparation
       ?</h1> <h1 style="color:white; font-size:18pt;">Nous sommes spécialistes
