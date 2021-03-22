@@ -14,7 +14,7 @@ sections:
       **REPARATION AVEC SATISFACTION GARANTIE**<br>
       <p style="text-align:
       justify;">Vous réglez uniquement le devis si la réparation est réalisée
-      avec succès.\</p>
+      avec succès.</p>
 
 
       **ENVOI ET RETOUR INCLUS**<br>
