@@ -1,5 +1,5 @@
 ---
-title: La réparation est uniquement
+title: 'La réparation '
 sections:
   - type: features_section
     features:
