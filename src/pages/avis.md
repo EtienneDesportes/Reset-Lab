@@ -4,7 +4,7 @@ sections:
   - actions: []
     grid_items:
       - title: Macbook Pro 13" 2011
-        subtitle: Francis Chaput
+        subtitle: 'Type de panne : Connecteur cassé'
         title_align: left
         content: >
           <p style="text-align:justify; font-style: italic;">"Ca fait deux ans
