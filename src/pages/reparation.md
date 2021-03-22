@@ -23,6 +23,8 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
+        image: >-
+          images/Agence-M-Com-Marseille-Eleo-Informtique-Aix-en-Provence-Icone-advice-SVG.svg
       - subtitle: ''
         content: |
           *   Microscope binoculaire Amscope 4-NTP
