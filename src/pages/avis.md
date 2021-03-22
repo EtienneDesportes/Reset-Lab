@@ -26,7 +26,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: lorem-ipsum
+      - title: Ipad Air 2 - Connecteur cassé
         subtitle: Véronique Le Reun
         title_align: left
         content: >
