@@ -27,7 +27,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: Véronique Le Reun
         title_align: left
         content: >
           Travail parfait, rapide. Contact très sympathique, je recommande sans
