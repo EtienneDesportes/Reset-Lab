@@ -52,6 +52,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/polite-amaranth.png
       - title: MacBook Touchbar 2017
         title_align: left
         content: >
