@@ -117,7 +117,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Ipad Pro
-        subtitle: lorem-ipsum
+        subtitle: 'Type de panne : Carte-mère'
         title_align: left
         content: >
           Mon fils a cassé mon iPad et j’étais désespérée car j’en ai besoin
