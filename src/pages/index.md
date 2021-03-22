@@ -172,7 +172,7 @@ sections:
             icon_position: right
         image: images/caring-lettuce.svg
         media_position: left
-        media_width: fourty
+        media_width: thirty-three
         image_alt: Ecran hs macbook
         title: Rétro-Eclairage
       - title: Problème de démarrage
