@@ -81,7 +81,7 @@ sections:
         <p style="text-align:justify; font-style: italic;">"Une seconde vie pour mon macbook pro ! J'aurai dû venir bien plus tôt. Un grand merci à Étienne pour son professionnalisme, son efficacité et sa sympathie \U0001F60A je recommande !\n"</p>
     
 
-        content_align: left
+    content_align: left
         actions: []
         actions_align: left
         actions_width: auto
