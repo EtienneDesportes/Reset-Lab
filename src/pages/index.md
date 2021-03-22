@@ -144,7 +144,7 @@ sections:
           90% des dommages liquides sont réparables
 
 
-          <p style="text-align:justify; size-font:18pt;">Il reste une chance
+          <p style="text-align:justify; font-size:18pt;">Il reste une chance
           pour réparer votre machine à moindre coût. Si l'apple store vous
           explique qu'il faut remplacer toute la carte mère pour un coût
           éxorbitant, ce n'est heureusement rarement le cas ! Après avoir établi
