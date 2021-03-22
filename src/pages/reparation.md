@@ -2,14 +2,14 @@
 title: 'La réparation '
 sections:
   - content: >
-      La réparation est uniquement facturée si elle est réalisée avec succès !
+      **La réparation est uniquement facturée si elle est réalisée avec succès
+      !**
 
 
       **La carte mère est réparable :**
 
       Vous réglez en ligne par CB le montant indiqué sur le devis. L’envoi et
-      retour par colis sont assurés et gratuits. 
-
+      retour par colis sont assurés et gratuits.
 
 
       **La carte mère n’est pas réparable :**
