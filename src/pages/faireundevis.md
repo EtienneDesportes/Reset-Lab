@@ -26,9 +26,6 @@ sections:
       garantir nos interventions pendant 90 jours.</p>
 
 
-      ****
-
-
       **Réparation facturée uniquement si réalisée avec succès**
 
 
