@@ -30,7 +30,7 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: ''
-      - title: Autre demande
+      - title: Autres demandes
         title_align: center
         content: 'Nous sommes disponible pour répondre à toutes questions ! '
         content_align: center
