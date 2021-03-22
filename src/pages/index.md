@@ -80,6 +80,7 @@ sections:
     background_color: primary
     background_image: images/itl.cat_motherboard-wallpaper_2557381(1).jpeg
     background_image_opacity: 10
+    title: La réparation est uniquement facturée si elle est réalisée avec succès
   - type: grid_section
     title: L'envoi est gratuit !
     subtitle: ''
