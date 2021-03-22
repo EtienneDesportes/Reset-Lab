@@ -72,6 +72,26 @@ sections:
         type: grid_item
         subtitle: 'Type de panne : Dommage liquide'
         image: images/pink-kale.png
+      - title: MacBook 15" Retina 2015
+        subtitle: 'Type de panne : Rétro-éclairage'
+        title_align: left
+        content: >
+          <p style="text-align:justify; font-style: italic;">"Très Pro, prix
+          correct, mon MacbookPro re-fonctionne a merveille!"</p>
+
+
+          Julien
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: left
+        image_width: twenty-five
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/pleasant-mars.png
       - title: Ipad Air 2
         subtitle: 'Type de panne : Connecteur cassé'
         title_align: left
@@ -93,26 +113,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: MacBook 15" Retina 2015
-        subtitle: 'Type de panne : Rétro-éclairage'
-        title_align: left
-        content: >
-          <p style="text-align:justify; font-style: italic;">"Très Pro, prix
-          correct, mon MacbookPro re-fonctionne a merveille!"</p>
-
-
-          Julien
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: left
-        image_width: twenty-five
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/pleasant-mars.png
       - title: Ipad Pro
         subtitle: 'Type de panne : Carte-mère'
         title_align: left
