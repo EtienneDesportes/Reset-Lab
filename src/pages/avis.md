@@ -74,7 +74,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: 'Type de panne : Dommage liquide'
-      - title: lorem-ipsum
+      - title: MacBook Air 13" 2014
         subtitle: lorem-ipsum
         title_align: left
         content: "Une seconde vie pour mon macbook pro ! J'aurai dû venir bien plus tôt. Un grand merci à Étienne pour son professionnalisme, son efficacité et sa sympathie \U0001F60A je recommande !\n"
