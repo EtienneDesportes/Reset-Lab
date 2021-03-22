@@ -124,7 +124,7 @@ sections:
           mon iPad et j’étais désespérée car j’en ai besoin pour le travail. La
           réparation a été faite avec professionnalisme, impeccable en vitesse
           et avec un bon rapport qualité et prix. Tout marche très bien ! Merci
-          !"\</p>
+          !"</p>
 
 
           Rita Chide
