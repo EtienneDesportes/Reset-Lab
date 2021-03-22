@@ -19,7 +19,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: images/marvelous-octopus.svg
+        image: images/perpetual-dolphin.svg
         title: >-
           La réparation est uniquement facturée si elle est réalisée avec succès
           !
