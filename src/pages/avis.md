@@ -29,6 +29,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/photo.png
       - title: MacBook Air 13" 2014
         subtitle: 'Type de panne : Batterie ne charge pas'
         title_align: left
