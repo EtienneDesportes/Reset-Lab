@@ -60,6 +60,7 @@ sections:
         type: feature
         image: images/multiple pannes.svg
         image_alt: Micro-soudure Macbook
+    title: La réparation est uniquement facturée si elle est réalisée avec succès !
   - type: cta_section
     title: Vous avez besoin d'une réparation ?
     content: Nous sommes spécialistes en micro-soudure MacBook
