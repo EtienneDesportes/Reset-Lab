@@ -194,7 +194,7 @@ sections:
         media_position: right
         media_width: fourty
         image_alt: Macbook ne démarre pas
-    feature_padding_vert: large
+    feature_padding_vert: small
     align: center
     background_color: primary
     background_image: images/beige-aspen.jpeg
