@@ -44,7 +44,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Contact",
+                "label": "Avis",
                 "url": "/contact",
                 "style": "link"
             },
