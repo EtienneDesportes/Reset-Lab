@@ -28,7 +28,7 @@ sections:
 
       **REPARATION AVEC SATISFACTION GARANTIE**<br>
 
-      <p style="text-align: justify;">Vous réglez en ligne par CB le montant
+      <p style="text-align: justify;">Vous réglez uniquement le montant
       indiqué sur le devis si la réparation est réalisée.</p>
     content_align: left
     form_position: right
