@@ -78,9 +78,15 @@ sections:
         subtitle: 'Type de panne : Batterie ne charge pas'
         title_align: left
         content: >
-            <p style="text-align:justify; font-style: italic;">"Une seconde vie pour mon macbook pro ! J'aurai dû venir bien plus tôt. Un grand merci à Étienne pour son professionnalisme, son efficacité et sa sympathie je recommande !"</p>
-    
+          <p style="text-align:justify; font-style: italic;">"Une seconde vie
+          pour mon macbook pro ! J'aurai dû venir bien plus tôt. Un grand merci
+          à Étienne pour son professionnalisme, son efficacité et sa sympathie
+          :) je recommande !"</p>
 
+
+
+
+          Romane Vix
         content_align: left
         actions: []
         actions_align: left
