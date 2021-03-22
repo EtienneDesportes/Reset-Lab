@@ -29,6 +29,29 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+      - title: MacBook Air 13" 2014
+        subtitle: 'Type de panne : Batterie ne charge pas'
+        title_align: left
+        content: >
+          <p style="text-align:justify; font-style: italic;">"Une seconde vie
+          pour mon macbook pro ! J'aurai dû venir bien plus tôt. Un grand merci
+          à Étienne pour son professionnalisme, son efficacité et sa sympathie
+          :) je recommande !"</p>
+
+
+
+
+          Romane Vix
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - title: MacBook Touchbar 2017
         title_align: left
         content: >
@@ -53,29 +76,6 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: 'Type de panne : Dommage liquide'
-      - title: MacBook Air 13" 2014
-        subtitle: 'Type de panne : Batterie ne charge pas'
-        title_align: left
-        content: >
-          <p style="text-align:justify; font-style: italic;">"Une seconde vie
-          pour mon macbook pro ! J'aurai dû venir bien plus tôt. Un grand merci
-          à Étienne pour son professionnalisme, son efficacité et sa sympathie
-          :) je recommande !"</p>
-
-
-
-
-          Romane Vix
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - title: Ipad Air 2
         subtitle: 'Type de panne : Connecteur cassé'
         title_align: left
