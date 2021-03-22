@@ -141,7 +141,7 @@ sections:
           ### **Dommage liquide**
 
 
-          90% des dommages liquides sont réparables
+          *"90% des dommages liquides sont réparables"*
 
 
           <p style="text-align:justify; font-size:12pt;">Il reste une chance
