@@ -3,7 +3,7 @@ title: lorem-ipsum
 sections:
   - actions: []
     grid_items:
-      - title: MacBook Pro 13" 2011
+      - title: Macbook Pro 13" 2011
         subtitle: Francis Chaput
         title_align: left
         content: >
