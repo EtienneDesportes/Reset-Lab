@@ -6,16 +6,18 @@ sections:
       **DEVIS GRATUIT**<br>
 
 
-      <p style="text-align: justify;">La réparation est facturée si elle est
-      réalisée avec succès. Si elle n'est pas réalisable, uniquement les frais
-      d'envoi seront à votre charge.</p>
+      <p style="text-align: justify;">Nous ne facturons pas de devis. Payer pour
+      un premier diagnostic n'a aucun sens d'après nous. Vous payez uniquement
+      si votre machine est à nouveau en état de marche.</p>
 
 
-      **REPARATION AVEC SATISFACTION GARANTIE** 
+      **REPARATION AVEC SATISFACTION GARANTIE**
 
 
       Vous réglez uniquement le devis si la réparation est réalisée avec succès.
-      Pas de mauvaises surprises.
+      Pas de mauvaises surprises. Les tarifs vont **de 120 à 430€ TTC**, selon
+      la panne et l’âge de votre machine. La facturation se fait toujours après
+      réparation.
 
 
       **ENVOI ET RETOUR INCLUS**<br>
