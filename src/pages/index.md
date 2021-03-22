@@ -154,7 +154,7 @@ sections:
             icon_position: right
         image: images/famous-tomato.svg
         media_position: right
-        media_width: thirty-three
+        media_width: fourty
         image_alt: Eau sur mon macbook
         subtitle: 90% des dommages liquides sont réparables
         title: Dommage liquide
