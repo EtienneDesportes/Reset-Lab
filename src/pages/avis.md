@@ -57,7 +57,7 @@ sections:
           book pro définitivement mort après avoir renversé du café dessus mais
           Reset Lab l'a sauvé, il est comme neuf! Milles Merci, même Apple le
           disait perdu! Un grand bravo pour l'efficacité et le
-          professionnalisme!\</p>
+          professionnalisme!</p>
         content_align: left
         actions: []
         actions_align: left
