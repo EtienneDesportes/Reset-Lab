@@ -4,7 +4,8 @@ sections:
   - type: features_section
     features:
       - content: >
-          ##### **Réparation uniquement facturée si réalisée avec succès !**
+          ##### **La réparation est uniquement facturée si réalisée avec succès
+          !**
 
 
           **La carte mère est réparable :**
