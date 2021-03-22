@@ -119,17 +119,11 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Mon fils a cassé mon iPad et j’étais désespérée car j’en ai besoin
+          pour le travail. La réparation a été faite avec professionnalisme,
+          impeccable en vitesse et avec un bon rapport qualité et prix. Tout
+          marche très bien ! Merci !
         content_align: left
         actions: []
         actions_align: left
