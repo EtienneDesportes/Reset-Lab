@@ -1,8 +1,7 @@
 ---
 title: 'La réparation '
 sections:
-  - title: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
