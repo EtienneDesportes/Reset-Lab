@@ -3,8 +3,7 @@ title: 'La réparation '
 sections:
   - type: features_section
     features:
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
