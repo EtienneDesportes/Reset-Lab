@@ -77,17 +77,7 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Une seconde vie pour mon macbook pro ! J'aurai dû venir bien plus tôt. Un grand merci à Étienne pour son professionnalisme, son efficacité et sa sympathie \U0001F60A je recommande !\n"
         content_align: left
         actions: []
         actions_align: left
