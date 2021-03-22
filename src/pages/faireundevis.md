@@ -2,13 +2,18 @@
 title: Faireundevis
 sections:
   - type: form_section
-    content: >
+    content: >+
       **DEVIS GRATUIT**<br>
 
 
       <p style="text-align: justify;">La réparation est facturée si elle est
       réalisée avec succès. Si elle n'est pas réalisable, uniquement les frais
       d'envoi seront à votre charge.</p>
+
+
+      **REPARATION AVEC SATISFACTION GARANTIE**\<br>\<p style="text-align:
+      justify;">Vous réglez uniquement le devis si la réparation est réalisée
+      avec succès.\</p>
 
 
       **ENVOI ET RETOUR INCLUS**<br>
@@ -25,10 +30,6 @@ sections:
       <p style="text-align: justify;">Notre expertise nous permet de vous
       garantir nos interventions pendant 90 jours.</p>
 
-
-      **REPARATION AVEC SATISFACTION GARANTIE**<br>
-
-      <p style="text-align: justify;">Vous réglez uniquement le devis si la réparation est réalisée avec succès.</p>
     content_align: left
     form_position: right
     form_width: fifty
