@@ -4,6 +4,9 @@ sections:
   - type: features_section
     features:
       - content: >
+          ##### **Réparation uniquement facturée si réalisée avec succès !**
+
+
           **La carte mère est réparable :**
 
           Vous réglez en ligne par CB le montant indiqué sur le devis. L’envoi
