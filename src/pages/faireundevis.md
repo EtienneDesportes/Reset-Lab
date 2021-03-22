@@ -27,8 +27,7 @@ sections:
       **GARANTIE 90 JOURS**<br>
 
 
-      <p style="text-align: justify;">Notre expertise nous permet de vous
-      garantir nos interventions pendant 90 jours.</p>
+      <p style="text-align: justify;">Notre expertise nous permet de vous garantir nos interventions pendant 90 jours.</p>
 
     content_align: left
     form_position: right
