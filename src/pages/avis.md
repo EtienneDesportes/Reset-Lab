@@ -50,7 +50,7 @@ sections:
         image_position: bottom
         image_width: twenty-five
         image_align: right
-        image_has_padding: true
+        image_has_padding: false
         type: grid_item
         image: images/unnamed.png
       - title: MacBook Touchbar 2017
