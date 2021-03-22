@@ -32,8 +32,7 @@ sections:
     type: hero_section
   - type: features_section
     features:
-      - title: Nos outils
-        subtitle: ''
+      - subtitle: ''
         content: |
           *   Microscope binoculaire Amscope 4-NTP
           *   Station de soudage ERSA i-con 2
