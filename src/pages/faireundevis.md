@@ -111,4 +111,10 @@ sections:
     background_image: images/perpetual-yam.jpeg
 template: advanced
 excerpt: Réparer mon MacBook
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
