@@ -35,6 +35,11 @@ sections:
         content: >
           <p style="text-align:justify; font-style: italic;">"Travail parfait,
           rapide. Contact très sympathique, je recommande sans hésitation"</p>
+
+
+
+
+          Véronique Le Reun
         content_align: left
         actions: []
         actions_align: left
