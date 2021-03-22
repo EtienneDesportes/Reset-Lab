@@ -46,6 +46,7 @@ sections:
         media_width: fifty
         image: images/logic-board-repair-min.jpg
         image_alt: Réparation Carte-mère MacBook
+        title: Nos outils
       - title: Le diagnostic
         subtitle: ''
         content: >
