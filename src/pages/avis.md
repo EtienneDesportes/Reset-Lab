@@ -97,7 +97,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: lorem-ipsum
+      - title: MacBook 15" Retina 2015
         subtitle: lorem-ipsum
         title_align: left
         content: |
