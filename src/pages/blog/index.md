@@ -25,4 +25,10 @@ sections:
     type: blog_feed_section
 template: advanced
 excerpt: Mon MacBook est en panne
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
