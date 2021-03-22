@@ -3,17 +3,21 @@ title: 'La réparation '
 sections:
   - type: features_section
     features:
-      - content: >-
-          ## Lorem ipsum
+      - content: >
+          ##### **La réparation est uniquement facturée si elle est réalisée
+          avec succès !**
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **La carte mère est réparable :**
+
+          Vous réglez en ligne par CB le montant indiqué sur le devis. L’envoi
+          et retour par colis sont assurés et gratuits.
 
 
-          - Lorem ipsum
+          **La carte mère n’est pas réparable :**
 
-          - dolor sit amet
+          Vous serez informé par e-mail. Le retour de votre MacBook est facturé
+          30€ TTC si vous n'êtes pas sur Brest. Aucun autre frais ne s’applique.
         actions: []
         media_position: right
         media_width: thirty-three
