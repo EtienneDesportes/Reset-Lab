@@ -19,9 +19,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        title: >-
-          La réparation est uniquement facturée si elle est réalisée avec succès
-          !
+        title: Réparation est uniquement facturée si elle est réalisée avec succès !
       - subtitle: ''
         content: |
           *   Microscope binoculaire Amscope 4-NTP
