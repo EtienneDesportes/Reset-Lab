@@ -1,19 +1,6 @@
 ---
 title: 'La réparation '
 sections:
-  - actions: []
-    media_position: right
-    media_width: fourty
-    align: left
-    padding_top: none
-    padding_bottom: none
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
   - type: features_section
     features:
       - subtitle: ''
