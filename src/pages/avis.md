@@ -33,7 +33,7 @@ sections:
         subtitle: 'Type de panne : Connecteur cassé'
         title_align: left
         content: >
-          \<p style="text-align:justify; font-style: italic;">"Travail parfait,
+          <p style="text-align:justify; font-style: italic;">"Travail parfait,
           rapide. Contact très sympathique, je recommande sans hésitation"\</p>
         content_align: left
         actions: []
