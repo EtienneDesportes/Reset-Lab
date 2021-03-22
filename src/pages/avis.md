@@ -52,17 +52,11 @@ sections:
         type: grid_item
       - title: MacBook Touchbar 2017
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Je pensais mon mac book pro définitivement mort après avoir renversé
+          du café dessus mais Reset Lab l'a sauvé, il est comme neuf! Milles
+          Merci, même Apple le disait perdu! Un grand bravo pour l'efficacité et
+          le professionnalisme!
         content_align: left
         actions: []
         actions_align: left
