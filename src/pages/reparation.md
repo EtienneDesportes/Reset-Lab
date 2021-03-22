@@ -17,7 +17,7 @@ sections:
         actions: []
         media_position: right
         media_width: thirty-three
-        align: left
+        align: center
         type: feature
         title: Réparation uniquement facturée si réalisée avec succès !
       - subtitle: ''
