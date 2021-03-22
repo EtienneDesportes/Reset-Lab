@@ -58,4 +58,10 @@ sections:
     background_image_opacity: 10
 template: advanced
 excerpt: J'ai une question
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
