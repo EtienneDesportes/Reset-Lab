@@ -35,7 +35,7 @@
         "secondary_nav_links": [
             {
                 "label": "Avis",
-                "url": "contact",
+                "url": "avis",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
