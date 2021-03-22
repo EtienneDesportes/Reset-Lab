@@ -88,7 +88,7 @@ sections:
         type: feature
         image: images/multiple pannes.svg
         image_alt: Micro-soudure Macbook
-    feature_padding_vert: medium
+    feature_padding_vert: small
   - type: cta_section
     title: Vous avez besoin d'une réparation ?
     content: Nous sommes spécialistes en micro-soudure MacBook
