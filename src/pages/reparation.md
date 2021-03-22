@@ -99,4 +99,10 @@ sections:
     background_image_opacity: 10
 template: advanced
 excerpt: 'Micro-Soudure - J''ai renversé de l''eau sur mon Mac, c''est grave ?'
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
