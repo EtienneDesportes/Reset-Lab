@@ -30,7 +30,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Ipad Air 2
-        subtitle: Véronique Le Reun
+        subtitle: 'Type de panne : Connecteur cassé'
         title_align: left
         content: >
           Travail parfait, rapide. Contact très sympathique, je recommande sans
