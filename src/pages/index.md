@@ -138,7 +138,6 @@ sections:
     subtitle: ''
     features:
       - title: Dommage liquide
-        subtitle: 90% des dommages liquides sont réparables
         content: >-
           <p style="text-align:justify;">Il reste une chance pour réparer votre
           machine à moindre coût. Si l'apple store vous explique qu'il faut
