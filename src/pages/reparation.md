@@ -61,21 +61,6 @@ sections:
         image: images/multiple pannes.svg
         image_alt: Micro-soudure Macbook
     title: La réparation est uniquement facturée si elle est réalisée avec succès !
-  - type: cta_section
-    title: Vous avez besoin d'une réparation ?
-    content: Nous sommes spécialistes en micro-soudure MacBook
-    actions:
-      - label: Faire un devis
-        url: /faireundevis
-        style: primary
-    actions_position: right
-    align: left
-    padding_top: none
-    padding_bottom: none
-    has_border: false
-    background_color: primary
-    background_image: images/knowledgeable-whale.jpeg
-    background_image_opacity: 10
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
@@ -106,6 +91,21 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+  - type: cta_section
+    title: Vous avez besoin d'une réparation ?
+    content: Nous sommes spécialistes en micro-soudure MacBook
+    actions:
+      - label: Faire un devis
+        url: /faireundevis
+        style: primary
+    actions_position: right
+    align: left
+    padding_top: none
+    padding_bottom: none
+    has_border: false
+    background_color: primary
+    background_image: images/knowledgeable-whale.jpeg
+    background_image_opacity: 10
 template: advanced
 excerpt: 'Micro-Soudure - J''ai renversé de l''eau sur mon Mac, c''est grave ?'
 ---
