@@ -6,17 +6,16 @@ sections:
       - title: lorem-ipsum
         subtitle: Francis Chaput
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          *"Ca fait deux ans que mon macbook pro était cassé impossible de le
+          rallumer après une surtension avec un câble de batterie. Pour le faire
+          réparer, c'était trop chère pour moi. Ma mère a trouvé le site
+          d'Etienne sur google , il a répondu très rapidement et avec un rapport
+          qualité-prix très intéressant. Nous avons déposé le mac book le
+          vendredi et il nous l'a rendu le mercredi ce que j'ai trouvé très
+          rapide de sa part. Le mac marche super bien, je suis très content du
+          résultat. Etienne est très professionnel et super compétent. Merci
+          encore !!!"*
         content_align: left
         actions: []
         actions_align: left
