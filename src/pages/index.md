@@ -173,7 +173,7 @@ sections:
             icon_position: right
         image: images/caring-lettuce.svg
         media_position: left
-        media_width: fifty
+        media_width: fourty
         image_alt: Ecran hs macbook
       - title: Problème de démarrage
         subtitle: ''
