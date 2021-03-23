@@ -25,7 +25,8 @@ sections:
     background_image: images/magnificent-lavender.jpg
     background_image_opacity: 0
     has_border: false
-    video_embed_html: test
+    video_embed_html: 
+    
   - type: features_section
     features:
       - subtitle: ''
