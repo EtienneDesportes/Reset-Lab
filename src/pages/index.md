@@ -25,9 +25,6 @@ sections:
     background_image: images/magnificent-lavender.jpg
     background_image_opacity: 0
     has_border: false
-    video_embed_html: |-
-      <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-      <div class="elfsight-app-2fddd913-c5b2-4ab9-8c88-05fde5a86772"></div>
   - type: features_section
     features:
       - subtitle: ''
