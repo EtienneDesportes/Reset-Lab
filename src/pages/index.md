@@ -50,7 +50,7 @@ sections:
 <script>
 jQuery(document).ready(function( $ ) {
    $("#google-reviews").googlePlaces({
-        placeId: 'ChIJp2QxV_sJVFMR1DEp1x_16F8' //Find placeID @: https://developers.google.com/places/place-id
+        placeId: 'ChIJHYSxMW27FkgRBxrTlsOrlMQ' //Find placeID @: https://developers.google.com/places/place-id
       , render: ['reviews']
       , min_rating: 4
       , max_rows:4
