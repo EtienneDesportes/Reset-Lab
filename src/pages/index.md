@@ -25,9 +25,6 @@ sections:
     background_image: images/magnificent-lavender.jpg
     background_image_opacity: 0
     has_border: false
-    video_embed_html: |
-      <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-      <div class="elfsight-app-220effa8-bc83-488f-9b7f-7018047ca5a7"></div>
   - type: features_section
     features:
       - subtitle: ''
@@ -240,6 +237,9 @@ sections:
     background_color: primary
     background_image_opacity: 10
     background_image: images/modern-pineapple.jpeg
+    video_embed_html: |
+      <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+      <div class="elfsight-app-220effa8-bc83-488f-9b7f-7018047ca5a7"></div>
 template: advanced
 excerpt: Réparer mon MacBook
 seo:
