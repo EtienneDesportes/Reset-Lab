@@ -48,7 +48,7 @@ sections:
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyDeivU57j-macv2fXXgbhKGM6cqMLmnAFI&signed_in=true&libraries=places"></script>
 
     <script>
-jQuery(document).ready(function( $ ) {
+    jQuery(document).ready(function( $ ) {
    $("#google-reviews").googlePlaces({
         placeId: 'ChIJHYSxMW27FkgRBxrTlsOrlMQ' //Find placeID @: https://developers.google.com/places/place-id
       , render: ['reviews']
