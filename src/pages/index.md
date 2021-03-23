@@ -41,7 +41,7 @@ sections:
     title: +Economique +Ecologique
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: 
+    content: >
       <div id="google-reviews"></div>
 
       <link rel="stylesheet" href="https://cdn.rawgit.com/stevenmonson/googleReviews/master/google-places.css">
