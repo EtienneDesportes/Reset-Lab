@@ -54,9 +54,9 @@ sections:
       , render: ['reviews']
       , min_rating: 4
       , max_rows:4
-   });
-    });
-    </script>
+        });
+        });
+        </script>
     actions: []
     image_alt: lorem-ipsum
     media_position: top
