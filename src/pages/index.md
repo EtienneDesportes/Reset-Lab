@@ -40,7 +40,6 @@ sections:
     background_image_position: center center
     title: +Economique +Ecologique
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
