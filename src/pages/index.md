@@ -44,7 +44,7 @@ sections:
     video_embed_html: |-
       <script src="https://apps.elfsight.com/p/platform.js" defer></script>
       <div class="elfsight-app-2fddd913-c5b2-4ab9-8c88-05fde5a86772"></div>
-    media_position: top
+    media_position: left
     media_width: fourty
     align: left
     padding_top: none
