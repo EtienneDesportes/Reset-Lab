@@ -39,9 +39,7 @@ sections:
     background_image_opacity: 10
     background_image_position: center center
     title: +Economique +Ecologique
-  - content: |
-      *
-    actions: []
+  - actions: []
     image_alt: lorem-ipsum
     video_embed_html: |-
       <script src="https://apps.elfsight.com/p/platform.js" defer></script>
