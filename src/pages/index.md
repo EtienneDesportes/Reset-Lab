@@ -39,7 +39,7 @@ sections:
     background_image_opacity: 10
     background_image_position: center center
     title: +Economique +Ecologique
-  - content: >
+    content: >
      <div id="google-reviews"></div>
 
         <link rel="stylesheet" href="https://cdn.rawgit.com/stevenmonson/googleReviews/master/google-places.css">
