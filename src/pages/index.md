@@ -237,8 +237,7 @@ sections:
     background_color: primary
     background_image_opacity: 10
     background_image: images/modern-pineapple.jpeg
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
