@@ -54,9 +54,9 @@ sections:
       - dolor sit amet
     actions: []
     image_alt: lorem-ipsum
-    video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    video_embed_html: |-
+      <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+      <div class="elfsight-app-2fddd913-c5b2-4ab9-8c88-05fde5a86772"></div>
     media_position: top
     media_width: fifty
     align: left
