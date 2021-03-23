@@ -7,7 +7,7 @@ sections:
 
 
       <p style="text-align: justify;">Nous ne facturons pas de devis. Payer pour
-      un premier diagnostic n'a aucun sens d'après nous. Vous payez uniquement
+      un premier diagnostic n'a pas de sens d'après nous. Vous payez uniquement
       si votre machine est à nouveau en état de marche.</p>
 
 
