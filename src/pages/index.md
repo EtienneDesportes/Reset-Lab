@@ -1,8 +1,7 @@
 ---
 title: 'Accueil - Réparation Macbook / Ipad / Iphone '
 sections:
-    
-- type: hero_section
+    - type: hero_section
     content: >
       <h1 style="color:white; font-size:28pt;">Vous avez besoin d'une réparation
       ?</h1> <h1 style="color:white; font-size:18pt;">Nous sommes spécialistes
