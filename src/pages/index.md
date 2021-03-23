@@ -238,7 +238,6 @@ sections:
     background_image_opacity: 10
     background_image: images/modern-pineapple.jpeg
   - actions: []
-    image_alt: lorem-ipsum
     video_embed_html: |-
       <script src="https://apps.elfsight.com/p/platform.js" defer></script>
       <div class="elfsight-app-220effa8-bc83-488f-9b7f-7018047ca5a7"></div>
