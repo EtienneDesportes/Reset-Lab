@@ -220,9 +220,6 @@ sections:
     padding_bottom: none
     has_border: false
     background_color: none
-    video_embed_html: |-
-      <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-      <div class="elfsight-app-220effa8-bc83-488f-9b7f-7018047ca5a7"></div>
   - type: cta_section
     title: Contactez-nous
     content: >-
