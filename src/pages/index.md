@@ -39,8 +39,7 @@ sections:
     background_image_opacity: 10
     background_image_position: center center
     title: +Economique +Ecologique
-  - title: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
