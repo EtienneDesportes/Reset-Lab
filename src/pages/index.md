@@ -243,7 +243,7 @@ sections:
       <script src="https://apps.elfsight.com/p/platform.js" defer></script>
       <div class="elfsight-app-220effa8-bc83-488f-9b7f-7018047ca5a7"></div>
     media_position: right
-    media_width: fifty
+    media_width: fourty
     align: left
     padding_top: none
     padding_bottom: none
