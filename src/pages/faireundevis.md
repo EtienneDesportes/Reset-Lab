@@ -125,9 +125,9 @@ template: advanced
 excerpt: Réparer mon MacBook
 seo:
   title: Reset Lab - Faire un devis
-  description: >-
-    DEVIS GRATUIT Nous sommes spécialistes en réparation de carte-mère. Venez
-    déposer votre machine sur Brest ! 
+  description: |-
+    DEVIS GRATUIT & REPARATION AVEC SATISFACTION GARANTIE
+     Nous sommes spécialistes en réparation de carte-mère. Venez déposer votre machine sur Brest ! 
   robots: []
   extra: []
   type: stackbit_page_meta
