@@ -1,5 +1,5 @@
 ---
-title: 'Accueil - Réparation Macbook / Ipad / Iphone '
+title: 'Réparation Macbook / Ipad / Iphone '
 sections:
   - type: hero_section
     content: >
