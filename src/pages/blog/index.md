@@ -28,8 +28,8 @@ excerpt: Mon MacBook est en panne
 seo:
   title: Reset Lab - Blog
   description: >-
-    Votre MacBook / Iphone / Ipad / Imac est en panne ? Nous sommes spécialistes
-    en réparation de carte-mère. Venez déposer votre machine sur Brest ! 
+    J'ai renversé de l'eau sur mon Macbook !  Nous sommes spécialistes en
+    réparation de carte-mère. Venez déposer votre machine sur Brest ! 
   robots: []
   extra: []
   type: stackbit_page_meta
