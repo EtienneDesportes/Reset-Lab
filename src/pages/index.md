@@ -52,7 +52,7 @@ sections:
       - content: |
           **Type de panne:** Dommage liquide <br>
           **Modèle:** MacBook pro Retina 15 pouces <br>
-          **Réparation:** 280€
+          **Réparation:** 320€
         image: images/remarkable-mint.svg
         image_position: left
         image_width: thirty-three
