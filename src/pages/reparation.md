@@ -102,8 +102,9 @@ excerpt: 'Micro-Soudure - J''ai renversé de l''eau sur mon Mac, c''est grave ?'
 seo:
   title: Reset Lab - Comment ça marche ?
   description: >-
-    Votre MacBook / Iphone / Ipad / Imac est en panne ? Nous sommes spécialistes
-    en réparation de carte-mère. Venez déposer votre machine sur Brest ! 
+    La réparation est uniquement facturée si elle est réalisée avec succès !
+    Nous sommes spécialistes en réparation de carte-mère. Venez déposer votre
+    machine sur Brest ! 
   robots: []
   extra: []
   type: stackbit_page_meta
