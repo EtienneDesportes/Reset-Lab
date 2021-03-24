@@ -73,7 +73,7 @@ sections:
           - Iphone
           - Ipad
           - Imac
-          - Autres (merci de précisez par message)
+          - Autres (merci de préciser par message)
           - Je ne sais pas
         is_required: true
       - input_type: select
