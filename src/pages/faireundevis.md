@@ -1,5 +1,5 @@
 ---
-title: Faireundevis
+title: Faire un devis
 sections:
   - type: form_section
     content: >
