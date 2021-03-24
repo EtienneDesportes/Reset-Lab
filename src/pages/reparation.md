@@ -1,5 +1,5 @@
 ---
-title: 'La réparation '
+title: Comment se déroule la réparation ?
 sections:
   - type: features_section
     features:
