@@ -44,7 +44,7 @@ sections:
       - content: |
           **Type de panne:** Rétro-eclairage<br>
           **Modèle:** MacBook pro Retina 15 pouces<br>
-          **Réparation:** 260€
+          **Réparation:** 240€
         image: images/retroeclairage mac.svg
         image_position: left
         image_width: thirty-three
