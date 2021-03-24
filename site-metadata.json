@@ -93,5 +93,6 @@
         "logo_alt": "Reset Lab - Réparation Macbook / Ipad / Iphone basé sur Brest"
     },
     "title": "Reset Lab - Réparation Macbook / Ipad / Iphone basé sur Brest",
-    "domain": "https://www.resetlab.fr"
+    "domain": "https://www.resetlab.fr",
+    "favicon": "images/favicon.png"
 }
