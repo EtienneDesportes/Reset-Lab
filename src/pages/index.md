@@ -25,7 +25,6 @@ sections:
     background_image: images/magnificent-lavender.jpg
     background_image_opacity: 0
     has_border: false
-    background_color: none
   - type: features_section
     features:
       - subtitle: ''
