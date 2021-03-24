@@ -73,7 +73,7 @@ sections:
           - Iphone
           - Ipad
           - Imac
-          - lorem-ipsum
+          - Autres
           - Je ne sais pas
         is_required: true
       - input_type: select
