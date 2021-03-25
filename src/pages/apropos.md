@@ -25,7 +25,7 @@ sections:
         media_width: fifty
         image_alt: réparation micro soudure apple
       - content: >
-          \<div style="text-align: justify">L’obsolescence programmée est de
+          <div style="text-align: justify">L’obsolescence programmée est de
           plus en plus pratiquée par les grandes entreprises de technologies.
           Par exemple un fabricant bien connu intègre le chip U4700 dans ses
           appareils, pourtant de piètre qualité dont la panne entraîne le
