@@ -93,7 +93,7 @@ sections:
     grid_gap_vert: small
     grid_gap_horiz: medium
     enable_cards: false
-    align: left
+    align: center
     padding_top: none
     padding_bottom: none
     has_border: false
