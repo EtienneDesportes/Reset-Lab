@@ -54,7 +54,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/fierce-jupiter.jpg
+        image: images/cool-birch.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -66,7 +66,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/cool-birch.jpg
+        image: images/fierce-jupiter.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
