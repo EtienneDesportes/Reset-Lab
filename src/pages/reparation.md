@@ -49,7 +49,7 @@ sections:
           utiliser son esprit de déduction et d'observation pour identifier les
           composants défectueux. On se retrouve donc dans la peau d'un détective
           en quelque sorte ! Toutes traces visibles
-          \<strong>d'oxydation\</strong> (traces bleues/vertes) sont des indices
+          <strong>d'oxydation\</strong> (traces bleues/vertes) sont des indices
           en plus, il ne faut donc jamais désoxyder une carte mère avant la
           réparation, cela brouille les pistes ! Si aucune trace n'est présente,
           équipé d'un \<strong>multimère\</strong>, il faut analyser comment le
