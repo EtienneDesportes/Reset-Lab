@@ -61,7 +61,7 @@ sections:
         actions_align: left
         actions_width: auto
         image_alt: soudure microscope
-        image_position: top
+        image_position: right
         image_width: fifty
         image_align: center
         image_has_padding: false
