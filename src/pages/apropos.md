@@ -67,8 +67,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/fierce-jupiter.jpg
-      - title: lorem-ipsum
-        title_align: left
+      - title_align: left
         content_align: left
         actions: []
         actions_align: left
