@@ -41,12 +41,6 @@ sections:
         align: left
         type: feature
         image: images/réparation-multimètre-soudure-microscope.jpg
-      - actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: thirty-three
-        align: left
-        type: feature
 template: advanced
 seo:
   title: Reset Lab - A propos
