@@ -52,7 +52,7 @@ sections:
           <strong>d'oxydation\</strong> (traces bleues/vertes) sont des indices
           en plus, il ne faut donc jamais désoxyder une carte mère avant la
           réparation, cela brouille les pistes ! Si aucune trace n'est présente,
-          équipé d'un \<strong>multimère\</strong>, il faut analyser comment le
+          équipé d'un <strong>multimère\</strong>, il faut analyser comment le
           circuit se comporte en l'état actuel et comparer avec les valeurs
           retrouvées sur le \<strong>schéma du circuit\</strong>. La machine
           injecte-elle bien assez de \<strong>voltage\</strong> pour démarrer le
