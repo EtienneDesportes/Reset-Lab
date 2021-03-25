@@ -55,7 +55,7 @@ sections:
           équipé d'un <strong>multimère</strong>, il faut analyser comment le
           circuit se comporte en l'état actuel et comparer avec les valeurs
           retrouvées sur le <strong>schéma du circuit</strong>. La machine
-          injecte-elle bien assez de \<strong>voltage\</strong> pour démarrer le
+          injecte-elle bien assez de <strong>voltage</strong> pour démarrer le
           onewirecircuit ? La ligne électrique <strong>PP3V42\_G3H</strong>
           est-elle bien présente ? Résistance, fusible, condensateur, il ne faut
           rien rater. À l'aide d'une \<strong>alimentation de labo\</strong>, on
