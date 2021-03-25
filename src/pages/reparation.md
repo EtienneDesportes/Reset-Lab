@@ -35,7 +35,7 @@ sections:
           *   Matériel divers: Etain, Flux Amtech,  Alcool IPA
         video_embed_html: ''
         media_position: left
-        media_width: fifty
+        media_width: fourty
         image: images/outils-réparation-macbook.jpg
         image_alt: Réparation Carte-mère Macbook outils amscope
         title: Nos outils
@@ -47,8 +47,8 @@ sections:
 
           Quand un MacBook tombe en panne, il faut dans un premier temps
           utiliser son esprit de déduction et d'observation pour identifier les
-          <strong>composants</strong> défectueux. On se retrouve donc dans la peau d'un détective
-          en quelque sorte ! Toutes traces visibles
+          <strong>composants</strong> défectueux. On se retrouve donc dans la
+          peau d'un détective en quelque sorte ! Toutes traces visibles
           <strong>d'oxydation</strong> (traces bleues/vertes) sont des indices
           en plus, il ne faut donc jamais désoxyder une carte mère avant la
           réparation, cela brouille les pistes ! Si aucune trace n'est présente,
@@ -60,8 +60,8 @@ sections:
           est-elle bien présente ? Résistance, fusible, condensateur, il ne faut
           rien rater. À l'aide d'une <strong>alimentation de labo</strong>, on
           peut injecter du voltage dans certaines parties du circuit afin d'en
-          trouver les <strong>courts-circuits</strong> potentiels. On peut
-          ainsi réparer une carte-mère sans la changer entièrement !
+          trouver les <strong>courts-circuits</strong> potentiels. On peut ainsi
+          réparer une carte-mère sans la changer entièrement !
 
 
           </div>
