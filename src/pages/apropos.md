@@ -45,7 +45,7 @@ sections:
           d’encourager l’utilisation de matériel reconditionné qui suffit
           amplement à nos besoins.</div>
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: micro soudure carte mère réparation macbook
         media_position: left
         media_width: thirty-three
         align: left
