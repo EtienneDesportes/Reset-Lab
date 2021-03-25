@@ -24,8 +24,7 @@ sections:
         media_position: right
         media_width: fifty
         image_alt: réparation micro soudure apple
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
