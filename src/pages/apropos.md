@@ -58,7 +58,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: soudure microscope
+        image_alt: soudure microscope panne ordinateur
         image_position: top
         image_width: twenty-five
         image_align: center
