@@ -37,7 +37,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: left
-        media_width: fifty
+        media_width: thirty-three
         align: left
         type: feature
         image: images/réparation-multimètre-soudure-microscope.jpg
