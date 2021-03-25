@@ -25,15 +25,23 @@ sections:
         media_width: fifty
         image_alt: réparation micro soudure apple
       - content: >
-          \<h3>Atelier de réparation basé sur Brest\</h3>\<div
-          style="text-align: justify">En 2019, Etienne Desportes, ingénieur
-          mécatronique et bricoleur en tout genre, décide d'ouvrir son atelier
-          pour redonner aux technologies du quotidien la valeur qu'ils méritent
-          : \<strong>rien ne se jette, tout est réparable\</strong>. Diplômé de
-          la formaton trinationale mécatronique en suisse, l'électronique est
-          une réelle passion. Si vous êtes sur Brest vous pouvez directement
-          venir déposer votre machine. On se fera un plaisir de vous expliquer
-          comment on procède.\</div>
+          \<div style="text-align: justify">L’obsolescence programmée est de
+          plus en plus pratiquée par les grandes entreprises de technologies.
+          Par exemple un fabricant bien connu intègre le chip U4700 dans ses
+          appareils, pourtant de piètre qualité dont la panne entraîne le
+          dysfonctionnement complet de l’ordinateur. Les appareils
+          deviennentvinutilisables et le fabricant vous indiquera qu’il faudra
+          remplacer toute la carte mère. Le coût de réparation sera très
+          élevé alors qu’on pourrait simplement remplacer par micro-soudure ce
+          composant coûtant quelques euros. Ceci est un exemple parmi d’autres.
+          De telles pratiques enlèvent à l’utilisateur son droit de posséder
+          un objet fonctionnel de qualité. De plus, les conséquences
+          écologiques sont énormes, l’obsolescence programmé génère des
+          déchets considérables et nocifs pour notre environnement. J’ai donc
+          décidé de créer « Reset Lab » pour réparer ce matériel high tech.
+          Ce sera aussi une manière de remettre en cause les agissements
+          nuisibles d’industriels et d’encourager l’utilisation de matériel
+          reconditionné qui suffit amplement à nos besoins.\</div>
         actions: []
         image_alt: lorem-ipsum
         media_position: left
