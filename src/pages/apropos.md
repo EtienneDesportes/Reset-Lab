@@ -22,7 +22,7 @@ sections:
           </div>
         image: images/réparation-micro-soudure.jpg
         media_position: right
-        media_width: fifty
+        media_width: fourty
         image_alt: réparation micro soudure apple
       - content: >
           <div style="text-align: justify">L’obsolescence programmée est de
