@@ -70,7 +70,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: 'remplacer '
+        image_alt: réparer mon mac
         image_position: top
         image_width: twenty-five
         image_align: left
