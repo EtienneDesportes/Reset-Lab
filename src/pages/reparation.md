@@ -48,18 +48,20 @@ sections:
           Quand un MacBook tombe en panne, il faut dans un premier temps
           utiliser son esprit de déduction et d'observation pour identifier les
           composants défectueux. On se retrouve donc dans la peau d'un détective
-          en quelque sorte ! Toutes traces visibles d'oxydation (traces
-          bleues/vertes) sont des indices en plus, il ne faut donc jamais
-          désoxyder une carte mère avant la réparation, cela brouille les pistes
-          ! Si aucune trace n'est présente, équipé d'un multimère, il faut
-          analyser comment le circuit se comporte en l'état actuel et comparer
-          avec les valeurs retrouvées sur le schéma du circuit. La machine
-          injecte-elle bien assez de voltage pour démarrer le onewirecircuit ?
-          La ligne électrique PP3V42\_G3H est-elle bien présente ? Résistance,
-          fusible, condensateur, il ne faut rien rater. À l'aide d'une
-          alimentation de labo, on peut injecter du voltage dans certaines
-          parties du circuit afin d'en trouver les courts-circuits potentiels.
-          On peut ainsi réparer une carte-mère sans la changer entièrement !
+          en quelque sorte ! Toutes traces visibles
+          \<strong>d'oxydation\</strong> (traces bleues/vertes) sont des indices
+          en plus, il ne faut donc jamais désoxyder une carte mère avant la
+          réparation, cela brouille les pistes ! Si aucune trace n'est présente,
+          équipé d'un \<strong>multimère\</strong>, il faut analyser comment le
+          circuit se comporte en l'état actuel et comparer avec les valeurs
+          retrouvées sur le \<strong>schéma du circuit\</strong>. La machine
+          injecte-elle bien assez de \<strong>voltage\</strong> pour démarrer le
+          onewirecircuit ? La ligne électrique \<strong>PP3V42\_G3H\</strong>
+          est-elle bien présente ? Résistance, fusible, condensateur, il ne faut
+          rien rater. À l'aide d'une \<strong>alimentation de labo\</strong>, on
+          peut injecter du voltage dans certaines parties du circuit afin d'en
+          trouver les \<strong>courts-circuits\</strong> potentiels. On peut
+          ainsi réparer une carte-mère sans la changer entièrement !
 
 
           </div>
