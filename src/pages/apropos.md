@@ -20,7 +20,7 @@ sections:
 
 
           </div>
-        image: images/1-port-brest-yannick-le-gal-1920x960-crop-1542723260.jpg
+        image: images/réparation-micro-soudure.jpg
         media_position: right
         media_width: fifty
 template: advanced
