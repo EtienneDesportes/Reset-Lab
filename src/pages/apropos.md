@@ -46,6 +46,7 @@ sections:
         media_width: fourty
         align: left
         type: feature
+        image: images/air-chaud-hot-soudure.jpg
 template: advanced
 seo:
   title: Reset Lab - A propos
