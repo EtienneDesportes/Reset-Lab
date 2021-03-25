@@ -89,7 +89,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/cool-birch.jpg
-    grid_cols: two
+    grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: medium
     enable_cards: false
