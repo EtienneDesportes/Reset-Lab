@@ -41,12 +41,6 @@ sections:
         align: left
         type: feature
         image: images/réparation-multimètre-soudure-microscope.jpg
-      - actions: []
-        media_position: left
-        media_width: fourty
-        align: left
-        type: feature
-        image: images/air-chaud-hot-soudure.jpg
 template: advanced
 seo:
   title: Reset Lab - A propos
