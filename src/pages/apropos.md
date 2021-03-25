@@ -24,17 +24,16 @@ sections:
         media_position: right
         media_width: fifty
         image_alt: réparation micro soudure apple
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - content: >
+          \<h3>Atelier de réparation basé sur Brest\</h3>\<div
+          style="text-align: justify">En 2019, Etienne Desportes, ingénieur
+          mécatronique et bricoleur en tout genre, décide d'ouvrir son atelier
+          pour redonner aux technologies du quotidien la valeur qu'ils méritent
+          : \<strong>rien ne se jette, tout est réparable\</strong>. Diplômé de
+          la formaton trinationale mécatronique en suisse, l'électronique est
+          une réelle passion. Si vous êtes sur Brest vous pouvez directement
+          venir déposer votre machine. On se fera un plaisir de vous expliquer
+          comment on procède.\</div>
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
