@@ -37,7 +37,7 @@ sections:
         media_position: left
         media_width: fifty
         image: images/outils-réparation-macbook.jpg
-        image_alt: Réparation Carte-mère Macbook
+        image_alt: Réparation Carte-mère Macbook outils
         title: Nos outils
       - title: Le diagnostic
         subtitle: ''
