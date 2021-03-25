@@ -49,7 +49,7 @@ sections:
         image: images/air-chaud-hot-soudure.jpg
       - actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
         type: feature
