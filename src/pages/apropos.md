@@ -41,7 +41,7 @@ sections:
           décidé de créer « Reset Lab » pour réparer ce matériel high tech.
           Ce sera aussi une manière de remettre en cause les agissements
           nuisibles d’industriels et d’encourager l’utilisation de matériel
-          reconditionné qui suffit amplement à nos besoins.\</div>
+          reconditionné qui suffit amplement à nos besoins.</div>
         actions: []
         image_alt: lorem-ipsum
         media_position: left
