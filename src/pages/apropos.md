@@ -41,8 +41,7 @@ sections:
         align: left
         type: feature
         image: images/réparation-multimètre-soudure-microscope.jpg
-      - title: lorem-ipsum
-        actions: []
+      - actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
