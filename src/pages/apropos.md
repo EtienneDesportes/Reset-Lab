@@ -63,7 +63,7 @@ sections:
         image_alt: soudure microscope
         image_position: top
         image_width: fifty
-        image_align: left
+        image_align: right
         image_has_padding: false
         type: grid_item
         image: images/soudure-microscope.jpg
