@@ -58,7 +58,7 @@ sections:
           injecte-elle bien assez de <strong>voltage</strong> pour démarrer le
           onewirecircuit ? La ligne électrique <strong>PP3V42\_G3H</strong>
           est-elle bien présente ? Résistance, fusible, condensateur, il ne faut
-          rien rater. À l'aide d'une \<strong>alimentation de labo\</strong>, on
+          rien rater. À l'aide d'une <strong>alimentation de labo\</strong>, on
           peut injecter du voltage dans certaines parties du circuit afin d'en
           trouver les \<strong>courts-circuits\</strong> potentiels. On peut
           ainsi réparer une carte-mère sans la changer entièrement !
