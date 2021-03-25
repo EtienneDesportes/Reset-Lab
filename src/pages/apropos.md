@@ -53,6 +53,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/alimentation-labo-réparation.jpg
 template: advanced
 seo:
   title: Reset Lab - A propos
