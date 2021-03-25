@@ -42,7 +42,7 @@ sections:
         type: feature
         image: images/réparation-multimètre-soudure-microscope.jpg
       - actions: []
-        media_position: top
+        media_position: left
         media_width: fifty
         align: left
         type: feature
