@@ -60,18 +60,6 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: sixty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/fierce-jupiter.jpg
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
         image_alt: soudure microscope
         image_position: top
         image_width: sixty
@@ -79,6 +67,18 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/soudure-microscope.jpg
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: sixty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/fierce-jupiter.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
