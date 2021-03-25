@@ -48,7 +48,6 @@ sections:
         type: feature
         image: images/air-chaud-hot-soudure.jpg
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
         media_position: top
