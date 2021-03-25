@@ -44,7 +44,7 @@ sections:
       - actions: []
         image_alt: lorem-ipsum
         media_position: top
-        media_width: fifty
+        media_width: thirty-three
         align: left
         type: feature
 template: advanced
