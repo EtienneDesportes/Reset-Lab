@@ -58,18 +58,6 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: right
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/cool-birch.jpg
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
         image_alt: soudure microscope
         image_position: bottom
         image_width: fifty
@@ -89,6 +77,18 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/fierce-jupiter.jpg
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: right
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/cool-birch.jpg
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: medium
