@@ -68,7 +68,6 @@ sections:
         type: grid_item
         image: images/fierce-jupiter.jpg
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
