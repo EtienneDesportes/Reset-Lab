@@ -60,7 +60,7 @@ sections:
           est-elle bien présente ? Résistance, fusible, condensateur, il ne faut
           rien rater. À l'aide d'une <strong>alimentation de labo</strong>, on
           peut injecter du voltage dans certaines parties du circuit afin d'en
-          trouver les <strong>courts-circuits\</strong> potentiels. On peut
+          trouver les <strong>courts-circuits</strong> potentiels. On peut
           ainsi réparer une carte-mère sans la changer entièrement !
 
 
