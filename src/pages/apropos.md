@@ -23,6 +23,7 @@ sections:
         image: images/réparation-micro-soudure.jpg
         media_position: right
         media_width: fifty
+        image_alt: réparation
 template: advanced
 seo:
   title: Reset Lab - A propos
