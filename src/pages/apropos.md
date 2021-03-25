@@ -76,7 +76,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/fierce-jupiter.jpg
+        image: images/P1111517.jpg
       - title_align: left
         content_align: left
         actions: []
