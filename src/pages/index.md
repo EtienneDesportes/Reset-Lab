@@ -263,7 +263,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/réparation-macbook-brest.jpg
+      value: /images/futuristic-oak.jpg
       keyName: property
       relativeUrl: true
   type: stackbit_page_meta
