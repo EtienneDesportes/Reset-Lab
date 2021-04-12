@@ -25,6 +25,7 @@ seo:
 template: post
 date: '2021-02-11'
 image: images/Product-Policy-4-web-landscape.jpg
+thumb_image: images/cool-petunia.jpg
 ---
 <div style="text-align: justify">
 
