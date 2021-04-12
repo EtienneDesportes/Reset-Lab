@@ -98,7 +98,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        image_alt: Déposer colis
+        image_alt: Réparation Imac
       - title: Réparation
         title_align: center
         content: >-
