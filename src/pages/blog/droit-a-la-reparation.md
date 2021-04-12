@@ -2,7 +2,10 @@
 title: >-
   Le Parlement européen se positionne en faveur d’un Droit à la Réparation
   ambitieux
-subtitle: lorem-ipsum
+subtitle: >-
+  Cette semaine, le Parlement européen a voté en faveur de l'implémentation d'un
+  Droit à la Réparation parallèlement à un ensemble de mesures d'économie
+  circulaire ambitieuses.
 categories:
   - src/data/categories/general.yaml
 tags: []
