@@ -11,7 +11,7 @@ date: '2021-04-12'
 categories: []
 tags: []
 excerpt: lorem-ipsum
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: iphone réparation brest
 image_alt: Iphone en panne Brest
 image_position: left
 seo:
