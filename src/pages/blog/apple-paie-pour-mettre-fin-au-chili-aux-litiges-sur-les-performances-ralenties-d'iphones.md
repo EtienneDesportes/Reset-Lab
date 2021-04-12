@@ -7,7 +7,7 @@ subtitle: >-
   avec une association de consommateurs chiliens pour régler une action
   collective pour obsolescence programmée de certains de ses téléphones afp.com
   - Josh Edelson
-date: '2021-04-12'
+date: '2021-04-02'
 categories: []
 tags: []
 excerpt: lorem-ipsum
