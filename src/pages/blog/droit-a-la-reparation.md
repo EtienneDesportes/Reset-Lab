@@ -12,7 +12,7 @@ excerpt: >-
   circulaire ambitieuses.
 thumb_image_alt: Réparation smartphone
 image_alt: Réparation iphone Brest
-image_position: top
+image_position: right
 seo:
   title: ''
   description: ''
