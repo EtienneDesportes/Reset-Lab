@@ -2,7 +2,11 @@
 title: >-
   Apple paie pour mettre fin au Chili aux litiges sur les performances ralenties
   d'Iphones
-subtitle: lorem-ipsum
+subtitle: >-
+  Apple a conclu un accord de 3,4 millions de dollars (2,86 millions d'euros)
+  avec une association de consommateurs chiliens pour régler une action
+  collective pour obsolescence programmée de certains de ses téléphones afp.com
+  - Josh Edelson
 date: '2021-04-12'
 categories: []
 tags: []
