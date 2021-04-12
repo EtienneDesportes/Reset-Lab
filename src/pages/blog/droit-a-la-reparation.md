@@ -75,5 +75,5 @@ Par ailleurs, le rapport :
 Article original en anglais – Right To Repair Europe, Chloé Mikolajczak :
 <https://repair.eu/news/european-parliament-calls-for-ambitious-right-to-repair/>
 
-\</div>
+</div>
 
