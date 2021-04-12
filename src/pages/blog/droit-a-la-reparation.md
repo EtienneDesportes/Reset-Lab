@@ -21,6 +21,7 @@ seo:
   type: stackbit_page_meta
 template: post
 date: '2021-02-11'
+image: images/Product-Policy-4-web-landscape.jpg
 ---
 ## Lorem ipsum
 
