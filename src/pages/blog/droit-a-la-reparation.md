@@ -4,7 +4,8 @@ title: >-
   ambitieux
 subtitle: lorem-ipsum
 date: '2021-04-12'
-categories: []
+categories:
+  - src/data/categories/general.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
