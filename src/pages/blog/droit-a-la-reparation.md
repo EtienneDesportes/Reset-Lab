@@ -1,5 +1,7 @@
 ---
-title: lorem-ipsum
+title: >-
+  Le Parlement européen se positionne en faveur d’un Droit à la Réparation
+  ambitieux
 subtitle: lorem-ipsum
 date: '2021-04-12'
 categories: []
