@@ -11,7 +11,7 @@ excerpt: >-
   Droit à la Réparation parallèlement à un ensemble de mesures d'économie
   circulaire ambitieuses.
 thumb_image_alt: Réparation smartphone
-image_alt: lorem-ipsum
+image_alt: Réparation smartphone
 image_position: top
 seo:
   title: ''
