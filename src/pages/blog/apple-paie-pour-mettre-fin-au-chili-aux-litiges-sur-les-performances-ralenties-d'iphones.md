@@ -12,7 +12,7 @@ categories: []
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
+image_alt: Iphone en panne Brest
 image_position: top
 seo:
   title: ''
