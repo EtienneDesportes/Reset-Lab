@@ -21,6 +21,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+image: >-
+  images/2f946301-apple-iphone-12-mini-un-format-seduisant-pour-une-autonomie-limitee.jpeg
 ---
 Apple a conclu un accord de 3,4 millions de dollars (2,86 millions d'euros) avec une association de consommateurs chiliens pour régler une action collective pour obsolescence programmée de certains de ses téléphones, une première en Amérique latine, a annoncé mercredi l'avocat des plaignants.
 
