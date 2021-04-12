@@ -25,7 +25,7 @@ seo:
 template: post
 date: '2021-02-11'
 image: images/Product-Policy-4-web-landscape.jpg
-thumb_image: images/good-coriander.jpg
+thumb_image: images/parallel-tortoise.jpg
 ---
 <div style="text-align: justify">
 
