@@ -12,13 +12,13 @@ sections:
           <div style="text-align: justify">En 2020, Etienne Desportes, ingénieur
           mécatronique et bricoleur en tout genre, décide d'ouvrir son atelier
           pour redonner aux technologies du quotidien la valeur qu'ils méritent
-          : <strong>rien ne se jette, tout est réparable</strong>. Non seulement
-          c’est économique pour le client, une passion pour le réparateur
-          (moi-même), et écologique pour tout le monde. Diplômé de la
-          formation trinationale mécatronique en suisse, l'électronique est une
-          réelle passion. Si vous êtes sur Brest vous pouvez directement venir
-          déposer votre machine. On se fera un plaisir de vous expliquer comment
-          on procède.
+          : <strong>rien ne se jette, tout est réparable</strong> (enfin
+          presque... ). Non seulement c’est économique pour le client, une
+          passion pour le réparateur (moi-même), et écologique pour tout le
+          monde. Diplômé de la formation trinationale mécatronique en suisse,
+          l'électronique est une réelle passion. Si vous êtes sur Brest vous
+          pouvez directement venir déposer votre machine. On se fera un plaisir
+          de vous expliquer comment on procède.
 
 
           </div>
