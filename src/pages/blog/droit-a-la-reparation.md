@@ -3,7 +3,7 @@ title: >-
   Le Parlement européen se positionne en faveur d’un Droit à la Réparation
   ambitieux
 subtitle: lorem-ipsum
-date: '2021-04-12'
+date: '2021-04-01'
 categories:
   - src/data/categories/general.yaml
 tags: []
