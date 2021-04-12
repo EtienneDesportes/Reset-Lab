@@ -8,7 +8,8 @@ subtitle: >-
   collective pour obsolescence programmée de certains de ses téléphones afp.com
   - Josh Edelson
 date: '2021-04-02'
-categories: []
+categories:
+  - src/data/categories/general.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: iphone réparation brest
