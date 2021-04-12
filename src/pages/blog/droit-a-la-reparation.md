@@ -10,7 +10,7 @@ excerpt: >-
   Cette semaine, le Parlement européen a voté en faveur de l'implémentation d'un
   Droit à la Réparation parallèlement à un ensemble de mesures d'économie
   circulaire ambitieuses.
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Réparation smartphone
 image_alt: lorem-ipsum
 image_position: top
 seo:
