@@ -1,5 +1,7 @@
 ---
-title: lorem-ipsum
+title: >-
+  Apple paie pour mettre fin au Chili aux litiges sur les performances ralenties
+  d'Iphones
 subtitle: lorem-ipsum
 date: '2021-04-12'
 categories: []
