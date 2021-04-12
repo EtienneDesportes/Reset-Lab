@@ -1,7 +1,5 @@
 ---
-title: >-
-  Apple paie pour mettre fin au Chili aux litiges sur les performances ralenties
-  d'Iphones
+title: 'iPhone ralentis : Apple paie des millions au Chili pour mettre fin aux litiges'
 subtitle: >-
   Apple a conclu un accord de 3,4 millions de dollars (2,86 millions d'euros)
   avec une association de consommateurs chiliens pour régler une action
