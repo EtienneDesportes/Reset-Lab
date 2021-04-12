@@ -1,5 +1,5 @@
 ---
-title: 'Reset Lab - Réparation Macbook / Ipad / Iphone '
+title: Reset Lab - Réparation Macbook / Ipad / Iphone / Imac
 sections:
   - type: hero_section
     content: >
