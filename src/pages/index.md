@@ -20,7 +20,7 @@ sections:
     padding_bottom: none
     background_color: secondary
     background_image_size: cover
-    <!-- _backgroundColor: "#def" -->
+    <!-- _backgroundColor: "#1787fc" -->
     background_image_position: center center
     background_image_repeat: no-repeat
     background_image: images/magnificent-lavender.jpg
