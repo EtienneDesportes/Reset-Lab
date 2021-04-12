@@ -15,8 +15,8 @@ sections:
 
 
       Vous réglez uniquement le devis si la réparation est réalisée avec succès.
-      Pas de mauvaises surprises. Les tarifs vont **de 120 à 430€ TTC**, selon
-      la panne et l’âge de votre machine. La facturation se fait toujours après
+      Pas de mauvaises surprises. Les tarifs vont **de 80 à 430€ TTC**, selon la
+      panne et l’âge de votre machine. La facturation se fait toujours après
       réparation.
 
 
