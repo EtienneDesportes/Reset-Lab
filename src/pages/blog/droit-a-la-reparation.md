@@ -26,6 +26,8 @@ template: post
 date: '2021-02-11'
 image: images/Product-Policy-4-web-landscape.jpg
 ---
+\<div style="text-align: justify">
+
 Les députés européens ont pris position ce mardi 9 février au sujet du rapport sur le **Circular Economy Action Plan** présenté l’année dernière par la Commission européenne. Une écrasante majorité a voté en faveur de mesures ambitieuses visant à prolonger la durée de vie des produits, à améliorer l’accès aux pièces détachées et à fournir une meilleure information aux consommateurs.
 
 ### Un mandat fort pour la Comission européenne
@@ -72,3 +74,6 @@ Par ailleurs, le rapport :
 
 Article original en anglais – Right To Repair Europe, Chloé Mikolajczak :
 <https://repair.eu/news/european-parliament-calls-for-ambitious-right-to-repair/>
+
+\</div>
+
