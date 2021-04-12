@@ -35,17 +35,16 @@ sections:
           complet de l’ordinateur. Les appareils deviennent inutilisables et le
           fabricant vous indiquera qu’il faudra remplacer toute la carte mère.
           Le coût de réparation sera très élevé alors qu’on pourrait
-          simplement remplacer par <strong>micro-soudure</strong> ce composant
-          coûtant quelques euros. Ceci est un exemple parmi d’autres. De telles
-          pratiques enlèvent à l’utilisateur son droit de posséder <strong>un
-          objet fonctionnel de qualité</strong>. De plus, les conséquences
-          écologiques sont énormes, l’obsolescence programmé génère
-          <strong>des déchets considérables et nocifs pour notre
-          environnement</strong>. J’ai donc décidé de créer « Reset Lab »
-          pour réparer ce matériel high tech. Ce sera aussi une manière de
-          remettre en cause les agissements nuisibles d’industriels et
-          d’encourager l’utilisation de matériel reconditionné qui suffit
-          amplement à nos besoins.</div>
+          simplement remplacer par <strong>micro-soudure</strong> ce composant.
+          Ceci est un exemple parmi d’autres. De telles pratiques enlèvent à
+          l’utilisateur son droit de posséder <strong>un objet fonctionnel de
+          qualité</strong>. De plus, les conséquences écologiques sont
+          énormes, l’obsolescence programmé génère <strong>des déchets
+          considérables et nocifs pour notre environnement</strong>. J’ai donc
+          décidé de créer « Reset Lab » pour réparer ce matériel high tech.
+          Ce sera aussi une manière de remettre en cause les agissements
+          nuisibles d’industriels et d’encourager l’utilisation de matériel
+          reconditionné qui suffit amplement à nos besoins.</div>
         actions: []
         image_alt: micro soudure carte mère réparation macbook
         media_position: left
