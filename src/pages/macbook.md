@@ -276,7 +276,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/macbook 2017 13__-min.png
-    grid_cols: two
+    grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
