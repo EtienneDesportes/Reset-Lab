@@ -213,6 +213,69 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/macbook 2017 13__-min.png
+      - title_align: right
+        content_align: center
+        actions:
+          - label: MacBook Air 13" Retina 2020
+            url: lorem-ipsum
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: left
+        image_width: thirty-three
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/macbook 2017 13__-min.png
+      - title_align: right
+        content_align: center
+        actions:
+          - label: MacBook Air 13" Retina 2020
+            url: lorem-ipsum
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: left
+        image_width: thirty-three
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/macbook 2017 13__-min.png
+      - title_align: right
+        content_align: center
+        actions:
+          - label: MacBook Air 13" Retina 2020
+            url: lorem-ipsum
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: left
+        image_width: thirty-three
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/macbook 2017 13__-min.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
