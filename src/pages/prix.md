@@ -45,6 +45,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/macbook 2012_-min.png
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
