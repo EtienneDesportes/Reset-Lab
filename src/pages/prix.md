@@ -5,8 +5,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title: 'MacBook 12" '
-        title_align: left
+      - title_align: left
         content_align: left
         actions:
           - label: lorem-ipsum
