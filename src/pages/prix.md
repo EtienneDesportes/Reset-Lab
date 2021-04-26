@@ -1,5 +1,5 @@
 ---
-title: Prix
+title: Macbook
 sections:
   - title: MacBook
     actions: []
