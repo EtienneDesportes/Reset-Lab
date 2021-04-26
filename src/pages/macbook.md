@@ -7,7 +7,7 @@ sections:
       - title_align: right
         content_align: center
         actions:
-          - label: MacBook 12'' A1534
+          - label: 'MacBook 12'''' '
             url: lorem-ipsum
             style: secondary
             has_icon: false
