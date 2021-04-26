@@ -25,6 +25,8 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/macbook 12_-min.png
+        content: |
+          A1534
       - title_align: left
         content_align: left
         actions:
