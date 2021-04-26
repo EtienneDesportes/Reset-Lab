@@ -197,7 +197,7 @@ sections:
         actions:
           - label: MacBook Air 13" 2011-2017
             url: lorem-ipsum
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
