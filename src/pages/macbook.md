@@ -59,7 +59,7 @@ sections:
             no_follow: false
             type: action
         actions_align: right
-        actions_width: auto
+        actions_width: full-width
         image_alt: lorem-ipsum
         image_position: left
         image_width: thirty-three
