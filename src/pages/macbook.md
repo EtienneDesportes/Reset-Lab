@@ -7,7 +7,7 @@ sections:
       - title_align: right
         content_align: center
         actions:
-          - label: 12'' A1534
+          - label: Mac12'' A1534
             url: lorem-ipsum
             style: secondary
             has_icon: false
