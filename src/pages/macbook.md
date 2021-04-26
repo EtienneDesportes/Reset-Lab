@@ -132,7 +132,7 @@ sections:
       - title_align: left
         content_align: center
         actions:
-          - label: MacBook Pro Touch 13"  2018 - 2019
+          - label: MacBook Pro Touch 13"  2018 - 2020
             url: lorem-ipsum
             style: secondary
             has_icon: false
