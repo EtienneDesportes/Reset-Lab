@@ -90,7 +90,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: MacBook Pro 13" 2016 - 2017
             url: lorem-ipsum
             style: link
             has_icon: false
