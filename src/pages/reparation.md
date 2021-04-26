@@ -1,5 +1,5 @@
 ---
-title: Comment se déroule la réparation ?
+title: Comment ça marche ?
 sections:
   - type: features_section
     features:
