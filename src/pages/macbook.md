@@ -87,7 +87,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/macbook 2013 retina 15-min.png
+        image: images/macbook 2013 retina 15-min(1).png
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
