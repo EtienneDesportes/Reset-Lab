@@ -6,7 +6,7 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content_align: left
+        content_align: center
         actions:
           - label: MacBook 12'' A1534
             url: lorem-ipsum
