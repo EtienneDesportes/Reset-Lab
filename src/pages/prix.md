@@ -41,7 +41,7 @@ sections:
         actions:
           - label: MacBook Pro 2010 - 2012
             url: lorem-ipsum
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
