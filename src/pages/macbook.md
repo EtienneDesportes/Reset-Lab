@@ -174,7 +174,7 @@ sections:
       - title_align: left
         content_align: center
         actions:
-          - label: MacBook Pro 16" 2019
+          - label: MacBook Pro 16" 2019-2020
             url: lorem-ipsum
             style: secondary
             has_icon: false
