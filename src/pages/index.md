@@ -266,4 +266,5 @@ seo:
       keyName: property
       relativeUrl: true
   type: stackbit_page_meta
+title: Accueil
 ---
