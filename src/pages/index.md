@@ -1,5 +1,5 @@
 ---
-title: Reset Lab - Réparation Macbook Ipad Iphone Imac
+title: Reset Lab - Réparation Macbook Ipad Iphone
 sections:
   - type: hero_section
     content: >
