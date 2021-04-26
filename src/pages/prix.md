@@ -5,7 +5,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: MacBook 12" A1534
         subtitle: lorem-ipsum
         title_align: left
         content: >-
