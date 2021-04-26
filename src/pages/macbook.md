@@ -70,7 +70,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: MacBook Pro Retina 15" 2012 - 2015
             url: lorem-ipsum
             style: link
             has_icon: false
