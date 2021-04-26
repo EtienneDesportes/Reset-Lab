@@ -15,7 +15,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        actions_align: right
+        actions_align: left
         actions_width: auto
         image_alt: 'A1534 macbook '
         image_position: left
