@@ -192,7 +192,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/macbook 2017 13__-min.png
-      - title_align: left
+      - title_align: right
         content_align: center
         actions:
           - label: MacBook Air 13" 2011-2017
