@@ -59,7 +59,7 @@ sections:
 template: advanced
 excerpt: J'ai une question
 seo:
-  title: Reset Lab - Blog
+  title: Reset Lab - Contact
   description: >-
     Votre MacBook / Iphone / Ipad / Imac est en panne ? Nous sommes spécialistes
     en réparation de carte-mère. Venez déposer votre machine sur Brest ! 
