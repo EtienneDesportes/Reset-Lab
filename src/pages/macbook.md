@@ -153,7 +153,7 @@ sections:
       - title_align: left
         content_align: center
         actions:
-          - label: MacBook Pro Touch 15" 2018 - 2019
+          - label: 'MacBook Pro Touch 15" 2018 '
             url: lorem-ipsum
             style: secondary
             has_icon: false
