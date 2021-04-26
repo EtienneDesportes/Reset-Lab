@@ -4,7 +4,7 @@ sections:
   - title: MacBook
     actions: []
     grid_items:
-      - title_align: center
+      - title_align: right
         content_align: center
         actions:
           - label: 12'' A1534
