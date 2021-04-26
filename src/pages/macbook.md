@@ -47,7 +47,7 @@ sections:
         type: grid_item
         image: images/macbook 2012_-min.png
       - title_align: left
-        content_align: left
+        content_align: center
         actions:
           - label: MacBook Pro Retina 13" 2012-2015
             url: lorem-ipsum
