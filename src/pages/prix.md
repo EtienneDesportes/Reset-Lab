@@ -39,7 +39,7 @@ sections:
           - dolor sit amet
         content_align: left
         actions:
-          - label: MacBook Pro 13'' 2010 - 2012
+          - label: MacBook Pro 2010 - 2012
             url: lorem-ipsum
             style: link
             has_icon: false
