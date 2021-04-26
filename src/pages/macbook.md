@@ -195,7 +195,7 @@ sections:
       - title_align: right
         content_align: center
         actions:
-          - label: MacBook Air 13" Retina
+          - label: MacBook Air 13" Retina 2020
             url: lorem-ipsum
             style: secondary
             has_icon: false
