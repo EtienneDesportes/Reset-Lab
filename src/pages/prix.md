@@ -1,7 +1,7 @@
 ---
 title: Prix
 sections:
-  - title: lorem-ipsum
+  - title: MacBook
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
