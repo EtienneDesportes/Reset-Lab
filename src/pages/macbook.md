@@ -88,7 +88,7 @@ sections:
         type: grid_item
         image: images/super-apple.png
       - title_align: left
-        content_align: left
+        content_align: center
         actions:
           - label: MacBook Pro 13" 2016 - 2017
             url: lorem-ipsum
