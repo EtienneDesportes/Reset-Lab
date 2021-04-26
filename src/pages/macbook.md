@@ -195,7 +195,7 @@ sections:
       - title_align: right
         content_align: center
         actions:
-          - label: MacBook Air 13" 2011-2017
+          - label: MacBook Air 13" Retina
             url: lorem-ipsum
             style: secondary
             has_icon: false
