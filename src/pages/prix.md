@@ -2,7 +2,6 @@
 title: Prix
 sections:
   - title: MacBook
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title_align: center
