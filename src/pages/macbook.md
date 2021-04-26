@@ -1,8 +1,7 @@
 ---
 title: Macbook
 sections:
-  - title: MacBook
-    actions: []
+  - actions: []
     grid_items:
       - title_align: right
         content_align: center
