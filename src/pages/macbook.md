@@ -10,7 +10,7 @@ sections:
           - label: 'MacBook 12'''' '
             url: lorem-ipsum
             style: secondary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: left
             new_window: false
