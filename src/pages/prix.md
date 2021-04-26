@@ -5,7 +5,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title_align: left
+      - title_align: center
         content_align: center
         actions:
           - label: MacBook 12'' A1534
