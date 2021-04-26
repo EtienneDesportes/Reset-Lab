@@ -16,7 +16,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/Product-Policy-4-web-landscape.jpg
-    video_embed_html: '   '
 seo:
   title: ''
   description: ''
