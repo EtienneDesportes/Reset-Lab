@@ -6,7 +6,7 @@ sections:
     actions: []
     grid_items:
       - title: 'MacBook 12" '
-        subtitle: lorem-ipsum
+        subtitle: A1534
         title_align: left
         content: >-
           ## Lorem ipsum
