@@ -18,7 +18,7 @@ sections:
             type: action
         actions_align: right
         actions_width: full-width
-        image_alt: A1534
+        image_alt: 'A1534 macbook '
         image_position: left
         image_width: thirty-three
         image_align: left
