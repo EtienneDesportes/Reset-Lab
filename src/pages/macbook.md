@@ -84,7 +84,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         image_width: thirty-three
-        image_align: right
+        image_align: left
         image_has_padding: false
         type: grid_item
         image: images/super-apple.png
