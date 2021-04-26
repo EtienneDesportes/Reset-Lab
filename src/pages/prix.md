@@ -6,7 +6,6 @@ sections:
     actions: []
     grid_items:
       - title: 'MacBook 12" '
-        subtitle: A1534
         title_align: left
         content_align: left
         actions:
