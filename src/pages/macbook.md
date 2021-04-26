@@ -67,8 +67,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/macbook 2013 retina 13_-min.png
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
