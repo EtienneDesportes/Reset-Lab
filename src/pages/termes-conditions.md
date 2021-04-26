@@ -1,6 +1,12 @@
 ---
 title: Conditions Générales d'Utilisation
 template: page
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
 <div style="text-align: justify">
 
