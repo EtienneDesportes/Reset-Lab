@@ -3,7 +3,6 @@ title: Conditions Générales d'Utilisation
 template: page
 seo:
   title: Termes & Conditions
-  description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
