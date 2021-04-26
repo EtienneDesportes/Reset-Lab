@@ -12,7 +12,7 @@ sections:
             url: lorem-ipsum
             style: link
             has_icon: false
-            icon: linkedin
+            icon: twitter
             icon_position: right
             new_window: false
             no_follow: false
