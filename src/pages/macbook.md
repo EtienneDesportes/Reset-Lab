@@ -1,8 +1,7 @@
 ---
 title: Macbook
 sections:
-  - title: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
