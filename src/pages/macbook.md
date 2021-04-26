@@ -28,7 +28,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Pro 2010 - 2012
+          - label: MacBook Pro 2010 - 2012
             url: lorem-ipsum
             style: secondary
             has_icon: false
