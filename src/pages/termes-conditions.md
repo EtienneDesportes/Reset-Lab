@@ -2,7 +2,7 @@
 title: Conditions Générales d'Utilisation
 template: page
 seo:
-  title: ''
+  title: Termes & Conditions
   description: ''
   robots: []
   extra: []
