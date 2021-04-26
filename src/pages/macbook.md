@@ -216,7 +216,7 @@ sections:
       - title_align: right
         content_align: center
         actions:
-          - label: MacBook Air 13" Retina 2020
+          - label: 'MacBook Pro Touch Bar '
             url: lorem-ipsum
             style: secondary
             has_icon: false
