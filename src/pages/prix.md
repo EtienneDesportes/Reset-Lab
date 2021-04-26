@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Prix
 sections: []
 seo:
   title: ''
