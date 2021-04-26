@@ -174,7 +174,7 @@ sections:
       - title_align: left
         content_align: center
         actions:
-          - label: MacBook Air 11" 2011-2017
+          - label: MacBook Pro Scissor 16" 2019
             url: lorem-ipsum
             style: secondary
             has_icon: false
