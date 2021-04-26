@@ -102,7 +102,7 @@ sections:
 template: advanced
 excerpt: 'Micro-Soudure - J''ai renversé de l''eau sur mon Mac, c''est grave ?'
 seo:
-  title: Reset Lab - Comment ça marche ?
+  title: Comment ça marche ?
   description: >-
     La réparation est uniquement facturée si elle est réalisée avec succès !
     Nous sommes spécialistes en réparation de carte-mère. Venez déposer votre
