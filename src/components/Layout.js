@@ -35,6 +35,7 @@ export default class Body extends React.Component {
                     	) : 
                     	<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/>
                     )}
+                    
                     <body className={'layout-' + _.get(this.props, 'pageContext.site.siteMetadata.layout', null) + ' style-' + _.get(this.props, 'pageContext.site.siteMetadata.style', null) + ' palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette', null) + ' mode-' + _.get(this.props, 'pageContext.site.siteMetadata.mode', null) + ' font-' + _.get(this.props, 'pageContext.site.siteMetadata.base_font', null)} />
                 </Helmet>
                 <div id="site-wrap" className="site">
