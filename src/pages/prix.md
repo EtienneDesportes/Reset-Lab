@@ -49,7 +49,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: MacBook Pro Retina 13" 2012
+          - label: MacBook Pro Retina 13" 2012-2015
             url: lorem-ipsum
             style: link
             has_icon: false
