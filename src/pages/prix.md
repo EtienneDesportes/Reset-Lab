@@ -22,7 +22,6 @@ sections:
         image_align: right
         image_has_padding: false
         type: grid_item
-        image: images/best-mint.png
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
