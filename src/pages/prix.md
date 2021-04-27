@@ -65,7 +65,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: MacBook
+          - label: Imac
             url: lorem-ipsum
             style: secondary
             has_icon: false
