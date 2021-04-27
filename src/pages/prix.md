@@ -25,7 +25,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: MacBook
+          - label: Ipad
             url: lorem-ipsum
             style: secondary
             has_icon: false
