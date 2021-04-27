@@ -1,5 +1,4 @@
 ---
-title: lorem-ipsum
 sections:
   - actions: []
     grid_items:
