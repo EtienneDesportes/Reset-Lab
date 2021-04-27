@@ -1,5 +1,4 @@
 ---
-title: lorem-ipsum
 sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
