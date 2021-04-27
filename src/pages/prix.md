@@ -1,7 +1,6 @@
 ---
 sections:
-  - title: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items:
       - title_align: left
         content_align: left
