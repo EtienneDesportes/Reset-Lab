@@ -1,8 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
