@@ -3,7 +3,7 @@ title: lorem-ipsum
 sections:
   - actions: []
     media_position: top
-    media_width: fifty
+    media_width: sixty
     align: left
     padding_top: none
     padding_bottom: none
