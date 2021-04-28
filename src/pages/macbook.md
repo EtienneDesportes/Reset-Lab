@@ -31,28 +31,28 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >
-      | Modèle | Diagnostic | Carte-Mère | Ecran | Batterie | Desoxydation |
-      Sauvegarde-Data | Clavier | Trackpad |
+      | Modèle | Diagnostic | Réparation Carte-Mère | Ecran | Batterie |
+      Desoxydation | Sauvegarde-Data | Clavier | Trackpad |
 
       |---|---|---|---|---|---|---|---|---|
 
       | A1534 | Gratuit | 350€ | 590 | 180 | 140 | 150 | 280 | 150 |
 
-      | A1278, A1286, A1297 | Gratuit | 250€ | 120 | 120 | 100 | 80 | 150 | 80 |
+      | A1278 A1286 A1297 | Gratuit | 250€ | 120 | 120 | 100 | 80 | 150 | 80 |
 
-      | A1425, A1502, A1398 | Gratuit |  |  |  |  |  |  |  |
+      | A1425 A1502 A1398 | Gratuit |  |  |  |  |  |  |  |
 
-      | A1706, A1708, A1707 | Gratuit |  |  |  |  |  |  |  |
+      | A1706 A1708 A1707 | Gratuit |  |  |  |  |  |  |  |
 
-      | A1989, A1990 | Gratuit |  |  |  |  |  |  |  |
+      | A1989 A1990 | Gratuit |  |  |  |  |  |  |  |
 
-      | A2159, A225, A2289 | Gratuit |  |  |  |  |  |  |  |
+      | A2159 A225 A2289 | Gratuit |  |  |  |  |  |  |  |
 
       | A2141 | Gratuit |  |  |  |  |  |  |  |
 
-      | A1370, A1465 | Gratuit |  |  |  |  |  |  |  |
+      | A1370 A1465 | Gratuit |  |  |  |  |  |  |  |
 
-      | A1369, A1466 | Gratuit |  |  |  |  |  |  |  |
+      | A1369 A1466 | Gratuit |  |  |  |  |  |  |  |
 
       | A1932 | Gratuit |  |  |  |  |  |  |  |
 
