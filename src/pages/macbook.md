@@ -31,7 +31,6 @@ sections:
       | MacBook Air 13" 2018-2019  | A1932 |
       | MacBook Air 13" 2020  | A2179 |
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     content: >
       | Modèle | Diagnostic | Réparation Carte-Mère | Ecran | Batterie |
       Desoxydation | Sauvegarde-Data | Clavier | Trackpad |
