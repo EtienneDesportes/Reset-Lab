@@ -15,7 +15,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     content: |
-      | \*\*Modèle MacBook \*\* | **Numéro MacBook** | \*\*\*\* | \*\*\*\* |
+      | Modèle MacBook  | Numéro MacBook |  |  |
       |---|---|---|---|
       | MacBook 12"  | A1534 |  |  |
       | MacBook Pro 2010 - 2012  | A1278  | A1286  | A1297 |
