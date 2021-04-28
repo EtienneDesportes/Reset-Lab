@@ -28,6 +28,7 @@ sections:
       | MacBook Air 13" 2011-2017  | A1369, A1466 |
       | MacBook Air 13" 2018-2019  | A1932 |
       | MacBook Air 13" 2020  | A2179 |
+    title: Identifier votre numéro MacBook
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >
