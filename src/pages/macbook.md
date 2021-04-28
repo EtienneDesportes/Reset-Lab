@@ -15,7 +15,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     content: |
-      1.  **Identifiez tout d'abord votre numéro MacBook**
+      **Identifiez tout d'abord votre numéro MacBook**
 
       | Modèle MacBook  | Numéro  |
       |---|---|
