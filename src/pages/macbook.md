@@ -71,7 +71,7 @@ sections:
       |                   |             |                  |        
       |             |             |         |         |
     actions: []
-    media_position: top
+    media_position: left
     media_width: fifty
     align: center
     padding_top: none
