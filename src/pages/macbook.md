@@ -72,7 +72,7 @@ sections:
       |             |             |         |         |
     actions: []
     media_position: left
-    media_width: fifty
+    media_width: fourty
     align: center
     padding_top: none
     padding_bottom: none
