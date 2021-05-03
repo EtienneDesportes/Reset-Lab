@@ -14,7 +14,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    content: |
+    content: >
     <div style="text-align: left">
       **Identifiez tout d'abord votre numéro MacBook**
 
