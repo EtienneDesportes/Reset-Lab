@@ -73,7 +73,7 @@ sections:
     actions: []
     media_position: left
     media_width: fourty
-    align: center
+    align: left
     padding_top: none
     padding_bottom: none
     has_border: false
