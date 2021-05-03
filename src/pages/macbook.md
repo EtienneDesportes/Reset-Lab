@@ -31,32 +31,43 @@ sections:
       | MacBook Air 13" 2018-2019  | A1932 |
       | MacBook Air 13" 2020  | A2179 |
   - content: >
-      | Modèle | Diagnostic | Réparation Carte-Mère | Ecran | Batterie |
-      Desoxydation | Sauvegarde-Data | Clavier | Trackpad |
+      |                       | A1534   | A1278 A1286 A1297 | A1425 A1502 A1398
+      | A1706 A1708 A1707 | A1989 A1990 | A2159 A225 A2289 | A2141   | A1370
+      A1465 | A1369 A1466 | A1932   | A2179   |
 
-      |---|---|---|---|---|---|---|---|---|
+      |-----------------------|---------|-------------------|-------------------|-------------------|-------------|------------------|---------|-------------|-------------|---------|---------|
 
-      | A1534 | Gratuit | 350€ | 590 | 180 | 140 | 150 | 280 | 150 |
+      | Diagnostic            | Gratuit | Gratuit           | Gratuit          
+      | Gratuit           | Gratuit     | Gratuit          | Gratuit |
+      Gratuit     | Gratuit     | Gratuit | Gratuit |
 
-      | A1278 A1286 A1297 | Gratuit | 250€ | 120 | 120 | 100 | 80 | 150 | 80 |
+      | Réparation Carte Mère | 350€    | 250€              |                  
+      |                   |             |                  |        
+      |             |             |         |         |
 
-      | A1425 A1502 A1398 | Gratuit |  |  |  |  |  |  |  |
+      | Remplacement Ecran    | 590     | 120               |                  
+      |                   |             |                  |        
+      |             |             |         |         |
 
-      | A1706 A1708 A1707 | Gratuit |  |  |  |  |  |  |  |
+      | Remplacement Batterie | 180     | 120               |                  
+      |                   |             |                  |        
+      |             |             |         |         |
 
-      | A1989 A1990 | Gratuit |  |  |  |  |  |  |  |
+      | Desoxydation          | 140     | 100               |                  
+      |                   |             |                  |        
+      |             |             |         |         |
 
-      | A2159 A225 A2289 | Gratuit |  |  |  |  |  |  |  |
+      | Récupération Données  | 150     | 80                |                  
+      |                   |             |                  |        
+      |             |             |         |         |
 
-      | A2141 | Gratuit |  |  |  |  |  |  |  |
+      | Remplacement Clavier  | 280     | 150               |                  
+      |                   |             |                  |        
+      |             |             |         |         |
 
-      | A1370 A1465 | Gratuit |  |  |  |  |  |  |  |
-
-      | A1369 A1466 | Gratuit |  |  |  |  |  |  |  |
-
-      | A1932 | Gratuit |  |  |  |  |  |  |  |
-
-      | A2179 | Gratuit |  |  |  |  |  |  |  |
+      | Remplacement Trackpad | 150     | 80                |                  
+      |                   |             |                  |        
+      |             |             |         |         |
     actions: []
     media_position: top
     media_width: fifty
