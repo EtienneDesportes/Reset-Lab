@@ -14,7 +14,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    content: 
+    content: >
       **Identifiez tout d'abord votre numéro MacBook**
 
       | Modèle MacBook  | Numéro  |
