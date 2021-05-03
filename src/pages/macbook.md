@@ -16,7 +16,7 @@ sections:
     type: hero_section
     content: >
      <div style="text-align: right">
-      <strong>Identifiez tout d'abord votre numéro MacBook**
+      <strong>Identifiez tout d'abord votre numéro MacBook**<strong>
 
       | Modèle MacBook  | Numéro  |
       |---|---|
