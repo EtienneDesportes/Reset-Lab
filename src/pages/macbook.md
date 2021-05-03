@@ -4,7 +4,7 @@ sections:
   - actions: []
     media_position: top
     media_width: sixty
-    align: left
+    align: right
     padding_top: none
     padding_bottom: none
     has_border: false
