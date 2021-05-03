@@ -31,7 +31,7 @@ sections:
       | MacBook Air 13" 2011-2017  | A1369, A1466 |
       | MacBook Air 13" 2018-2019  | A1932 |
       | MacBook Air 13" 2020  | A2179 |
-       </div>
+     </div>
   - content: >
       |                       | A1534   | A1278 A1286 A1297 | A1425 A1502 A1398
       | A1706 A1708 A1707 | A1989 A1990 | A2159 A225 A2289 | A2141   | A1370
