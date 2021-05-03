@@ -15,7 +15,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     content: >
-     <div style="text-align: right">
+     <div style="text-align: left">
       <strong>Identifiez tout d'abord votre numéro MacBook</strong>
 
       | Modèle MacBook  | Numéro  |
