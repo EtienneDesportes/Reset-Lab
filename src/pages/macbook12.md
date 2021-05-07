@@ -29,9 +29,9 @@ sections:
       | Remplacement Batterie         | 180€    |
       | Desoxydation/Nettoyage        | 130€    |
       | Récupération Données          | 140€    |
-      | Remplacement Clavier/Topcase  | 280€    |
+      | Remplacement Clavier  | 280€    |
       | Remplacement Trackpad         | 150€    |
-      | Dépoussiérage/Pâte thermique  | 90€     |
+      | Dépoussiérage/Thermique  | 90€     |
       | Reinstallation OS             | 80€     |
     actions: []
     image_alt: lorem-ipsum
