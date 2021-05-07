@@ -68,7 +68,7 @@ sections:
         no_follow: false
         type: action
       - label: lorem-ipsum
-        url: lorem-ipsum
+        url: 'MacBook Pro '
         style: link
         has_icon: false
         icon: arrow-left
