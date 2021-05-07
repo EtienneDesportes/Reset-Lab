@@ -22,7 +22,7 @@ sections:
 
       | MacBook Pro 16" 2019 - 2020     | A2141               |
     actions:
-      - label: MacBook Pro
+      - label: MacBook Pro 2010-2012
         url: lorem-ipsum
         style: secondary
         has_icon: false
