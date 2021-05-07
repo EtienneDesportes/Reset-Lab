@@ -2,6 +2,8 @@
 title: lorem-ipsum
 sections:
   - content: |
+      **Tarifs MacBook Air 13" 2018-2020**
+
       | Typé de réparations           | Prix    |
       |-------------------------------|---------|
       | Diagnostic                    | Gratuit |
