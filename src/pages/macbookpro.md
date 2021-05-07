@@ -67,6 +67,15 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
       - label: MacBook Pro 16" 2019-2020
         url: MacBook Pro 16" 2019-2020
         style: secondary
