@@ -60,7 +60,7 @@ sections:
         type: action
       - label: MacBook Pro 13" 2019-2020
         url: lorem-ipsum
-        style: link
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
