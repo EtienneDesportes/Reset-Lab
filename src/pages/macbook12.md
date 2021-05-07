@@ -3,17 +3,14 @@ title: lorem-ipsum
 sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      \<div style="text-align: left">
+       \<strong>Retrouvez votre modèle MacBook sur la coque inférieur\</strong>
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      | Modèle MacBook  | Numéro  |
+      |---|---|
+      | MacBook 12" 2015-2017  | A1534 |
+      \</div>
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
