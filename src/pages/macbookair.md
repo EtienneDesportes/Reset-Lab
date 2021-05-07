@@ -10,7 +10,16 @@ sections:
       | MacBook Air 13" 2011-2017  | A1369, A1466 |
       | MacBook Air 13" 2018-2019  | A1932        |
       | MacBook Air 13" 2020       | A2179        |
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     image_alt: lorem-ipsum
     media_position: top
     media_width: fifty
