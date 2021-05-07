@@ -11,7 +11,7 @@ sections:
       | MacBook Air 13" 2018-2019  | A1932        |
       | MacBook Air 13" 2020       | A2179        |
     actions:
-      - label: 2011-
+      - label: 2011-2017
         url: lorem-ipsum
         style: link
         has_icon: false
