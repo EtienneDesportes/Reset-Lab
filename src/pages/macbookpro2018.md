@@ -2,17 +2,34 @@
 title: lorem-ipsum
 sections:
   - subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      \<div style="text-align: left">\<strong>Tarifs MacBook Pro
+      2015-2017\</strong>\</div>\</br>
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      | Typé de réparations           | Prix    |
 
+      |-------------------------------|---------|
 
-      - Lorem ipsum
+      | Diagnostic                    | Gratuit |
 
-      - dolor sit amet
+      | Réparation Carte Mère         | 350€    |
+
+      | Remplacement Ecran            | 540€    |
+
+      | Remplacement Batterie         | 200€    |
+
+      | Desoxydation/Nettoyage        | 140€     |
+
+      | Récupération Données          | 150€    |
+
+      | Remplacement Clavier/Topcase  | 250€    |
+
+      | Remplacement Trackpad         | 150€     |
+
+      | Dépoussiérage/Pâte thermique  | 120€     |
+
+      | Reinstallation OS             | 60€     |
     actions: []
     image_alt: lorem-ipsum
     media_position: top
