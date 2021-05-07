@@ -1,8 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: lorem-ipsum
-    content: >
+  - content: >
       \<div style="text-align: left">\<strong>Tarifs MacBook Pro
       2010-2012\</strong>\</div>\</br>
 
