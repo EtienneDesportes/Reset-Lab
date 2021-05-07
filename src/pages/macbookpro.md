@@ -1,17 +1,15 @@
 ---
 title: lorem-ipsum
 sections:
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: |
+      | Modèle MacBook                  | Numéro              |
+      |---------------------------------|---------------------|
+      | MacBook Pro 2010 - 2012         | A1278, A1286, A1297 |
+      | MacBook Pro Retina 2012 - 2015  | A1425, A1502, A1398 |
+      | MacBook Pro 2016 - 2017         | A1706, A1708, A1707 |
+      | MacBook Pro Touch 2018 - 2019   | A1989, A1990        |
+      | MacBook Pro 13" 2019 - 2020     | A2159, A2251, A2289 |
+      | MacBook Pro 16" 2019 - 2020     | A2141               |
     actions: []
     image_alt: lorem-ipsum
     media_position: top
