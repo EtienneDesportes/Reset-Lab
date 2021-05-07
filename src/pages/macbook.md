@@ -16,7 +16,7 @@ sections:
     type: hero_section
     content: |
       <div style="text-align: left">
-       <strong>Identifiez tout d'abord votre numéro MacBook</strong>
+       <strong>Retrouvez votre modèle MacBook sur la coque inférieur</strong>
 
       | Modèle MacBook  | Numéro  |
       |---|---|
