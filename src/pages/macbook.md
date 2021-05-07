@@ -3,7 +3,7 @@ title: lorem-ipsum
 sections:
   - actions:
       - label: MacBook
-        url: lorem-ipsum
+        url: macbook12
         style: secondary
         has_icon: false
         icon: arrow-left
