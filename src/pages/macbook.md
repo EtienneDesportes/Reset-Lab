@@ -31,7 +31,7 @@ sections:
         type: action
     media_position: top
     media_width: sixty
-    align: left
+    align: center
     padding_top: none
     padding_bottom: none
     has_border: false
