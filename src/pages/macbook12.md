@@ -1,14 +1,13 @@
 ---
 title: lorem-ipsum
 sections:
-  - content: >
+  - content: |
       <div style="text-align: left">
        <strong>Retrouvez votre modèle MacBook sur la coque inférieur</strong>
 
-      | Modèle MacBook  | Numéro  |
-      |---|---|
-      | MacBook 12" 2015-2017  | A1534 |
-      </div>
+      | Modèle MacBook        | Numéro  |
+      |-----------------------|---------|
+      | MacBook 12" 2015-2017 | A1534   |
     actions: []
     media_position: top
     media_width: fifty
