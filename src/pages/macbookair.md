@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - content: >
-      <div style="text-align: right">Tarifs </div>
+      <div style="text-align: right">Tarifs  </div>
 
       | Modèle MacBook             | Numéro       |
       |----------------------------|--------------|
