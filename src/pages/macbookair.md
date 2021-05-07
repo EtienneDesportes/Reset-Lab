@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - content: >
-      <div style="text-align: right">Tarifs  </div>
+      <div style="text-align: right">Tarifs MacBook Air 13" 2018-2020</div>
 
       | Modèle MacBook             | Numéro       |
       |----------------------------|--------------|
