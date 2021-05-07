@@ -3,9 +3,7 @@ title: lorem-ipsum
 sections:
   - content: >
       <div style="text-align: left"><strong>Tarifs MacBook Air 13"
-      2018-2020</strong></div>
-
-
+      2018-2020</strong></div></br>
 
 
       | Modèle MacBook             | Numéro       |
