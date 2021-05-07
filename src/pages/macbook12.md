@@ -23,7 +23,7 @@ sections:
     actions: []
     media_position: top
     media_width: fifty
-    align: center
+    align: left
     padding_top: none
     padding_bottom: none
     has_border: false
