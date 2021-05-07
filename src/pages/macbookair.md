@@ -2,6 +2,8 @@
 title: lorem-ipsum
 sections:
   - content: |
+      \<strong>Retrouvez votre modèle MacBook sur la coque inférieur\</strong>
+
       | Modèle MacBook             | Numéro       |
       |----------------------------|--------------|
       | MacBook Air 11" 2011-2017  | A1370, A1465 |
