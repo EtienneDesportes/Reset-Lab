@@ -3,17 +3,34 @@ title: lorem-ipsum
 sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      \<div style="text-align: left">\<strong>Tarifs MacBook Pro
+      2010-2012\</strong>\</div>\</br>
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      | Typé de réparations           | Prix    |
 
+      |-------------------------------|---------|
 
-      - Lorem ipsum
+      | Diagnostic                    | Gratuit |
 
-      - dolor sit amet
+      | Réparation Carte Mère         | 250€    |
+
+      | Remplacement Ecran            | 280€    |
+
+      | Remplacement Batterie         | 120€    |
+
+      | Desoxydation/Nettoyage        | 80€     |
+
+      | Récupération Données          | 120€    |
+
+      | Remplacement Clavier/Topcase  | 150€    |
+
+      | Remplacement Trackpad         | 90€     |
+
+      | Dépoussiérage/Pâte thermique  | 90€     |
+
+      | Reinstallation OS             | 60€     |
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
