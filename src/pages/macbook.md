@@ -29,7 +29,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    media_position: top
+    media_position: bottom
     media_width: sixty
     align: center
     padding_top: none
