@@ -7,6 +7,19 @@ sections:
       | Modèle MacBook            | Numéro  |
       |--------------------------|---------------|
       | MacBook 12" 2015-2017     | A1534   |
+
+      | Typé de réparations           | Prix    |
+      |-------|------|
+      | Diagnostic                    | Gratuit |
+      | Réparation Carte Mère         | 350€    |
+      | Remplacement Ecran            | 580€    |
+      | Remplacement Batterie         | 180€    |
+      | Desoxydation/Nettoyage        | 130€    |
+      | Récupération Données          | 140€    |
+      | Remplacement Clavier  | 280€    |
+      | Remplacement Trackpad         | 150€    |
+      | Pâte thérmique  | 90€     |
+      | Reinstallation OS             | 80€     |
     actions: []
     media_position: top
     media_width: fifty
