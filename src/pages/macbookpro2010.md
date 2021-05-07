@@ -15,6 +15,19 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    content: |
+      | Typé de réparations           | Prix    |
+      |-------------------------------|---------|
+      | Diagnostic                    | Gratuit |
+      | Réparation Carte Mère         | 250€    |
+      | Remplacement Ecran            | 280€    |
+      | Remplacement Batterie         | 120€    |
+      | Desoxydation/Nettoyage        | 80€     |
+      | Récupération Données          | 120€    |
+      | Remplacement Clavier/Topcase  | 150€    |
+      | Remplacement Trackpad         | 90€     |
+      | Dépoussiérage/Pâte thermique  | 90€     |
+      | Reinstallation OS             | 60€     |
 seo:
   title: ''
   description: ''
