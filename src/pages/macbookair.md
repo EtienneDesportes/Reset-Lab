@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - content: |
+  - content: >
       <div style="text-align: right"><strong></strong></div>
 
       | Modèle MacBook             | Numéro       |
