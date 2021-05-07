@@ -69,7 +69,7 @@ sections:
         type: action
       - label: lorem-ipsum
         url: MacBook Pro 16" 2019-2020
-        style: link
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
