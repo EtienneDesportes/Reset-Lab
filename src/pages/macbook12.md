@@ -2,7 +2,6 @@
 title: lorem-ipsum
 sections:
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     content: |
       \<div style="text-align: left">
        \<strong>Retrouvez votre modèle MacBook sur la coque inférieur\</strong>
