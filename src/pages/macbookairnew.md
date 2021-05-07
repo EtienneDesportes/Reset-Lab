@@ -1,20 +1,33 @@
 ---
 title: lorem-ipsum
 sections:
-  - content: |
-      **Tarifs MacBook Air 13" 2018-2020**
+  - content: >
+      \<div style="text-align: left">\<strong>Tarifs MacBook Air 13"
+      2018-2020\</strong>\</div>\</br>
+
 
       | Typé de réparations           | Prix    |
+
       |-------------------------------|---------|
+
       | Diagnostic                    | Gratuit |
+
       | Réparation Carte Mère         | 350€    |
+
       | Remplacement Ecran            | 520€    |
+
       | Remplacement Batterie         | 240€    |
+
       | Desoxydation/Nettoyage        | 140€    |
+
       | Récupération Données          | 150€    |
+
       | Remplacement Clavier/Topcase  | 450€    |
+
       | Remplacement Trackpad         | 200€    |
+
       | Dépoussiérage/Pâte thermique  | 90€     |
+
       | Reinstallation OS             | 60€     |
     actions: []
     image_alt: lorem-ipsum
