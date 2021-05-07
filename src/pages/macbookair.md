@@ -1,17 +1,13 @@
 ---
 title: lorem-ipsum
 sections:
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: |
+      | Modèle MacBook             | Numéro       |
+      |----------------------------|--------------|
+      | MacBook Air 11" 2011-2017  | A1370, A1465 |
+      | MacBook Air 13" 2011-2017  | A1369, A1466 |
+      | MacBook Air 13" 2018-2019  | A1932        |
+      | MacBook Air 13" 2020       | A2179        |
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
