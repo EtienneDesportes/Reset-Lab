@@ -12,7 +12,7 @@ sections:
       | MacBook Air 13" 2020       | A2179        |
     actions:
       - label: 11" 2011-2017
-        url: lorem-ipsum
+        url: macbookair11
         style: secondary
         has_icon: false
         icon: arrow-left
