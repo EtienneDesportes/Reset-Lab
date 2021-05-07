@@ -7,12 +7,12 @@ sections:
       | Typé de réparations           | Prix    |
       |-------------------------------|---------|
       | Diagnostic                    | Gratuit |
-      | Réparation Carte Mère         | 350€    |
-      | Remplacement Ecran            | 580€    |
-      | Remplacement Batterie         | 180€    |
-      | Desoxydation/Nettoyage        | 130€    |
+      | Réparation Carte Mère         | 250€    |
+      | Remplacement Ecran            | 380€    |
+      | Remplacement Batterie         | 120€    |
+      | Desoxydation/Nettoyage        | 90€     |
       | Récupération Données          | 140€    |
-      | Remplacement Clavier/Topcase  | 280€    |
+      | Remplacement Clavier/Topcase  | 180€    |
       | Remplacement Trackpad         | 150€    |
       | Dépoussiérage/Pâte thermique  | 90€     |
       | Reinstallation OS             | 80€     |
