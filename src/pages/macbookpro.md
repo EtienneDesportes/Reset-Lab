@@ -58,7 +58,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: MacBook Pro 13"
+      - label: MacBook Pro 13" 2019-
         url: lorem-ipsum
         style: link
         has_icon: false
