@@ -2,7 +2,8 @@
 title: lorem-ipsum
 sections:
   - content: >
-      <div style="text-align: left"><strong>Retrouvez votre modèle MacBook sur la coque inférieur</strong></div></br>
+      <div style="text-align: left"><strong>Retrouvez votre modèle MacBook sur
+      la coque inférieur</strong></div></br>
 
 
       | Modèle MacBook                  | Numéro              |
@@ -20,7 +21,16 @@ sections:
       | MacBook Pro 13" 2019 - 2020     | A2159, A2251, A2289 |
 
       | MacBook Pro 16" 2019 - 2020     | A2141               |
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     image_alt: lorem-ipsum
     media_position: top
     media_width: fifty
