@@ -2,7 +2,8 @@
 title: lorem-ipsum
 sections:
   - content: >
-      <div style="text-align: left"><strong>Tarifs MacBook Pro 2015-2017</strong></div></br>
+      <div style="text-align: left"><strong>Tarifs MacBook Pro
+      2015-2017</strong></div></br>
 
 
       | Typé de réparations           | Prix    |
@@ -33,7 +34,7 @@ sections:
     media_position: top
     media_width: fifty
     align: left
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     has_border: false
     background_color: none
