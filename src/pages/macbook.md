@@ -12,7 +12,7 @@ sections:
         no_follow: false
         type: action
       - label: MacBook Air
-        url: lorem-ipsum
+        url: macbookair
         style: secondary
         has_icon: false
         icon: arrow-left
