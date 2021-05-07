@@ -1,17 +1,19 @@
 ---
 title: lorem-ipsum
 sections:
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: |
+      | Typé de réparations           | Prix    |
+      |-------------------------------|---------|
+      | Diagnostic                    | Gratuit |
+      | Réparation Carte Mère         | 350€    |
+      | Remplacement Ecran            | 580€    |
+      | Remplacement Batterie         | 180€    |
+      | Desoxydation/Nettoyage        | 130€    |
+      | Récupération Données          | 140€    |
+      | Remplacement Clavier/Topcase  | 280€    |
+      | Remplacement Trackpad         | 150€    |
+      | Dépoussiérage/Pâte thermique  | 90€     |
+      | Reinstallation OS             | 80€     |
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
