@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - actions:
-      - label: lorem-ipsum
+      - label: MacBook
         url: lorem-ipsum
         style: link
         has_icon: false
