@@ -49,7 +49,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: 'MacBook '
+      - label: MacBook Pro Touch 2018-2019
         url: lorem-ipsum
         style: link
         has_icon: false
