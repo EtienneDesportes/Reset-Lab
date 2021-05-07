@@ -2,6 +2,8 @@
 title: lorem-ipsum
 sections:
   - content: |
+      MacBook Air 11" 2011-2017
+
       | Typé de réparations           | Prix    |
       |-------------------------------|---------|
       | Diagnostic                    | Gratuit |
