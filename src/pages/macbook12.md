@@ -10,7 +10,6 @@ sections:
       | MacBook 12" 2015-2017  | A1534 |
       \</div>
     actions: []
-    image_alt: lorem-ipsum
     video_embed_html: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
