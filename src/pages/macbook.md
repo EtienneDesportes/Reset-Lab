@@ -52,7 +52,7 @@ sections:
       | MacBook Pro Retina 2012 - 2015  | A1425, A1502, A1398 |
       | MacBook Pro 2016 - 2017  | A1706, A1708, A1707 |
       | MacBook Pro Touch 2018 - 2019  | A1989, A1990 |
-      | MacBook Pro 13" 2019 - 2020  | A2159, A225, A2289 |
+      | MacBook Pro 13" 2019 - 2020  | A2159, A2251, A2289 |
       | MacBook Pro 16" 2019 - 2020  | A2141 |
       | MacBook Air 11" 2011-2017  | A1370, A1465 |
       | MacBook Air 13" 2011-2017  | A1369, A1466 |
