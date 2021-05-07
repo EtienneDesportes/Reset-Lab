@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - content: |
-      <strong>Retrouvez votre modèle MacBook sur la coque inférieur</strong>
+      <div style="text-align: right"><strong></strong></div>
 
       | Modèle MacBook             | Numéro       |
       |----------------------------|--------------|
