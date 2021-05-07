@@ -31,7 +31,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: MacBook Pro Retina 2012-2015
+      - label: MacBook Pro 2012-2015
         url: lorem-ipsum
         style: secondary
         has_icon: false
