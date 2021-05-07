@@ -13,7 +13,7 @@ sections:
     actions:
       - label: 11" 2011-2017
         url: lorem-ipsum
-        style: link
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
