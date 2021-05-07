@@ -2,8 +2,7 @@
 title: lorem-ipsum
 sections:
   - content: >
-      \<div style="text-align: left">\<strong>Tarifs MacBook Pro
-      2015-2017\</strong>\</div>\</br>
+      <div style="text-align: left"><strong>Tarifs MacBook Pro 2015-2017</strong></div></br>
 
 
       | Typé de réparations           | Prix    |
