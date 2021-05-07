@@ -31,7 +31,7 @@ sections:
       | Récupération Données          | 140€    |
       | Remplacement Clavier  | 280€    |
       | Remplacement Trackpad         | 150€    |
-      | Dépoussiérage  | 90€     |
+      | Pâte thérmique  | 90€     |
       | Reinstallation OS             | 80€     |
     actions: []
     image_alt: lorem-ipsum
