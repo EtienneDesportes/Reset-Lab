@@ -32,7 +32,7 @@ sections:
     media_position: bottom
     media_width: sixty
     align: center
-    padding_top: small
+    padding_top: none
     padding_bottom: none
     has_border: false
     background_color: none
