@@ -16,8 +16,8 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     content: >
-      \<div style="text-align: left">\<strong>Tarifs MacBook Pro
-      2010-2012\</strong>\</div>\</br>
+      <div style="text-align: left"><strong>Tarifs MacBook Pro
+      2010-2012</strong></div></br>
 
 
       | Typé de réparations           | Prix    |
