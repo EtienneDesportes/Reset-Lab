@@ -1,8 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     image_alt: lorem-ipsum
     media_position: top
     media_width: fifty
