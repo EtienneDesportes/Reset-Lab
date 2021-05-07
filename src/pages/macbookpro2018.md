@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - content: >
-      \<div style="text-align: left">\<strong>Tarifs MacBook Pro 13"
+      \<div style="text-align: left">\<strong>Tarifs MacBook Pro 2018-2019
       \</strong>\</div>\</br>
 
 
