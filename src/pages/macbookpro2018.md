@@ -2,8 +2,8 @@
 title: lorem-ipsum
 sections:
   - content: >
-      \<div style="text-align: left">\<strong>Tarifs MacBook Pro
-      2015-2017\</strong>\</div>\</br>
+      \<div style="text-align: left">\<strong>Tarifs MacBook Pro 13"
+      \</strong>\</div>\</br>
 
 
       | Typé de réparations           | Prix    |
@@ -12,7 +12,7 @@ sections:
 
       | Diagnostic                    | Gratuit |
 
-      | Réparation Carte Mère         | 350€    |
+      | Réparation Carte Mère         | 390€    |
 
       | Remplacement Ecran            | 540€    |
 
