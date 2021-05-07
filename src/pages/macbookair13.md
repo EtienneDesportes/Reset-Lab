@@ -1,20 +1,33 @@
 ---
 title: lorem-ipsum
 sections:
-  - content: |
-      **Tarifs MacBook Air 13" 2011-2017**
+  - content: >
+      \<div style="text-align: left">\<strong>Tarifs MacBook Air 13"
+      2011-2017\</strong>\</div>\</br>
+
 
       | Typé de réparations           | Prix    |
+
       |-------------------------------|---------|
+
       | Diagnostic                    | Gratuit |
+
       | Réparation Carte Mère         | 260€    |
+
       | Remplacement Ecran            | 420€    |
+
       | Remplacement Batterie         | 120€    |
+
       | Desoxydation/Nettoyage        | 90€     |
+
       | Récupération Données          | 140€    |
+
       | Remplacement Clavier/Topcase  | 180€    |
+
       | Remplacement Trackpad         | 150€    |
+
       | Dépoussiérage/Pâte thermique  | 90€     |
+
       | Reinstallation OS             | 80€     |
     actions: []
     image_alt: lorem-ipsum
