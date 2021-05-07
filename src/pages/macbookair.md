@@ -20,6 +20,15 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - label: 13" 2011-2017
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
       - label: 2018-2019
         url: lorem-ipsum
         style: link
@@ -30,15 +39,6 @@ sections:
         no_follow: false
         type: action
       - label: '2020'
-        url: lorem-ipsum
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-      - label: 13" 2011-2017
         url: lorem-ipsum
         style: link
         has_icon: false
