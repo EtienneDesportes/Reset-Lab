@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - content: >
-      \<div style="text-align: left">\<strong>Tarifs MacBook Air 13"
+      \<div style="text-align: left">\<strong>Tarifs MacBook Air 11"
       2011-2017\</strong>\</div>\</br>
 
 
