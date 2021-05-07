@@ -3,7 +3,7 @@ title: lorem-ipsum
 sections:
   - content: >
       \<div style="text-align: left">\<strong>Tarifs MacBook Pro
-      2010-2012\</strong>\</div>\</br>
+      2012-2015\</strong>\</div>\</br>
 
 
       | Typé de réparations           | Prix    |
@@ -12,19 +12,19 @@ sections:
 
       | Diagnostic                    | Gratuit |
 
-      | Réparation Carte Mère         | 250€    |
+      | Réparation Carte Mère         | 280€    |
 
-      | Remplacement Ecran            | 280€    |
+      | Remplacement Ecran            | 520€    |
 
-      | Remplacement Batterie         | 120€    |
+      | Remplacement Batterie         | 190€    |
 
       | Desoxydation/Nettoyage        | 80€     |
 
       | Récupération Données          | 120€    |
 
-      | Remplacement Clavier/Topcase  | 150€    |
+      | Remplacement Clavier/Topcase  | 180€    |
 
-      | Remplacement Trackpad         | 90€     |
+      | Remplacement Trackpad         | 120€     |
 
       | Dépoussiérage/Pâte thermique  | 90€     |
 
