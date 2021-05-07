@@ -8,7 +8,7 @@ sections:
       |-------------------------------|---------|
       | Diagnostic                    | Gratuit |
       | Réparation Carte Mère         | 250€    |
-      | Remplacement Ecran            | 380€    |
+      | Remplacement Ecran            | 420€    |
       | Remplacement Batterie         | 120€    |
       | Desoxydation/Nettoyage        | 90€     |
       | Récupération Données          | 140€    |
