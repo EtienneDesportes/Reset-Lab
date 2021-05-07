@@ -2,6 +2,8 @@
 title: lorem-ipsum
 sections:
   - content: |
+      \<strong>Retrouvez votre modèle MacBook sur la coque inférieur\</strong>
+
       | Modèle MacBook                  | Numéro              |
       |---------------------------------|---------------------|
       | MacBook Pro 2010 - 2012         | A1278, A1286, A1297 |
