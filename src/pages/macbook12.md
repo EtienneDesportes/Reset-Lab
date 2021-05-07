@@ -22,7 +22,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - content: |
-      | Typé de réparations           | Prix    |
+      | Typé de réparations         | Prix    |
       |-------------------------------|---------|
       | Diagnostic                    | Gratuit |
       | Réparation Carte Mère         | 350€    |
