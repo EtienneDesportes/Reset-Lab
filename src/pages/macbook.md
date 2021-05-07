@@ -1,7 +1,16 @@
 ---
 title: lorem-ipsum
 sections:
-  - actions: []
+  - actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     media_position: top
     media_width: sixty
     align: left
