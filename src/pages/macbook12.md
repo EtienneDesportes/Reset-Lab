@@ -13,6 +13,17 @@ sections:
       | MacBook 12" 2015-2017  | A1534   |
 
 
+      \<div style="text-align: left">\<strong>Il existe deux type de réparations
+      carte-mère\</strong>\</div>\</br>
+
+
+      *   Réparation classique (Batterie, Retro-éclairage, Wifi,
+      Clavier/Trackpad HS, Audio) 
+
+
+      *   Réparation lourde (Impossible de démarrer la mac)
+
+
       | Typé de réparations           | Prix    |
 
       |-------|------|
