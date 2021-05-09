@@ -14,11 +14,11 @@ sections:
 
 
       <div style="text-align: left"><strong>Il existe deux type de réparations
-      carte-mère</strong></div></br>
+      carte-mère :</strong></div>
 
 
-      *   Réparation classique (Ne charge plus, Retro-éclairage, Wifi,
-      Périphérique HS, Audio)
+      *   Réparation classique (Ne charge plus, Retro-éclairage, Périphérique
+      HS, Audio)
 
 
       *   Réparation lourde (Impossible de démarrer la mac)
