@@ -20,13 +20,26 @@ sections:
       2010-2012</strong></div></br>
 
 
+
+
+      <div style="text-align: left"><strong>Il existe deux types de réparations
+      carte-mère :</strong></div></br>
+
+
+      *   Réparation classique (Ne charge plus, Retro-éclairage, Périphérique
+      HS, Audio)
+
+
+      *   Réparation lourde (Impossible de démarrer la mac)
+
+
       | Typé de réparations           | Prix    |
 
       |-------------------------------|---------|
 
       | Diagnostic                    | Gratuit |
 
-      | Réparation Carte Mère         | 250€    |
+      | Réparation Carte Mère         | 180 / 250€    |
 
       | Remplacement Ecran            | 280€    |
 
