@@ -27,13 +27,13 @@ sections:
 
       | Remplacement Ecran            | 540€    |
 
-      | Remplacement Batterie         | 200€    |
+      | Remplacement Batterie         | 220€    |
 
       | Desoxydation/Nettoyage        | 140€     |
 
-      | Récupération Données          | 150€    |
+      | Récupération Données          | 160€    |
 
-      | Remplacement Clavier/Topcase  | 250€    |
+      | Remplacement Clavier/Topcase  | 450€    |
 
       | Remplacement Trackpad         | 150€     |
 
