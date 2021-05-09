@@ -6,8 +6,7 @@ sections:
       carte-mère :</strong></div></br>
 
 
-      *   Réparation classique (Ne charge plus, Retro-éclairage, Périphérique
-      HS, Audio, Tactile)
+      *   Réparation classique (Ne charge plus, Retro-éclairage, Audio, Tactile)
 
 
       *   Réparation intermédiaire (Bootloop, Erreur 9/4013/4014, Panne
