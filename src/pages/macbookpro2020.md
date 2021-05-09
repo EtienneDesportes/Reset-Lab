@@ -1,17 +1,40 @@
 ---
 title: lorem-ipsum
 sections:
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      \<div style="text-align: left">\<strong>Tarifs MacBook Pro 2019-2020
+      \</strong>\</div>\</br>\<div style="text-align: left">\<strong>Il existe
+      deux types de réparations carte-mère :\</strong>\</div>\</br>
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   Réparation classique (Ne charge plus, Retro-éclairage, Périphérique
+      HS, Audio)
 
 
-      - Lorem ipsum
+      *   Réparation lourde (Impossible de démarrer le mac)
 
-      - dolor sit amet
+
+      | Typé de réparations           | Prix    |
+
+      |-------------------------------|---------|
+
+      | Diagnostic                    | Gratuit |
+
+      | Réparation Carte Mère         | 400 / 450€    |
+
+      | Remplacement Ecran            | 590€    |
+
+      | Remplacement Batterie         | 280€    |
+
+      | Desoxydation/Nettoyage        | 180€     |
+
+      | Remplacement Clavier/Topcase  | 350€    |
+
+      | Remplacement Trackpad         | 200€     |
+
+      | Dépoussiérage/Pâte thermique  | 120€     |
+
+      | Reinstallation OS             | 60€     |
     actions: []
     image_alt: lorem-ipsum
     media_position: top
