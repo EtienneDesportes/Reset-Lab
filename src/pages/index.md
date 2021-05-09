@@ -21,7 +21,6 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    background_image: images/magnificent-lavender.jpg
     background_image_opacity: 0
     has_border: false
   - type: features_section
