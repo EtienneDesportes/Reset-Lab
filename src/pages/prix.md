@@ -6,7 +6,7 @@ sections:
         content_align: left
         actions:
           - label: MacBook
-            url: lorem-ipsum
+            url: macbook
             style: secondary
             has_icon: false
             icon: arrow-left
