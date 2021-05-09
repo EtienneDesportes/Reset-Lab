@@ -4,7 +4,7 @@ sections:
   - actions:
       - label: MacBook
         url: macbook12
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: center
