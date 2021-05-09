@@ -3,8 +3,8 @@ title: lorem-ipsum
 sections:
   - content: >
       <div style="text-align: left"><strong>Tarifs MacBook Pro 2019-2020
-      </strong></div></br><div style="text-align: left"><strong>Il existe
-      deux types de réparations carte-mère :</strong></div></br>
+      </strong></div></br><div style="text-align: left"><strong>Il existe deux
+      types de réparations carte-mère :</strong></div></br>
 
 
       *   Réparation classique (Ne charge plus, Retro-éclairage, Périphérique
@@ -40,7 +40,7 @@ sections:
     media_position: top
     media_width: fifty
     align: left
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     has_border: false
     background_color: none
