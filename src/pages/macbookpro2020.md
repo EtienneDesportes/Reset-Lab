@@ -28,9 +28,9 @@ sections:
 
       | Desoxydation/Nettoyage        | 180€     |
 
-      | Remplacement Clavier/Topcase  | 350€    |
+      | Remplacement Clavier/Topcase  | 400€    |
 
-      | Remplacement Trackpad         | 200€     |
+      | Remplacement Trackpad         | 240€     |
 
       | Dépoussiérage/Pâte thermique  | 120€     |
 
