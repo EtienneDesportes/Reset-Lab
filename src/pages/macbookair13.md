@@ -25,7 +25,7 @@ sections:
 
       | Réparation Carte Mère         | 210 / 260€    |
 
-      | Remplacement Ecran            | 420€    |
+      | Remplacement Ecran            | 400€    |
 
       | Remplacement Batterie         | 120€    |
 
