@@ -77,6 +77,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/milieuhaut.svg
+    title: Sélectionnez votre appareil à faire réparer
 seo:
   title: ''
   description: ''
