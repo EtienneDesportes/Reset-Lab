@@ -46,7 +46,7 @@ sections:
         content_align: left
         actions:
           - label: Iphone
-            url: lorem-ipsum
+            url: iphone
             style: secondary
             has_icon: false
             icon: arrow-left
