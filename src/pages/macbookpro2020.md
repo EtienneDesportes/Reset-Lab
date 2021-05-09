@@ -22,7 +22,7 @@ sections:
 
       | Réparation Carte Mère         | 400 / 450€    |
 
-      | Remplacement Ecran            | 520 - 600€    |
+      | Remplacement Ecran 13"-16"            | 520-600€    |
 
       | Remplacement Batterie         | 280€    |
 
