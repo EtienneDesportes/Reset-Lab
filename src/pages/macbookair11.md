@@ -6,7 +6,7 @@ sections:
       2011-2017</strong></div></br>
 
 
-      <div style="text-align: left"><strong>Il existe deux type de réparations
+      <div style="text-align: left"><strong>Il existe deux types de réparations
       carte-mère :</strong></div></br>
 
 
