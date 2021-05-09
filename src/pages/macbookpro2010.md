@@ -20,8 +20,6 @@ sections:
       2010-2012</strong></div></br>
 
 
-
-
       <div style="text-align: left"><strong>Il existe deux types de réparations
       carte-mère :</strong></div></br>
 
@@ -30,7 +28,7 @@ sections:
       HS, Audio)
 
 
-      *   Réparation lourde (Impossible de démarrer la mac)
+      *   Réparation lourde (Impossible de démarrer le mac)
 
 
       | Typé de réparations           | Prix    |
