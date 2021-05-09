@@ -59,7 +59,7 @@ sections:
         no_follow: false
         type: action
       - label: MacBook Pro 2019-2020
-        url: lorem-ipsum
+        url: macbookpro2020
         style: secondary
         has_icon: false
         icon: arrow-left
