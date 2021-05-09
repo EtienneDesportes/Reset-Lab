@@ -64,7 +64,7 @@ sections:
         type: grid_item
     grid_cols: three
     grid_gap_vert: medium
-    grid_gap_horiz: small
+    grid_gap_horiz: medium
     enable_cards: false
     align: center
     padding_top: small
