@@ -14,7 +14,7 @@ sections:
 
 
       <div style="text-align: left"><strong>Il existe deux type de réparations
-      carte-mère :</strong></div>
+      carte-mère :</strong></div></br>
 
 
       *   Réparation classique (Ne charge plus, Retro-éclairage, Périphérique
