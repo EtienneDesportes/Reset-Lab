@@ -1,17 +1,47 @@
 ---
 title: lorem-ipsum
 sections:
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      \<div style="text-align: left">\<strong>Tarifs Réparation
+      Iphone\</strong>\</div>\</br>
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      \<div style="text-align: left">\<strong>Il existe trois types de
+      réparations carte-mère :\</strong>\</div>\</br>
 
 
-      - Lorem ipsum
+      *   Réparation classique (Ne charge plus, Retro-éclairage, Périphérique
+      HS, Audio, Tactile)
 
-      - dolor sit amet
+
+      *   Réparation intermédiaire (Bootloop, Erreur 9/4013/4014, Panne
+      réseau/WiFi)
+
+
+      *   Réparation lourde (Impossible de démarrer l'appareil, Carte-mère HS)
+
+
+      | Modèle Iphone     | Réparation carte-mère |
+
+      |-------------------|-----------------------|
+
+      | 5/5s/SE           | 55 / 120 / 340 €      |
+
+      | 6/6plus/6s/6splus | 80 / 160 / 350 €      |
+
+      | 7/7plus           | 90 / 180 / 360 €      |
+
+      | 8/8plus           | 120 / 200 / 360 €     |
+
+      | X                 | 170 / 240 / 360 €     |
+
+      | Xr                | 140 / 220 / 360 €     |
+
+      | Xs/Xsmax          | 180 / 280 / 360 €     |
+
+      | 11                | 200 / 280 / 390 €     |
+
+      | 11 pro            | 300 / 380 / 550 €     |
     actions: []
     image_alt: lorem-ipsum
     media_position: top
