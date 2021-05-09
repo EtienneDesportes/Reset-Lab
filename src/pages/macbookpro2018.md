@@ -35,7 +35,7 @@ sections:
 
       | Remplacement Clavier/Topcase  | 450€    |
 
-      | Remplacement Trackpad         | 150€     |
+      | Remplacement Trackpad         | 170€     |
 
       | Dépoussiérage/Pâte thermique  | 120€     |
 
