@@ -30,11 +30,11 @@ sections:
 
       | Diagnostic                    | Gratuit |
 
-      | Réparation Carte Mère         |250 / 350€        |
+      | Réparation Carte Mère         |260 / 350€        |
 
-      | Remplacement Ecran            | 580€    |
+      | Remplacement Ecran            | 540€    |
 
-      | Remplacement Batterie         | 180€    |
+      | Remplacement Batterie         | 190€    |
 
       | Desoxydation/Nettoyage        | 130€    |
 
@@ -42,7 +42,7 @@ sections:
 
       | Remplacement Clavier  | 280€    |
 
-      | Remplacement Trackpad         | 150€    |
+      | Remplacement Trackpad         | 160€    |
 
       | Pâte thérmique  | 90€     |
 
