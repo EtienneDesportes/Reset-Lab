@@ -6,7 +6,7 @@ sections:
       la coque inférieur</strong></div></br>
 
 
-      | Modèle MacBook            | Numéro  |
+      | Modèle MacBook        | Numéro  |
 
       |--------------------------|---------------|
 
