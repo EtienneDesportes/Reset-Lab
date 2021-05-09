@@ -64,16 +64,7 @@ sections:
         type: grid_item
       - title_align: left
         content_align: left
-        actions:
-          - label: Imac
-            url: lorem-ipsum
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
