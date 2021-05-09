@@ -2,10 +2,6 @@
 title: lorem-ipsum
 sections:
   - content: >
-      <div style="text-align: left"><strong>Tarifs Réparation
-      Iphone</strong></div></br>
-
-
       <div style="text-align: left"><strong>Il existe trois types de réparations
       carte-mère :</strong></div></br>
 
