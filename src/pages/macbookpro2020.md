@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - content: >
-      <div style="text-align: left"><strong>Tarifs MacBook Pro 2019-2020
+      <div style="text-align: left"><strong>Tarifs MacBook Pro 2020
       </strong></div></br><div style="text-align: left"><strong>Il existe deux
       types de réparations carte-mère :</strong></div></br>
 
