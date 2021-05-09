@@ -39,7 +39,7 @@ sections:
 
       | Réparation Carte Mère         | 180 / 250€    |
 
-      | Remplacement Ecran            | 280€    |
+      | Remplacement Ecran            | 250 - 340€    |
 
       | Remplacement Batterie         | 120€    |
 
@@ -47,7 +47,7 @@ sections:
 
       | Récupération Données          | 120€    |
 
-      | Remplacement Clavier/Topcase  | 150€    |
+      | Remplacement Clavier/Topcase  | 130€    |
 
       | Remplacement Trackpad         | 90€     |
 
