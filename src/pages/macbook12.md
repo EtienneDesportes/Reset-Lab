@@ -18,7 +18,7 @@ sections:
 
 
       *   Réparation classique (Ne charge plus, Retro-éclairage, Wifi,
-      Clavier/Trackpad HS, Audio)
+      Périphérique HS, Audio)
 
 
       *   Réparation lourde (Impossible de démarrer la mac)
