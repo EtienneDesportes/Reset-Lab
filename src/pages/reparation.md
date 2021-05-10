@@ -36,7 +36,7 @@ sections:
         video_embed_html: ''
         media_position: left
         media_width: fourty
-        image: images/outils-réparation-macbook.jpg
+        image: images/outils-réparation-macbook.webp
         image_alt: Réparation Carte-mère Macbook outils amscope
         title: Nos outils
       - title: Le diagnostic
