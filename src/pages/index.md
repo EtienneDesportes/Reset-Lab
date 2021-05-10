@@ -154,7 +154,6 @@ sections:
     feature_padding_vert: small
     align: center
     background_color: none
-    background_image: images/beige-aspen.jpeg
     background_image_opacity: 10
   - type: blog_feed_section
     title: Quoi de neuf ?
