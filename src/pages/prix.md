@@ -76,7 +76,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: images/milieuhaut.svg
+    background_image: images/milieuhaut(1).svg
     title: Sélectionnez votre appareil
 seo:
   title: ''
