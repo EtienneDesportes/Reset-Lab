@@ -54,7 +54,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: primary
-    background_image: images/splendid-whale.jpeg
+    background_image: images/rainy-aluminum.webp
     background_image_opacity: 10
 template: advanced
 excerpt: J'ai une question
