@@ -26,7 +26,7 @@ sections:
         content_align: left
         actions:
           - label: MacBook Air
-            url: ipad
+            url: macbookair
             style: primary
             has_icon: false
             icon: arrow-left
