@@ -22,7 +22,7 @@ sections:
 
 
           </div>
-        image: images/réparation-micro-soudure.jpg
+        image: images/réparation-micro-soudure.webp
         media_position: right
         media_width: fourty
         image_alt: réparation micro soudure apple
