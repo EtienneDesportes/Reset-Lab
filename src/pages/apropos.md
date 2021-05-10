@@ -65,7 +65,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/soudure-microscope.webp
+        image: images/melodic-daffodil.jpg
       - title_align: left
         content_align: left
         actions: []
