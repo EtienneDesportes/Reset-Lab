@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Ipad
 sections:
   - content: >
       <div style="text-align: left"><strong>Il existe trois types de réparations
