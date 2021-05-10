@@ -11,7 +11,7 @@ sections:
       HS, Audio)
 
 
-      *   Réparation lourde (Impossible de démarrer le mac)
+      *   Réparation approfondie (Impossible de démarrer le mac)
 
 
       | Typé de réparations           | Prix    |
