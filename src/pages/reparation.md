@@ -98,7 +98,7 @@ sections:
     padding_bottom: none
     has_border: false
     background_color: primary
-    background_image: images/knowledgeable-whale.jpeg
+    background_image: images/important-tomato.webp
     background_image_opacity: 10
 template: advanced
 excerpt: 'Micro-Soudure - J''ai renversé de l''eau sur mon Mac, c''est grave ?'
