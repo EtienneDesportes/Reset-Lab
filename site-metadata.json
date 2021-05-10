@@ -43,7 +43,7 @@
             },
             {
                 "label": "Prix",
-                "url": "lorem-ipsum",
+                "url": "prix",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
