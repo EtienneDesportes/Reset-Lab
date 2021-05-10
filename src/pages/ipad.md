@@ -3,7 +3,7 @@ title: lorem-ipsum
 sections:
   - content: >
       <div style="text-align: left"><strong>Il existe trois types de
-      réparations carte-mère :</strong>div></br>
+      réparations carte-mère :</strong></div></br>
 
 
       *   Réparation classique (Ne charge plus, Retro-éclairage, Audio, Tactile)
