@@ -65,7 +65,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/smiling-pineapple.jpg
+        image: images/soudure-microscope.webp
       - title_align: left
         content_align: left
         actions: []
