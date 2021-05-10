@@ -26,7 +26,7 @@ sections:
         content_align: left
         actions:
           - label: Ipad
-            url: lorem-ipsum
+            url: ipad
             style: primary
             has_icon: false
             icon: arrow-left
