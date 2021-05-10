@@ -79,7 +79,7 @@ sections:
     background_image: images/milieuhaut(1).svg
     title: Sélectionnez votre appareil
 seo:
-  title: ''
+  title: Prix - Réparation MacBook Ipad Iphone sur Brest
   description: ''
   robots: []
   extra: []
