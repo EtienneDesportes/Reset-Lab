@@ -45,7 +45,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Iphone
+          - label: MacBook Pro
             url: iphone
             style: primary
             has_icon: false
