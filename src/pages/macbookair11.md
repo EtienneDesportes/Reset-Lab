@@ -1,5 +1,5 @@
 ---
-title: MacBook11
+title: MacBookAir
 sections:
   - content: >
       <div style="text-align: left"><strong>Tarifs MacBook Air 11"
