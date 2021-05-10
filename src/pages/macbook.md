@@ -6,7 +6,7 @@ sections:
         content_align: left
         actions:
           - label: MacBook
-            url: macbook
+            url: macbook12
             style: primary
             has_icon: false
             icon: arrow-left
