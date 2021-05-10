@@ -89,7 +89,7 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: none
+    background_color: primary
   - type: features_section
     title: ''
     subtitle: ''
