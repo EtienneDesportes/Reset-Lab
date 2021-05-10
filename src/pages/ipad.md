@@ -9,8 +9,7 @@ sections:
       *   Réparation classique (Ne charge plus, Retro-éclairage, Audio, Tactile)
 
 
-      *   Réparation intermédiaire (Bootloop, Erreur 9/4013/4014, Panne
-      réseau/WiFi)
+      *   Réparation intermédiaire (Erreur 9/4013/4014, Panne réseau/WiFi)
 
 
       *   Réparation approfondie (Impossible de démarrer l'appareil, Carte-mère
