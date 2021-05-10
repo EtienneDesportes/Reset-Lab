@@ -91,6 +91,7 @@ sections:
     align: center
     background_color: primary
     background_image: images/royal-tomato.webp
+    background_image_opacity: 10
   - type: features_section
     title: ''
     subtitle: ''
