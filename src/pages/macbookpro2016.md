@@ -23,9 +23,9 @@ sections:
 
       | Diagnostic                    | Gratuit |
 
-      | Réparation Carte Mère         | 280 / 350€    |
+      | Réparation Carte Mère         | 260 / 340€    |
 
-      | Remplacement Ecran 13"-15"            | 420-540€    |
+      | Remplacement Ecran 13"-15"            | 400-540€    |
 
       | Remplacement Batterie         | 220€    |
 
@@ -33,9 +33,9 @@ sections:
 
       | Récupération Données          | 160€    |
 
-      | Remplacement Clavier/Topcase  | 420€    |
+      | Remplacement Clavier/Topcase  | 400€    |
 
-      | Remplacement Trackpad         | 170€     |
+      | Remplacement Trackpad         | 150€     |
 
       | Dépoussiérage/Pâte thermique  | 120€     |
 
