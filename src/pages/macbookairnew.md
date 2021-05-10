@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: MacBook
 sections:
   - content: >
       <div style="text-align: left"><strong>Tarifs MacBook Air 13"
