@@ -19,7 +19,8 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: images/perpetual-dolphin.svg
+        image: >-
+          images/Agence-M-Com-Marseille-Eleo-Informtique-Aix-en-Provence-Icone-advice.svg
         title: >-
           La réparation est uniquement facturée si elle est réalisée avec succès
           !
