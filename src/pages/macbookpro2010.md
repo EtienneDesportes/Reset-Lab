@@ -37,11 +37,11 @@ sections:
 
       | Diagnostic                    | Gratuit |
 
-      | Réparation Carte Mère         | 180 / 250€    |
+      | Réparation Carte Mère         | 170 / 240€    |
 
       | Remplacement Ecran 13''-15''-17''            | 250-290-340€    |
 
-      | Remplacement Batterie 13''-15''-17''         | 90-100-120€    |
+      | Remplacement Batterie 13''-15''-17''         | 100-110-120€    |
 
       | Desoxydation/Nettoyage        | 80€     |
 
