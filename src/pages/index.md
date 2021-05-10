@@ -90,7 +90,7 @@ sections:
     enable_cards: true
     align: center
     background_color: primary
-    background_image: images/itl.cat_motherboard-wallpaper_2557381(1)(1).jpeg
+    background_image: images/marvelous-spruce.jpg
     background_image_opacity: 10
     title: Le devis est gratuit !
   - type: features_section
