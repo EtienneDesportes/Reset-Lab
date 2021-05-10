@@ -81,7 +81,7 @@ sections:
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
-    media_width: fifty
+    media_width: fourty
     align: center
     padding_top: none
     padding_bottom: none
