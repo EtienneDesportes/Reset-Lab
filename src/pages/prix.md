@@ -80,7 +80,9 @@ sections:
     title: Sélectionnez votre appareil
 seo:
   title: Prix - Réparation MacBook Ipad Iphone sur Brest
-  description: ''
+  description: >-
+    Sélectionnez votre appareil et déterminer le coût de la réparation pour
+    votre MacBook Ipad ou Iphone
   robots: []
   extra: []
   type: stackbit_page_meta
