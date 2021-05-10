@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: MacBook
 sections:
   - actions:
       - label: MacBook
