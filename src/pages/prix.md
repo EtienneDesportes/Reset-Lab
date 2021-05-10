@@ -78,8 +78,7 @@ sections:
     type: grid_section
     background_image: images/milieuhaut(1).svg
     title: Sélectionnez votre appareil
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     image_alt: lorem-ipsum
     media_position: top
     media_width: fifty
