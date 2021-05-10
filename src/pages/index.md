@@ -175,7 +175,7 @@ sections:
     padding_top: small
     padding_bottom: none
     has_border: false
-    background_color: none
+    background_color: primary
   - type: cta_section
     title: Contactez-nous
     content: >-
