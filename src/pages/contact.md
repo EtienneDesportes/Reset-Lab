@@ -54,7 +54,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: primary
-    background_image: images/rainy-aluminum.webp
+    background_image: images/background carte mère(1).jpg
     background_image_opacity: 10
 template: advanced
 excerpt: J'ai une question
