@@ -77,7 +77,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/milieuhaut(1).svg
-    title: Sélectionnez votre appareil
+    title: Sélectionnez votre MacBook
 seo:
   title: ''
   description: ''
