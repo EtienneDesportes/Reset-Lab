@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: MacBook12
 sections:
   - content: >
       <div style="text-align: left"><strong>Retrouvez votre modèle MacBook sur
