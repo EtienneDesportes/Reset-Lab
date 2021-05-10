@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: MacBookPro
 sections:
   - content: >
       <div style="text-align: left"><strong>Tarifs MacBook Pro 2020
