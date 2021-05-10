@@ -120,7 +120,7 @@ sections:
     padding_bottom: medium
     background_color: primary
     background_image_opacity: 10
-    background_image: images/square-pluto.webp
+    background_image: images/great-kale.jpg
 template: advanced
 excerpt: Réparer mon MacBook
 seo:
