@@ -41,7 +41,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    background_image: images/superb-avocado.svg
+    background_image: images/amazing-elm.svg
     title: Sélectionnez votre MacBook
 seo:
   title: ''
