@@ -85,4 +85,5 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: advanced
+title: Prix
 ---
