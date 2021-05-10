@@ -190,7 +190,7 @@ sections:
     align: left
     padding_top: none
     padding_bottom: none
-    background_color: primary
+    background_color: none
     background_image_opacity: 10
     background_image: images/modern-pineapple.jpeg
   - actions: []
