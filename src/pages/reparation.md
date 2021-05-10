@@ -82,7 +82,7 @@ sections:
         media_width: fourty
         align: left
         type: feature
-        image: images/wonderful-chili.webp
+        image: images/super-spruce.jpg
         image_alt: Micro-soudure Macbook
     feature_padding_vert: small
   - type: cta_section
