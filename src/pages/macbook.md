@@ -42,7 +42,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/superb-avocado.svg
-    title: Sélectionnez votre appareil
+    title: Sélectionnez votre MacBook
 seo:
   title: ''
   description: ''
