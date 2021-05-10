@@ -179,7 +179,7 @@ sections:
     padding_bottom: none
     has_border: false
     background_color: primary
-    background_image: images/purple-bee.jpeg
+    background_image: images/melodic-europa.jpg
     background_image_opacity: 10
   - type: cta_section
     title: Contactez-nous
