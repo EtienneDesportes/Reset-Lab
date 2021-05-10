@@ -23,7 +23,7 @@ sections:
 
       | Diagnostic                    | Gratuit |
 
-      | Réparation Carte Mère         | 280 / 360€    |
+      | Réparation Carte Mère         | 280 / 350€    |
 
       | Remplacement Ecran            | 520€    |
 
@@ -33,9 +33,9 @@ sections:
 
       | Remplacement Clavier/Topcase  | 450€    |
 
-      | Remplacement Trackpad         | 200€    |
+      | Remplacement Trackpad         | 190€    |
 
-      | Dépoussiérage/Pâte thermique  | 90€     |
+      | Dépoussiérage/Pâte thermique  | 110€     |
 
       | Reinstallation OS             | 60€     |
     actions: []
