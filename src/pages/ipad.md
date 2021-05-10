@@ -1,17 +1,24 @@
 ---
 title: lorem-ipsum
 sections:
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: |
+      | Modèle Ipad       | Réparation carte-mère |
+      |-------------------|-----------------------|
+      | 4                 | 70 / 90 / 360 €       |
+      | 5                 | 90 / 110 / 360 €      |
+      | 6                 | 100 / 120 / 360 €     |
+      | Mini 1, 2, 3      | 80 / 100 / 360 €      |
+      | Mini 4            | 100 / 120 / 360 €     |
+      | Mini 5            | 130 / 150 / 360 €     |
+      | Air               | 90 / 110 / 360 €      |
+      | Air 2             | 90 / 130 / 360 €      |
+      | Air 3             | 150 / 180 / 360 €     |
+      | Pro 9,7"          | 130 / 150 / 360 €     |
+      | Pro 10,5"         | 150 / 170 / 360 €     |
+      | Pro 11"           | 180 / 320 / 360 €     |
+      | Pro 12,9" 2015    | 150 / 170 / 360 €     |
+      | Pro 2 12.9'' 2017 | 200 / 250 / 360 €     |
+      | Pro 3 12.9'' 2018 | 250 / 280 / 360 €     |
     actions: []
     image_alt: lorem-ipsum
     media_position: top
