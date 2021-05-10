@@ -46,7 +46,7 @@ sections:
         content_align: left
         actions:
           - label: MacBook Pro
-            url: iphone
+            url: macbookpro
             style: primary
             has_icon: false
             icon: arrow-left
