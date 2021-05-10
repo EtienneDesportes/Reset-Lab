@@ -13,7 +13,8 @@ sections:
       réseau/WiFi)
 
 
-      *   Réparation lourde (Impossible de démarrer l'appareil, Carte-mère HS)
+      *   Réparation approfondie (Impossible de démarrer l'appareil, Carte-mère
+      HS)
 
 
       | Modèle Ipad       | Réparation carte-mère |
