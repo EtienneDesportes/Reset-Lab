@@ -39,48 +39,6 @@ sections:
     background_image_position: center center
     title: +Economique +Ecologique
   - type: grid_section
-    grid_items:
-      - content: |
-          **Type de panne:** Rétro-eclairage \</br>
-          **Modèle:** MacBook pro Retina 15 pouces\</br>
-          **Réparation:** 190€
-        image: images/retroeclairage mac.svg
-        image_position: left
-        image_width: thirty-three
-        image_alt: Réparation MacBook
-      - content: |
-          **Type de panne:** Dommage liquide <br>
-          **Modèle:** MacBook pro Retina 15 pouces <br>
-          **Réparation:** 310€
-        image: images/remarkable-mint.svg
-        image_position: left
-        image_width: thirty-three
-        image_alt: J'ai renversé de l'eau sur mon MacBook
-      - content: |
-          **Type de panne:** Dommage liquide <br>
-          **Modèle:** MacBook Pro Touchbar 15 pouces <br>
-          **Réparation:** 430€
-        image: images/unique-hickory.svg
-        image_position: left
-        image_width: thirty-three
-        image_alt: Dommage liquide Macbook
-      - content: |-
-          **Type de panne:** Batterie ne charge pas <br>
-          **Modèle:** MacBook Air 2014  <br>
-          **Réparation:** 280€
-        image: images/batterie mac.svg
-        image_position: left
-        image_width: thirty-three
-        image_alt: Batterie en panne Macbook
-    grid_cols: two
-    grid_gap_horiz: small
-    grid_gap_vert: small
-    align: center
-    background_color: primary
-    background_image: images/itl.cat_motherboard-wallpaper_2557381(1).jpeg
-    background_image_opacity: 10
-    title: Le devis est gratuit !
-  - type: grid_section
     subtitle: ''
     grid_items:
       - title: Devis et Envoi gratuit
