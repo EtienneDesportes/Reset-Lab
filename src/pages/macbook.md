@@ -25,7 +25,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Ipad
+          - label: MacBook Air
             url: ipad
             style: primary
             has_icon: false
