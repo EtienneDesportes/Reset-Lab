@@ -153,7 +153,7 @@ sections:
         image_alt: Macbook ne démarre pas
     feature_padding_vert: small
     align: center
-    background_color: primary
+    background_color: none
     background_image: images/beige-aspen.jpeg
     background_image_opacity: 10
   - type: blog_feed_section
