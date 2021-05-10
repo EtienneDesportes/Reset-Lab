@@ -192,7 +192,6 @@ sections:
     padding_bottom: none
     background_color: none
     background_image_opacity: 10
-    background_image: images/modern-pineapple.jpeg
   - actions: []
     video_embed_html: |-
       <script src="https://apps.elfsight.com/p/platform.js" defer></script>
