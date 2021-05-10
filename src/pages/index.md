@@ -188,7 +188,7 @@ sections:
     actions_position: right
     actions_width: fourty
     align: left
-    padding_top: none
+    padding_top: small
     padding_bottom: none
     background_color: none
     background_image_opacity: 10
