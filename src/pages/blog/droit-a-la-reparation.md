@@ -25,7 +25,7 @@ seo:
 template: post
 date: '2021-02-11'
 image: images/Product-Policy-4-web-landscape.jpg
-thumb_image: images/parallel-tortoise.jpg
+thumb_image: images/réparation-carte-mère.webp
 ---
 <div style="text-align: justify">
 
