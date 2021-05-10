@@ -51,7 +51,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: images/réparation-multimètre-soudure-microscope.webp
+        image: images/mighty-paprika.jpg
   - actions: []
     grid_items:
       - title_align: left
