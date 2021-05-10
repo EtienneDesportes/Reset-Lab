@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: MacBookPro
 sections:
   - actions: []
     image_alt: lorem-ipsum
