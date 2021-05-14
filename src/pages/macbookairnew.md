@@ -23,7 +23,7 @@ sections:
 
       | Diagnostic                    | Gratuit |
 
-      | Réparation Carte Mère         | 280 / 350€    |
+      | Réparation Carte Mère         | 290 / 350€    |
 
       | Remplacement Ecran            | 530€    |
 
