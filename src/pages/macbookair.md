@@ -2,8 +2,8 @@
 title: MacBookAir
 sections:
   - content: >
-      <div style="text-align: left">Retrouvez votre modèle MacBook sur la coque
-      inférieur<strong>
+      <div style="text-align: left"><strong>Retrouvez votre modèle MacBook sur
+      la coque inférieur</strong></div>
 
 
       | Modèle MacBook             | Numéro       |
