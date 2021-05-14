@@ -1,21 +1,14 @@
 ---
 title: MacBookAir
 sections:
-  - content: >
-      <div style="text-align: left"><strong>Tarifs MacBook Air 13"
-      2018-2020</strong></div></br>
-
+  - content: |
+      <div style="text-align: left"><strong>
 
       | Modèle MacBook             | Numéro       |
-
       |----------------------------|--------------|
-
       | MacBook Air 11" 2011-2017  | A1370, A1465 |
-
       | MacBook Air 13" 2011-2017  | A1369, A1466 |
-
       | MacBook Air 13" 2018-2019  | A1932        |
-
       | MacBook Air 13" 2020       | A2179        |
     actions:
       - label: 11" 2011-2017
