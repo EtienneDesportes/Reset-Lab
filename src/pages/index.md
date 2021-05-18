@@ -11,7 +11,7 @@ sections:
     actions:
       - label: Faire un devis
         url: /faireundevis
-        style: primary
+        style: secondary
     media_position: right
     media_width: fourty
     align: left
