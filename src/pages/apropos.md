@@ -22,7 +22,7 @@ sections:
 
 
           </div>
-        image: images/modern-zucchini.jpg
+        image: images/P1111509-min(1).jpg
         media_position: right
         media_width: fourty
         image_alt: réparation micro soudure apple
