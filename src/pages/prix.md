@@ -94,7 +94,7 @@ sections:
     type: hero_section
     content: >
       ###### *Si vous souhaitez réparer un autre appareil, merci de transmettre
-      un devis*
+      une demande de devis*
 seo:
   title: Prix - Réparation MacBook Ipad Iphone sur Brest
   description: >-
