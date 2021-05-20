@@ -198,9 +198,6 @@ sections:
     background_color: none
     background_image_opacity: 10
   - actions: []
-    video_embed_html: |-
-      <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-      <div class="elfsight-app-220effa8-bc83-488f-9b7f-7018047ca5a7"></div>
     media_position: right
     media_width: fourty
     align: left
