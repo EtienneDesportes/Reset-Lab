@@ -24,7 +24,7 @@ image: >-
   images/2f946301-apple-iphone-12-mini-un-format-seduisant-pour-une-autonomie-limitee-min.jpg
 thumb_image: images/violet-panda.jpg
 ---
-\<div style="text-align: justify">
+<div style="text-align: justify">
 
 Apple a conclu un accord de 3,4 millions de dollars (2,86 millions d'euros) avec une association de consommateurs chiliens pour régler une action collective pour obsolescence programmée de certains de ses téléphones, une première en Amérique latine, a annoncé mercredi l'avocat des plaignants.
 
@@ -39,6 +39,6 @@ Le groupe avait néanmoins nié toute tentative d'obsolescence programmée.
 
 En France, le groupe américain a été sanctionné en février pour n'avoir pas prévenu que des mises à jour pouvaient ralentir les vieux smartphones. Il a écopé d'une amende de 25 millions d'euros (27,8 millions de dollars) au terme d'une enquête qui révèle des "pratiques commerciales trompeuses par omission" mais ne retient pas l'accusation d'obsolescence programmée.
 
-\</div>
+</div>
 
 [Source: AFP](https://information.tv5monde.com/auteur/afp)
