@@ -5,7 +5,8 @@ subtitle: >-
   consommateurs à ne plus racheter systématiquement un appareil neuf en cas de
   panne. La facilité de réparation devient un vrai critère d’achat. 
 date: '2021-05-18'
-categories: []
+categories:
+  - src/data/categories/general.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
