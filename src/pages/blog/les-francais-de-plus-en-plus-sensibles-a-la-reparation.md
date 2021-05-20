@@ -19,7 +19,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_image: images/repair-macbook-air.jpg
-image: images/knowledgeable-comet.jpg
+image: images/olx1SFEu2R6Audo2.large.jpg
 ---
 <div style="text-align: justify">
 
