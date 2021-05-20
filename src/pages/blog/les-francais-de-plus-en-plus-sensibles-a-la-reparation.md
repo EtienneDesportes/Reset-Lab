@@ -1,6 +1,9 @@
 ---
 title: Les Français de plus en plus sensibles à la réparation
-subtitle: lorem-ipsum
+subtitle: >-
+  L’indice de réparabilité mis en place par le gouvernement doit inciter les
+  consommateurs à ne plus racheter systématiquement un appareil neuf en cas de
+  panne. La facilité de réparation devient un vrai critère d’achat. 
 date: '2021-05-20'
 categories: []
 tags: []
