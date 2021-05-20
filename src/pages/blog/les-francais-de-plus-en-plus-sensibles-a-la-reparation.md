@@ -19,7 +19,7 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-\<div style="text-align: justify">
+<div style="text-align: justify">
 
 La FTC, la commission fédérale en charge du commerce, a produit un rapport sur le sujet qui n'est pas tendre avec le constructeur de Cupertino. Il est vrai que ce dernier exerce un lobbying agressif envers les États américains qui cherchent à faciliter la vie des utilisateurs voulant réparer eux-mêmes leurs appareils, ou en remplacer des composants.
 
