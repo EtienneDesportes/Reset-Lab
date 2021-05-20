@@ -19,6 +19,8 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
+\<div style="text-align: justify">
+
 La FTC, la commission fédérale en charge du commerce, a produit un rapport sur le sujet qui n'est pas tendre avec le constructeur de Cupertino. Il est vrai que ce dernier exerce un lobbying agressif envers les États américains qui cherchent à faciliter la vie des utilisateurs voulant réparer eux-mêmes leurs appareils, ou en remplacer des composants.
 
 Beaucoup de produits de grande consommation sont de plus en plus difficiles à réparer, déplore la FTC : « Les réparations demandent aujourd'hui des outils spécialisés, des composants difficiles à obtenir, et l'accès à des logiciels de diagnostic propriétaire. Le choix des consommateurs est limité quand ils ont besoin de faire réparer leurs produits ».
@@ -33,5 +35,7 @@ Apple apparait à plusieurs reprises dans le document, par exemple via iFixit, p
 
 Le rapport de la FTC a été transmis au Congrès américain. La Commission estime ces restrictions « injustes » et demande que des mesures législatives soient prises pour rééquilibrer le rapport entre les consommateurs et les constructeurs. Apple cherche à faire bonne figure via son programme destiné aux réparateurs indépendants, récemment étendu au monde entier.
 Néanmoins, Apple et les constructeurs n'ont pas fini de faire pression sur les législateurs. Dans le cadre du Pacte vert dévoilé en mars 2020, l'Union européenne veut en effet mettre en place un droit à la réparation pour les produits électroniques.
+
+\</div>
 
 Source : Mickaël Bazoge - Macg.co
