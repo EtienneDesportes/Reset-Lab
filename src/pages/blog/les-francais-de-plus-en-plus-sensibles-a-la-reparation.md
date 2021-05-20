@@ -1,5 +1,7 @@
 ---
-title: Les Français de plus en plus sensibles à la réparation
+title: >-
+  La FTC accuse Apple et d'autres constructeurs de restreindre les possibilités
+  de réparation de leurs appareils
 subtitle: >-
   L’indice de réparabilité mis en place par le gouvernement doit inciter les
   consommateurs à ne plus racheter systématiquement un appareil neuf en cas de
