@@ -36,6 +36,6 @@ Apple apparait à plusieurs reprises dans le document, par exemple via iFixit, p
 Le rapport de la FTC a été transmis au Congrès américain. La Commission estime ces restrictions « injustes » et demande que des mesures législatives soient prises pour rééquilibrer le rapport entre les consommateurs et les constructeurs. Apple cherche à faire bonne figure via son programme destiné aux réparateurs indépendants, récemment étendu au monde entier.
 Néanmoins, Apple et les constructeurs n'ont pas fini de faire pression sur les législateurs. Dans le cadre du Pacte vert dévoilé en mars 2020, l'Union européenne veut en effet mettre en place un droit à la réparation pour les produits électroniques.
 
-\</div>
+</div>
 
 Source : Mickaël Bazoge - Macg.co
