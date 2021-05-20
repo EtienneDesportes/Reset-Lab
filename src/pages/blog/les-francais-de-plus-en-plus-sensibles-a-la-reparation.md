@@ -18,6 +18,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+thumb_image: images/repair-macbook-air.jpg
 ---
 <div style="text-align: justify">
 
