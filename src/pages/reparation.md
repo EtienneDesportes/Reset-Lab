@@ -78,6 +78,7 @@ sections:
           *   Problème de démarrage
           *   Chute et casse
           *   Réparation ratée
+          *   Périphérique HS
         actions: []
         video_embed_html: ''
         media_position: left
