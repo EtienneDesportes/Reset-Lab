@@ -38,6 +38,7 @@ sections:
     background_image_opacity: 10
     background_image_position: center center
     title: +Economique +Ecologique
+    background_image: images/perpetual-turtle.jpg
   - type: grid_section
     subtitle: ''
     grid_items:
