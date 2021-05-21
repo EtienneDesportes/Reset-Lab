@@ -23,7 +23,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_opacity: 0
     has_border: false
-    background_image: images/melodic-yam.jpg
+    background_image: images/futuristic-oak.jpg
   - type: features_section
     features:
       - subtitle: ''
