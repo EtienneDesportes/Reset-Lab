@@ -76,6 +76,7 @@ sections:
           *   Dommage liquide
           *   Rétro-éclairage
           *   Problème de démarrage
+          *   Chute
         actions: []
         video_embed_html: ''
         media_position: left
