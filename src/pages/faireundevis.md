@@ -29,7 +29,7 @@ sections:
       déposer votre machine à notre atelier si vous êtes sur Brest. </p>
 
 
-      **GARANTIE 180 JOURS**
+      **GARANTIE 90 JOURS**
 
 
       <p style="text-align: justify;">Notre expertise nous permet de vous
