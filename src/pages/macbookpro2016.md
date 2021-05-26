@@ -31,7 +31,7 @@ sections:
 
       | Desoxydation/Nettoyage        | 140€     |
 
-      | Récupération Données          | 160€    |
+      | Récupération Données          | 120€    |
 
       | Remplacement Clavier/Topcase  | 400€    |
 
