@@ -38,8 +38,6 @@ sections:
 
       | Desoxydation/Nettoyage        | 130€    |
 
-      | Récupération Données          | 140€    |
-
       | Remplacement Clavier  | 280€    |
 
       | Remplacement Trackpad         | 150€    |
