@@ -18,7 +18,7 @@ sections:
 
       | MacBook Pro Touch 2018 - 2019   | A1989, A1990, A2159        |
 
-      | MacBook Pro 13" 2019 - 2020     | A2251, A2289 |
+      | MacBook Pro 13" 2020     | A2251, A2289 |
 
       | MacBook Pro 16" 2019 - 2020     | A2141               |
     actions:
