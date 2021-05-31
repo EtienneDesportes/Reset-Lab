@@ -40,7 +40,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: MacBook Pro 2016-2017
+      - label: 2016-2017
         url: macbookpro2016
         style: secondary
         has_icon: false
