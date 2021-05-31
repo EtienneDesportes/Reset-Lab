@@ -36,7 +36,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: 2018-2020
+      - label: 2018-2019
         url: macbookairnew
         style: secondary
         has_icon: false
