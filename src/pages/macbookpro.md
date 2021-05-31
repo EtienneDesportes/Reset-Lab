@@ -58,7 +58,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: MacBook Pro 2020
+      - label: '2020'
         url: macbookpro2020
         style: secondary
         has_icon: false
