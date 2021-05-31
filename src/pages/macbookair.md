@@ -44,6 +44,14 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
+      - label: 2020
+        url: macbookairnew
+        style: secondary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
         type: action
     image_alt: lorem-ipsum
     media_position: top
