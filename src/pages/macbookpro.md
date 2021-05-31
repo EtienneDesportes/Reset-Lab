@@ -12,7 +12,7 @@ sections:
 
       | MacBook Pro 2010 - 2012         | A1278, A1286, A1297 |
 
-      | MacBook Pro Retina 2012 - 2015  | A1425, A1502, A1398 |
+      | MacBook Pro Retina 2013 - 2015  | A1425, A1502, A1398 |
 
       | MacBook Pro 2016 - 2017         | A1706, A1708, A1707 |
 
