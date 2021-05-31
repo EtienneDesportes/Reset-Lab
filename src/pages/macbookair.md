@@ -45,7 +45,7 @@ sections:
         new_window: false
         no_follow: false
       - label: 2020
-        url: macbookairnew
+        url: macbookair2020
         style: secondary
         has_icon: false
         icon: arrow-left
