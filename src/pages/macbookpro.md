@@ -12,17 +12,17 @@ sections:
 
       | MacBook Pro 2010 - 2012         | A1278, A1286, A1297 |
 
-      | MacBook Pro Retina 2012 - 2015  | A1425, A1502, A1398 |
+      | MacBook Pro Retina 2013 - 2015  | A1425, A1502, A1398 |
 
       | MacBook Pro 2016 - 2017         | A1706, A1708, A1707 |
 
-      | MacBook Pro Touch 2018 - 2019   | A1989, A1990        |
+      | MacBook Pro Touch 2018 - 2019   | A1989, A1990, A2159        |
 
-      | MacBook Pro 13" 2019 - 2020     | A2159, A2251, A2289 |
+      | MacBook Pro 13" 2020     | A2251, A2289 |
 
       | MacBook Pro 16" 2019 - 2020     | A2141               |
     actions:
-      - label: MacBook Pro 2010-2012
+      - label: 2010-2012
         url: macbookpro2010
         style: secondary
         has_icon: false
@@ -31,7 +31,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: MacBook Pro 2013-2015
+      - label: 2013-2015
         url: macbookpro2015
         style: secondary
         has_icon: false
@@ -40,7 +40,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: MacBook Pro 2016-2017
+      - label: 2016-2017
         url: macbookpro2016
         style: secondary
         has_icon: false
@@ -49,7 +49,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: MacBook Pro 2018-2019
+      - label: 2018-2019
         url: macbookpro2018
         style: secondary
         has_icon: false
@@ -58,7 +58,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: MacBook Pro 2020
+      - label: '2020'
         url: macbookpro2020
         style: secondary
         has_icon: false
