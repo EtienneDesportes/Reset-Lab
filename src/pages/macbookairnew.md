@@ -3,7 +3,7 @@ title: MacBookAir
 sections:
   - content: >
       <div style="text-align: left"><strong>Tarifs MacBook Air 13"
-      2018-2020</strong></div></br>
+      2018-2019</strong></div></br>
 
 
       <div style="text-align: left"><strong>Il existe deux types de réparations
