@@ -2,8 +2,8 @@
 title: MacBookAir
 sections:
   - content: >
-      <div style="text-align: left"><strong>Tarifs MacBook Air 13"
-      2020</strong></div></br>
+      <div style="text-align: left"><strong>Tarifs MacBook Air 13" 2018 - 2019
+      </strong></div></br>
 
 
       <div style="text-align: left"><strong>Il existe deux types de réparations
@@ -23,7 +23,7 @@ sections:
 
       | Diagnostic                    | Gratuit |
 
-      | Réparation Carte Mère         | 370 / 420€    |
+      | Réparation Carte Mère         | 320 / 370€    |
 
       | Remplacement Ecran            | 530€    |
 
