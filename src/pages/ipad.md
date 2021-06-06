@@ -12,7 +12,7 @@ sections:
       *   Réparation intermédiaire (Erreur 9/4013/4014, Panne réseau/WiFi)
 
 
-      *   Réparation approfondie (Impossible de démarrer l'appareil, Carte-mère
+      *   Récupération de données (Impossible de démarrer l'appareil, Carte-mère
       HS)
 
 
