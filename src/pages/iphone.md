@@ -12,7 +12,7 @@ sections:
       *   Réparation intermédiaire (Erreur 9/4013/4014, Panne réseau/WiFi)
 
 
-      *   Réparation approfondie (Impossible de démarrer l'appareil, Carte-mère
+      *   Récupération de données (Impossible de démarrer l'appareil, Carte-mère
       HS)
 
 
@@ -20,19 +20,19 @@ sections:
 
       |-------------------|-----------------------|
 
-      | 5/5s/SE           | 55 / 90 / 290 €      |
+      | 5/5s/SE           | 55 / 90 / 280 €      |
 
-      | 6/6plus/6s/6splus | 80 / 110 / 290 €      |
+      | 6/6plus/6s/6splus | 80 / 110 / 280 €      |
 
-      | 7/7plus           | 90 / 120 / 290 €      |
+      | 7/7plus           | 90 / 120 / 280 €      |
 
-      | 8/8plus           | 120 / 150 / 290 €     |
+      | 8/8plus           | 120 / 150 / 280 €     |
 
       | X                 | 170 / 200 / 370 €     |
 
       | Xr                | 140 / 170 / 370 €     |
 
-      | Xs/Xsmax          | 180 / 210 / 410 €     |
+      | Xs/Xsmax          | 180 / 210 / 420 €     |
 
       | 11                | 200 / 260 / 480 €     |
 
