@@ -29,7 +29,7 @@ sections:
 
       | Remplacement Batterie 13"-15"         | 180-200€    |
 
-      | Desoxydation/Nettoyage        | 80€     |
+      | Desoxydation/Nettoyage        | 120€     |
 
       | Récupération Données          | 120€    |
 
