@@ -2,8 +2,8 @@
 sections:
   - type: hero_section
     content: >
-      <h1 style="color:white; font-size:28pt;">J'ai renversé de l'eau sur mon
-      macbook !</h1> <h1 style="color:white; font-size:18pt;">Nous sommes
+      <h1 style="color:white; font-size:28pt;">Vous avez renversez de l'eau sur
+      votre macbook ?</h1> <h1 style="color:white; font-size:18pt;">Nous sommes
       réparateurs d’électronique / spécialistes Apple </h1> <h2
       style="color:white ; font-size:16pt;">Réparations de carte-mère :</h2> <ul
       style="color:white"> <li>Dommage liquide</li> <li>Rétro-éclairage</li>
