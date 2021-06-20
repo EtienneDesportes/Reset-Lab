@@ -27,7 +27,7 @@ sections:
 
       | Remplacement Ecran 13"-15"            | 470-520€    |
 
-      | Remplacement Batterie 13"-15"         | 170-190€    |
+      | Remplacement Batterie 13"-15"         | 180-200€    |
 
       | Desoxydation/Nettoyage        | 120€     |
 
