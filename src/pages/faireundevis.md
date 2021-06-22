@@ -29,11 +29,11 @@ sections:
       déposer votre machine à notre atelier si vous êtes sur Brest. </p>
 
 
-      **GARANTIE 180 JOURS**
+      **GARANTIE 90 JOURS**
 
 
       <p style="text-align: justify;">Notre expertise nous permet de vous
-      garantir nos interventions pendant 180 jours. Nous avons les outils et
+      garantir nos interventions pendant 90 jours. Nous avons les outils et
       composants pour assurer une réparation de haute qualité.</p>
     content_align: left
     form_position: right
