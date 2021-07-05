@@ -27,7 +27,7 @@ sections:
 
       | Remplacement Ecran            | 390€    |
 
-      | Remplacement Batterie         | 120€    |
+      | Remplacement Batterie         | 100€    |
 
       | Desoxydation/Nettoyage        | 90€     |
 
