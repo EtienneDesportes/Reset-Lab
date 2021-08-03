@@ -103,7 +103,7 @@ sections:
           remplacer toute la carte mère pour un coût éxorbitant, ce n'est
           heureusement rarement le cas ! Après avoir établi un premier
           diagnostic à l'aide d'un multimètre et une alimentation de labo, nous
-          remplacerons les composants défecteux (résistances, fusibles,
+          remplacerons les composants défectueux (résistances, fusibles,
           condensateurs, mosfets... )</p>
         actions:
           - label: Faire un devis
