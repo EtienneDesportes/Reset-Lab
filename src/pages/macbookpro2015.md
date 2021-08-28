@@ -33,7 +33,7 @@ sections:
 
       | Récupération Données          | 120€    |
 
-      | Remplacement Clavier/Topcase  | 190€    |
+      | Remplacement Clavier/Topcase  | 200€    |
 
       | Remplacement Trackpad         | 120€     |
 
