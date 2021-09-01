@@ -23,7 +23,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_opacity: 80
     has_border: false
-    background_image: images/oceanic-anemone.jpg
+    background_image: images/melodic-yam.jpg
   - type: features_section
     features:
       - subtitle: ''
