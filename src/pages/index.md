@@ -39,7 +39,7 @@ sections:
         actions_align: left
         image: images/596388c578999_Plan de travail 28.svg
         image_position: top
-        image_align: center
+        image_align: left
         image_has_padding: false
         image_alt: Réparation Imac
         title: ' + Ecologique'
