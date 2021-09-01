@@ -75,7 +75,7 @@
         "has_anncmnt": true,
         "anncmnt_content": "Venez déposer votre machine directement à notre atelier ! [**En savoir plus**](https://g.page/ResetLab?share)\n",
         "anncmnt_align": "center",
-        "anncmnt_is_home_only": false,
+        "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "Réparation MacBook / Ipad / Iphone basé sur Brest",
         "logo_alt": "Réparation Macbook / Ipad / Iphone basé sur Brest"
