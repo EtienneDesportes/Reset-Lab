@@ -155,7 +155,7 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: secondary
+    background_color: primary
     background_image_opacity: 0
     title: Le devis est gratuit !
   - type: blog_feed_section
