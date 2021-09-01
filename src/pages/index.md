@@ -142,7 +142,7 @@ sections:
         image_alt: Macbook ne démarre pas
     feature_padding_vert: small
     align: center
-    background_color: none
+    background_color: primary
     background_image_opacity: 10
   - type: grid_section
     subtitle: ''
