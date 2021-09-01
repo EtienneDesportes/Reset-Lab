@@ -44,10 +44,9 @@ sections:
         image_alt: Réparation Macbook Nantes
       - title_align: center
         content: >
-          \<p style='text-align: justify;'> Nous sommes l'alternative et
+          <p style='text-align: justify;'> Nous sommes l'alternative et
           proposons une réparation à moindre coût sans remplacer la carte mère.
-          Economique pour vous, une passion pour nous et écologique pour tous.
-          \</p>
+          Economique pour vous, une passion pour nous et écologique pour tous.</p>
         content_align: center
         actions: []
         actions_align: left
