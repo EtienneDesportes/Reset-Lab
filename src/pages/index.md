@@ -145,7 +145,7 @@ sections:
     feature_padding_vert: small
     align: center
     background_color: primary
-    background_image_opacity: 10
+    background_image_opacity: 5
     background_image: images/background carte mère(1).jpg
   - type: grid_section
     subtitle: ''
