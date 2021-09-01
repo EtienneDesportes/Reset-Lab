@@ -35,7 +35,16 @@ sections:
           garantir nos interventions pendant 180 jours. Nous avons les outils et
           composants pour assurer une réparation de haute qualité.</p>
         content_align: center
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
         image: images/poignee-mains.svg
         image_position: top
