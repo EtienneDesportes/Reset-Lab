@@ -29,7 +29,7 @@ sections:
       déposer votre machine à notre atelier si vous êtes sur Nantes. </p>
 
 
-      **GARANTIE 90 JOURS**
+      **GARANTIE 180 JOURS**
 
 
       <p style="text-align: justify;">Notre expertise nous permet de vous
