@@ -46,10 +46,10 @@ sections:
         title: ' + Ecologique'
       - title: Garantie 180 jours
         title_align: center
-        content: >-
-          <p style='text-align: justify;'>On confirme la réception de votre
-          MacBook et on le répare. S'il n'est pas réparable, seuls les frais de
-          retour sont à votre charge.</p>
+        content: >
+          <p style='text-align: justify;'>Notre expertise nous permet de vous
+          garantir nos interventions pendant 180 jours. Nous avons les outils et
+          composants pour assurer une réparation de haute qualité.</p>
         content_align: center
         actions: []
         actions_align: left
