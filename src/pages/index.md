@@ -37,7 +37,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/596388c578999_Plan de travail 28.svg
+        image: images/planet-earth-global-svgrepo-com.svg
         image_position: top
         image_align: left
         image_has_padding: false
