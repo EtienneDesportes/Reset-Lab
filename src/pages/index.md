@@ -30,10 +30,10 @@ sections:
     grid_items:
       - title_align: center
         content: >
-          \<p style='text-align: justify;'> Nous sommes l'alternative et vous
+          <p style='text-align: justify;'> Nous sommes l'alternative et vous
           proposons une réparation à moindre coût sans remplacer la carte mère.
           Economique pour le client, une passion pour le réparateur et
-          écologique pour tout le monde. \</p>
+          écologique pour tout le monde. </p>
         content_align: center
         actions: []
         actions_align: left
