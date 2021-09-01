@@ -156,7 +156,7 @@ sections:
     enable_cards: true
     align: center
     background_color: secondary
-    background_image_opacity: 10
+    background_image_opacity: 0
     title: Le devis est gratuit !
   - type: blog_feed_section
     title: Quoi de neuf ?
