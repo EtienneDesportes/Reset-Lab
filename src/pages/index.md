@@ -40,7 +40,7 @@ sections:
         image: images/Ætoms_-_Earth.svg
         image_position: top
         image_align: center
-        image_has_padding: false
+        image_has_padding: true
         image_alt: Réparation Imac
         title: ' + Ecologique'
         image_width: twenty-five
