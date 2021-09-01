@@ -246,7 +246,7 @@ seo:
   title: Reset Lab - Réparation MacBook Iphone Ipad Imac
   description: >-
     Votre MacBook, Iphone, Ipad, Imac est en panne ? Nous sommes spécialistes en
-    réparation de carte-mère. Venez déposer votre machine sur Brest ! 
+    réparation de carte-mère. Venez déposer votre machine sur Nantes ! 
   robots: []
   extra:
     - name: 'og:image'
