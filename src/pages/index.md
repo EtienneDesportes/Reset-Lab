@@ -43,7 +43,7 @@ sections:
         image_has_padding: false
         image_alt: Réparation Imac
         title: ' + Ecologique'
-        image_width: thirty-three
+        image_width: twenty-five
       - title: Garantie 180 jours
         title_align: center
         content: >
