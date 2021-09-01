@@ -43,7 +43,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_alt: Réparation Imac
-      - title: Réparation
+      - title: Garantie 180 jours
         title_align: center
         content: >-
           <p style='text-align: justify;'>On confirme la réception de votre
