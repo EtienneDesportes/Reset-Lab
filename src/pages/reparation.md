@@ -38,7 +38,7 @@ sections:
         media_position: left
         media_width: fourty
         image: images/neat-tortoise.jpg
-        image_alt: Réparation Carte-mère Macbook outils amscope
+        image_alt: Réparation Carte-mère Macbook micro amscope
         title: Nos outils
       - title: Le diagnostic
         subtitle: ''
