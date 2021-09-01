@@ -37,7 +37,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/Ætoms_-_Earth.svg
+        image: images/596388c578999_Plan de travail 28.svg
         image_position: top
         image_align: center
         image_has_padding: true
