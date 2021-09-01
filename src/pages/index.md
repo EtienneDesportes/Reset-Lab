@@ -146,6 +146,7 @@ sections:
     align: center
     background_color: primary
     background_image_opacity: 10
+    background_image: images/background carte mère(1).jpg
   - type: grid_section
     subtitle: ''
     grid_items:
@@ -199,7 +200,7 @@ sections:
     align: center
     background_color: none
     background_image_opacity: 0
-    title: 
+    title: null
   - type: blog_feed_section
     title: Quoi de neuf ?
     subtitle: ''
