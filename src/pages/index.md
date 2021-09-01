@@ -73,7 +73,7 @@ sections:
         image_has_padding: false
         image_alt: Paiement en ligne
     grid_cols: three
-    grid_gap_horiz: large
+    grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: true
     align: center
