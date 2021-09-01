@@ -31,10 +31,11 @@ sections:
       - title: + Economique + Ecologique
         title_align: center
         content: >
-          <p style='text-align: justify;'>Après confirmation du devis, une
-          étiquette d’envoi avec assurance vous sera envoyée. Il ne vous reste
-          plus qu’à coller l’étiquette sur votre colis bien sécurisé et de le
-          déposer en bureau de poste. </p>
+          \<p style='text-align: justify;'>Nous sommes l'alternative et vous
+          proposons une réparation à moindre coût sans remplacer la carte mère
+          (de 180 à 450€ TTC, selon la panne et l'âge de votre MacBook). Non
+          seulement c'est économique pour le client, une passion pour le
+          réparateur et écologique pour tout le monde.\</p>
         content_align: center
         actions: []
         actions_align: left
