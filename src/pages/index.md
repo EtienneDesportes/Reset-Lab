@@ -53,7 +53,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/success-svgrepo-com.svg
+        image: images/poignee-mains.svg
         image_position: top
         image_align: center
         image_has_padding: false
