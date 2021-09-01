@@ -78,6 +78,7 @@ sections:
     align: center
     background_color: primary
     background_image_opacity: 0
+    background_image: images/background carte mère(1).jpg
   - type: features_section
     title: ''
     subtitle: ''
