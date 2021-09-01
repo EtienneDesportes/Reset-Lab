@@ -40,7 +40,7 @@ sections:
         image: images/planet-earth-environment-svgrepo-com.svg
         image_position: top
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         image_alt: Réparation Imac
         title: ' + Ecologique'
         image_width: thirty-three
