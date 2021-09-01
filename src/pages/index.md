@@ -46,7 +46,8 @@ sections:
         content: >
           <p style='text-align: justify;'> Nous sommes l'alternative et
           proposons une réparation à moindre coût sans remplacer la carte mère.
-          Economique pour vous, une passion pour nous et écologique pour tous.</p>
+          Economique pour vous, une passion pour nous et écologique pour
+          tous.</p>
         content_align: center
         actions: []
         actions_align: left
@@ -72,7 +73,7 @@ sections:
         image_has_padding: false
         image_alt: Paiement en ligne
     grid_cols: three
-    grid_gap_horiz: medium
+    grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: true
     align: center
