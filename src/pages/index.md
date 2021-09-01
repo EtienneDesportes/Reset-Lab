@@ -28,8 +28,7 @@ sections:
   - type: grid_section
     subtitle: ''
     grid_items:
-      - title: + Economique + Ecologique
-        title_align: center
+      - title_align: center
         content: >
           \<p style='text-align: justify;'>Nous sommes l'alternative et vous
           proposons une réparation à moindre coût sans remplacer la carte mère
