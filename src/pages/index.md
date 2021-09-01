@@ -38,7 +38,7 @@ sections:
         actions: []
         actions_align: left
         image: images/recyclage-macbook-ipad-iphone-brest-eea9d1c0.svg
-        image_position: top
+        image_position: bottom
         image_align: center
         image_has_padding: true
         image_alt: Réparation Imac
