@@ -199,7 +199,7 @@ sections:
     align: center
     background_color: none
     background_image_opacity: 0
-    title: Le devis est gratuit !
+    title: 
   - type: blog_feed_section
     title: Quoi de neuf ?
     subtitle: ''
