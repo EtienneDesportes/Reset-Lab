@@ -8,7 +8,7 @@
     "header": {
         "title": "Reset Lab - Réparation Macbook / Ipad / Iphone basé sur Brest",
         "logo": "images/amazing-mango.svg",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_links": [
             {
                 "label": "Comment ça marche ?",
