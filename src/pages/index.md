@@ -156,7 +156,7 @@ sections:
     enable_cards: true
     align: center
     background_color: secondary
-    background_image: images/marvelous-spruce.jpg
+    background_image: images/background carte mère(1).jpg
     background_image_opacity: 10
     title: Le devis est gratuit !
   - type: blog_feed_section
