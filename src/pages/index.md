@@ -75,7 +75,7 @@ sections:
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
-    enable_cards: false
+    enable_cards: true
     align: center
     background_color: none
     background_image_opacity: 10
