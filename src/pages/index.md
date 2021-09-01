@@ -28,7 +28,7 @@ sections:
   - type: grid_section
     subtitle: ''
     grid_items:
-      - title: Devis et Envoi gratuit
+      - title: + Economique + Ecologique
         title_align: center
         content: >
           <p style='text-align: justify;'>Après confirmation du devis, une
