@@ -12,7 +12,7 @@ sections:
       - label: Faire un devis
         url: /faireundevis
         style: secondary
-        icon_position: center
+        icon_position: left
     media_position: right
     media_width: fourty
     align: left
