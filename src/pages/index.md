@@ -39,61 +39,6 @@ sections:
     background_image_opacity: 10
     background_image_position: center center
     title: +Economique +Ecologique
-  - type: grid_section
-    subtitle: ''
-    grid_items:
-      - title: Devis et Envoi gratuit
-        title_align: center
-        content: >
-          <p style='text-align: justify;'>Après confirmation du devis, une
-          étiquette d’envoi avec assurance vous sera envoyée. Il ne vous reste
-          plus qu’à coller l’étiquette sur votre colis bien sécurisé et de le
-          déposer en bureau de poste. </p>
-        content_align: center
-        actions: []
-        actions_align: left
-        image: images/icon.svg
-        image_position: top
-        image_align: center
-        image_has_padding: true
-        image_alt: Réparation Imac
-      - title: Réparation
-        title_align: center
-        content: >-
-          <p style='text-align: justify;'>On confirme la réception de votre
-          MacBook et on le répare. S'il n'est pas réparable, seuls les frais de
-          retour sont à votre charge.</p>
-        content_align: center
-        actions: []
-        actions_align: left
-        image: images/diagnostics-icon.svg
-        image_position: top
-        image_align: center
-        image_has_padding: true
-        image_alt: Réparation Macbook Nantes
-      - title: Retour & Règlement
-        title_align: center
-        content: >
-          <p style='text-align: justify;'>Vous réglez uniquement le devis si la
-          réparation est finalisée avec succès. On vous renvoie gratuitement
-          votre machine en colis assuré.</p>
-        content_align: center
-        actions: []
-        actions_align: left
-        image: images/icon-maintenance.svg
-        image_position: top
-        image_align: center
-        image_has_padding: true
-        image_alt: Paiement en ligne
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: small
-    enable_cards: true
-    align: center
-    background_color: primary
-    background_image: images/marvelous-spruce.jpg
-    background_image_opacity: 10
-    title: Le devis est gratuit !
   - type: features_section
     title: ''
     subtitle: ''
@@ -159,6 +104,61 @@ sections:
     align: center
     background_color: none
     background_image_opacity: 10
+  - type: grid_section
+    subtitle: ''
+    grid_items:
+      - title: Devis et Envoi gratuit
+        title_align: center
+        content: >
+          <p style='text-align: justify;'>Après confirmation du devis, une
+          étiquette d’envoi avec assurance vous sera envoyée. Il ne vous reste
+          plus qu’à coller l’étiquette sur votre colis bien sécurisé et de le
+          déposer en bureau de poste. </p>
+        content_align: center
+        actions: []
+        actions_align: left
+        image: images/icon.svg
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        image_alt: Réparation Imac
+      - title: Réparation
+        title_align: center
+        content: >-
+          <p style='text-align: justify;'>On confirme la réception de votre
+          MacBook et on le répare. S'il n'est pas réparable, seuls les frais de
+          retour sont à votre charge.</p>
+        content_align: center
+        actions: []
+        actions_align: left
+        image: images/diagnostics-icon.svg
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        image_alt: Réparation Macbook Nantes
+      - title: Retour & Règlement
+        title_align: center
+        content: >
+          <p style='text-align: justify;'>Vous réglez uniquement le devis si la
+          réparation est finalisée avec succès. On vous renvoie gratuitement
+          votre machine en colis assuré.</p>
+        content_align: center
+        actions: []
+        actions_align: left
+        image: images/icon-maintenance.svg
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        image_alt: Paiement en ligne
+    grid_cols: three
+    grid_gap_horiz: medium
+    grid_gap_vert: small
+    enable_cards: true
+    align: center
+    background_color: primary
+    background_image: images/marvelous-spruce.jpg
+    background_image_opacity: 10
+    title: Le devis est gratuit !
   - type: blog_feed_section
     title: Quoi de neuf ?
     subtitle: ''
