@@ -155,7 +155,7 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: primary
+    background_color: secondary
     background_image: images/marvelous-spruce.jpg
     background_image_opacity: 10
     title: Le devis est gratuit !
