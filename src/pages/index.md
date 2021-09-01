@@ -61,9 +61,9 @@ sections:
       - title: Devis Gratuit
         title_align: center
         content: >
-          <p style='text-align: justify;'>Vous réglez uniquement le devis si la
-          réparation est finalisée avec succès. On vous renvoie gratuitement
-          votre machine en colis assuré.</p>
+          <p style='text-align: justify;'>Nous ne facturons pas de devis. Payer
+          pour un premier diagnostic n'a pas de sens d'après nous. Vous payez
+          uniquement si votre machine est à nouveau en état de marche.</p>
         content_align: center
         actions: []
         actions_align: left
