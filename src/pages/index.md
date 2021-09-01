@@ -32,9 +32,9 @@ sections:
         content: >
           \<p style='text-align: justify;'> Nous sommes l'alternative et vous
           proposons une réparation à moindre coût sans remplacer la carte mère
-          (de 180 à 450€ TTC, selon la panne et l'âge de votre MacBook). Non
-          seulement c'est économique pour le client, une passion pour le
-          réparateur et écologique pour tout le monde. \</p>
+          (de 180 à 450€ TTC, selon la panne et l'âge de votre MacBook).
+          Economique pour le client, une passion pour le réparateur et
+          écologique pour tout le monde. \</p>
         content_align: center
         actions: []
         actions_align: left
