@@ -78,7 +78,6 @@ sections:
     align: center
     background_color: primary
     background_image_opacity: 0
-    title: Le devis est gratuit !
   - type: features_section
     title: ''
     subtitle: ''
@@ -236,7 +235,6 @@ sections:
     padding_bottom: none
     background_color: primary
     background_image_opacity: 10
-
 template: advanced
 excerpt: Réparer mon MacBook
 seo:
