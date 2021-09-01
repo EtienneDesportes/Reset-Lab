@@ -25,20 +25,7 @@ sections:
     background_image_opacity: 0
     has_border: false
     background_image: images/background-558021a4.jpg
-  - type: features_section
-    features:
-      - subtitle: ''
-        image: images/recyclage-macbook-ipad-iphone-brest.svg
-        media_position: left
-        media_width: fourty
-        content: "<p style=\"text-align:justify;\">“Apple vous\_indique que les indicateurs d'humidité sont passés au rouge et que du liquide se trouve dans l'ordinateur ? Montant de la réparation estimée : plus de 1 200€ pour remplacer toute la carte mère ! Nous sommes l'alternative et vous proposons une réparation à moindre coût sans remplacer la carte mère (de 180 à 450€ TTC, selon la panne et l'âge de votre MacBook). Non seulement c'est <strong>économique</strong> pour le client, une <strong>passion</strong> pour le réparateur et <strong>écologique</strong> pour tout le monde.”</p>\n"
-        align: left
-        image_alt: Réparation Smartphone Nantes
-    feature_padding_vert: small
-    background_color: primary
-    background_image_opacity: 10
-    background_image_position: center center
-    title: +Economique +Ecologique
+
   - type: features_section
     title: ''
     subtitle: ''
