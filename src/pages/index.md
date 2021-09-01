@@ -67,7 +67,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/devis-gratuit.svg
+        image: images/devis-gratuit-0e6a3696.svg
         image_position: top
         image_align: center
         image_has_padding: false
