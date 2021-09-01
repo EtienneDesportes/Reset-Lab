@@ -37,7 +37,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/recyclage-macbook-ipad-iphone-brest-eea9d1c0.svg
+        image: images/planet-earth-environment-svgrepo-com.svg
         image_position: top
         image_align: center
         image_has_padding: true
