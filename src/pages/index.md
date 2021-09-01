@@ -6,12 +6,13 @@ sections:
       ?</h1> <h1 style="color:white; font-size:18pt;">Nous sommes réparateurs
       d’électronique / spécialistes Apple </h1> <h2 style="color:white ;
       font-size:16pt;">Réparations de carte-mère :</h2> <ul style="color:white">
-      <li>Dommage liquide</li> <li>Rétro-éclairage</li> <li>Problème de
-      démarrage</li> <li>Récupération de données</li></ul> 
+      <li>Dommage liquide</li> <li>Problème de démarrage</li> <li>Récupération
+      de données</li> </ul> 
     actions:
       - label: Faire un devis
         url: /faireundevis
         style: secondary
+        icon_position: left
     media_position: right
     media_width: fourty
     align: left
@@ -23,76 +24,63 @@ sections:
     background_image_repeat: no-repeat
     background_image_opacity: 0
     has_border: false
-    background_image: images/background.jpg
-  - type: features_section
-    features:
-      - subtitle: ''
-        image: images/recyclage-macbook-ipad-iphone-brest.svg
-        media_position: left
-        media_width: fourty
-        content: "<p style=\"text-align:justify;\">“Apple vous\_indique que les indicateurs d'humidité sont passés au rouge et que du liquide se trouve dans l'ordinateur ? Montant de la réparation estimée : plus de 1 200€ pour remplacer toute la carte mère ! Nous sommes l'alternative et vous proposons une réparation à moindre coût sans remplacer la carte mère (de 180 à 450€ TTC, selon la panne et l'âge de votre MacBook). Non seulement c'est <strong>économique</strong> pour le client, une <strong>passion</strong> pour le réparateur et <strong>écologique</strong> pour tout le monde.”</p>\n"
-        align: left
-        image_alt: Réparation Smartphone Brest
-    feature_padding_vert: small
-    background_color: none
-    background_image_opacity: 10
-    background_image_position: center center
-    title: +Economique +Ecologique
+    background_image: images/background-558021a4.jpg
   - type: grid_section
     subtitle: ''
     grid_items:
-      - title: Devis et Envoi gratuit
+      - title: Garantie 180 jours
         title_align: center
         content: >
-          <p style='text-align: justify;'>Après confirmation du devis, une
-          étiquette d’envoi avec assurance vous sera envoyée. Il ne vous reste
-          plus qu’à coller l’étiquette sur votre colis bien sécurisé et de le
-          déposer en bureau de poste. </p>
+          <p style='text-align: justify;'>Notre expertise nous permet de vous
+          garantir nos interventions pendant 180 jours. Nous avons les outils et
+          composants pour assurer une réparation de haute qualité.</p>
         content_align: center
         actions: []
         actions_align: left
-        image: images/icon.svg
+        image: images/poignee-mains.svg
         image_position: top
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
+        image_alt: Réparation Macbook Nantes
+      - title_align: center
+        content: >
+          <p style='text-align: justify;'> Nous sommes l'alternative et
+          proposons une réparation à moindre coût sans remplacer la carte mère.
+          Economique pour vous, une passion pour nous et écologique pour
+          tous.</p>
+        content_align: center
+        actions: []
+        actions_align: left
+        image: images/planet-earth-global-svgrepo-com.svg
+        image_position: top
+        image_align: left
+        image_has_padding: false
         image_alt: Réparation Imac
-      - title: Réparation
-        title_align: center
-        content: >-
-          <p style='text-align: justify;'>On confirme la réception de votre
-          MacBook et on le répare. S'il n'est pas réparable, seuls les frais de
-          retour sont à votre charge.</p>
-        content_align: center
-        actions: []
-        actions_align: left
-        image: images/diagnostics-icon.svg
-        image_position: top
-        image_align: center
-        image_has_padding: true
-        image_alt: Réparation Macbook Brest
-      - title: Retour & Règlement
+        title: ' + Ecologique'
+        image_width: twenty-five
+      - title: Devis Gratuit
         title_align: center
         content: >
-          <p style='text-align: justify;'>Vous réglez uniquement le devis si la
-          réparation est finalisée avec succès. On vous renvoie gratuitement
-          votre machine en colis assuré.</p>
+          <p style='text-align: justify;'>Nous ne facturons pas de devis. Payer
+          pour un premier diagnostic n'a pas de sens d'après nous. Vous payez
+          uniquement si votre machine est à nouveau en état de marche.</p>
         content_align: center
         actions: []
         actions_align: left
-        image: images/icon-maintenance.svg
+        image: images/devis-gratuit-0e6a3696.svg
         image_position: top
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         image_alt: Paiement en ligne
     grid_cols: three
-    grid_gap_horiz: medium
+    grid_gap_horiz: large
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: primary
-    background_image: images/marvelous-spruce.jpg
+    background_color: none
     background_image_opacity: 10
-    title: Le devis est gratuit !
+    background_image_repeat: no-repeat
+    background_image_size: contain
   - type: features_section
     title: ''
     subtitle: ''
@@ -133,7 +121,7 @@ sections:
         image: images/caring-lettuce.svg
         media_position: left
         media_width: thirty-three
-        image_alt: Ecran hs macbook
+        image_alt: Ecran cassé macbook
         title: Rétro-Eclairage
       - title: Problème de démarrage
         subtitle: ''
@@ -156,8 +144,63 @@ sections:
         image_alt: Macbook ne démarre pas
     feature_padding_vert: small
     align: center
-    background_color: none
+    background_color: primary
     background_image_opacity: 10
+    background_image: images/background carte mère(1).jpg
+  - type: grid_section
+    subtitle: ''
+    grid_items:
+      - title: Devis et Envoi gratuit
+        title_align: center
+        content: >
+          <p style='text-align: justify;'>Après confirmation du devis, une
+          étiquette d’envoi avec assurance vous sera envoyée. Il ne vous reste
+          plus qu’à coller l’étiquette sur votre colis bien sécurisé et de le
+          déposer en bureau de poste. </p>
+        content_align: center
+        actions: []
+        actions_align: left
+        image: images/icon.svg
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        image_alt: Réparation Imac
+      - title: Réparation
+        title_align: center
+        content: >-
+          <p style='text-align: justify;'>On confirme la réception de votre
+          MacBook et on le répare. S'il n'est pas réparable, seuls les frais de
+          retour sont à votre charge.</p>
+        content_align: center
+        actions: []
+        actions_align: left
+        image: images/diagnostics-icon.svg
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        image_alt: Réparation Macbook Nantes
+      - title: Retour & Règlement
+        title_align: center
+        content: >
+          <p style='text-align: justify;'>Vous réglez uniquement le devis si la
+          réparation est finalisée avec succès. On vous renvoie gratuitement
+          votre machine en colis assuré.</p>
+        content_align: center
+        actions: []
+        actions_align: left
+        image: images/icon-maintenance.svg
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        image_alt: Paiement en ligne
+    grid_cols: three
+    grid_gap_horiz: medium
+    grid_gap_vert: small
+    enable_cards: true
+    align: center
+    background_color: none
+    background_image_opacity: 0
+    title: null
   - type: blog_feed_section
     title: Quoi de neuf ?
     subtitle: ''
@@ -179,8 +222,8 @@ sections:
     padding_bottom: none
     has_border: false
     background_color: primary
-    background_image: images/melodic-europa.jpg
     background_image_opacity: 10
+    background_image: images/background carte mère(1).jpg
   - type: cta_section
     title: Contactez-nous
     content: >-
@@ -197,19 +240,6 @@ sections:
     padding_bottom: none
     background_color: none
     background_image_opacity: 10
-  - actions: []
-    media_position: right
-    media_width: fourty
-    align: left
-    padding_top: none
-    padding_bottom: none
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
 template: advanced
 excerpt: Réparer mon MacBook
 seo:

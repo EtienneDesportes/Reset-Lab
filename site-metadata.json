@@ -72,13 +72,13 @@
                 "style": "primary"
             }
         ],
-        "has_anncmnt": true,
-        "anncmnt_content": "Atelier de réparation basé sur **Brest**. Venez déposer votre machine. Merci de prévenir avant de venir ! [**En savoir plus**](https://g.page/ResetLab?share)\n",
+        "has_anncmnt": false,
+        "anncmnt_content": "Venez déposer votre machine directement à notre atelier ! [**En savoir plus**](https://g.page/ResetLab?share)\n",
         "anncmnt_align": "center",
-        "anncmnt_is_home_only": true,
-        "anncmnt_has_close": true,
-        "anncmnt_id": "Réparation MacBook / Ipad / Iphone basé sur Brest",
-        "logo_alt": "Réparation Macbook / Ipad / Iphone basé sur Brest"
+        "anncmnt_is_home_only": false,
+        "anncmnt_has_close": false,
+        "anncmnt_id": "Réparation Macbook Ipad Iphone Imac Nantes",
+        "logo_alt": "Réparation Macbook Ipad Iphone Imac Nantes"
     },
     "footer": {
         "logo": "images/super-hickory.svg",
@@ -112,9 +112,9 @@
         "has_social": true,
         "social_links": [],
         "content": "&copy; ResetLab. Atelier de réparation MacBook Iphone Ipad Imac ",
-        "logo_alt": "Reset Lab - Réparation Macbook / Ipad / Iphone basé sur Brest"
+        "logo_alt": "Réparation Macbook Ipad Iphone Imac Nantes"
     },
-    "title": "Réparation Macbook Ipad Iphone Imac sur Brest",
+    "title": "Réparation Macbook Ipad Iphone Imac Nantes",
     "domain": "https://resetlab.fr",
     "favicon": "images/smiling-owl.ico"
 }
