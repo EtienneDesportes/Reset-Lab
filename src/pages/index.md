@@ -37,7 +37,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/1522766566-99fa09d2.svg
+        image: images/Ætoms_-_Earth.svg
         image_position: top
         image_align: center
         image_has_padding: false
