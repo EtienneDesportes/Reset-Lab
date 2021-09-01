@@ -6,8 +6,8 @@ sections:
       ?</h1> <h1 style="color:white; font-size:18pt;">Nous sommes réparateurs
       d’électronique / spécialistes Apple </h1> <h2 style="color:white ;
       font-size:16pt;">Réparations de carte-mère :</h2> <ul style="color:white">
-      <li>Dommage liquide</li> <li>Rétro-éclairage</li> <li>Problème de
-      démarrage</li> <li>Récupération de données</li></ul> 
+      <li>Devis gratuit</li> <li>Diagnostic détaillé</li> <li>Garantie 180
+      jours</li> </ul> 
     actions:
       - label: Faire un devis
         url: /faireundevis
