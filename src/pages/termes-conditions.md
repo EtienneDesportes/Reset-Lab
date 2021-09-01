@@ -11,7 +11,7 @@ seo:
 
 **1. A propos de nous**
 
-La Société RESET LAB, dont le siège social est à BREST (29200) 28 rue Duret, immatriculée au registre du commerce et des sociétés de BREST sous le numéro 82 283 125 100 019. La Société commercialise, à ses Clients via son Site Internet, les produits suivants : Prestation de service - Réparation MacBook.
+La Société RESET LAB, dont le siège social est à NANTES, immatriculée au registre du commerce et des sociétés de NANTES sous le numéro 82 283 125 100 019. La Société commercialise, à ses Clients via son Site Internet, les produits suivants : Prestation de service - Réparation MacBook.
 
 **2. Produits et prix**
 
@@ -59,9 +59,7 @@ L’Utilisateur autorise expressément la Société à déposer sur le disque du
 
 L’Utilisateur dispose de la possibilité de bloquer, modifier la durée de conservation, ou supprimer ce cookie via l’interface de son navigateur. Si la désactivation systématique des cookies sur le navigateur de l’Utilisateur l’empêche d’utiliser certains services ou fonctionnalités du Site, ce dysfonctionnement ne saurait en aucun cas constituer un dommage pour le membre qui ne pourra prétendre à aucune indemnité de ce fait.
 
-**7. Coordonnées du médiateur**
 
-Reset Lab
-28 rue Duret, Brest 29200
+
 
 </div>
