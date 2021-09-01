@@ -6,7 +6,7 @@ sections:
       - title: ''
         subtitle: ''
         content: >
-          <h3>Atelier de réparation basé sur Brest</h3>
+          <h3>Atelier de réparation</h3>
 
 
           <div style="text-align: justify">Etienne Desportes, ingénieur
