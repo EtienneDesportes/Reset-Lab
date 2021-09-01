@@ -38,7 +38,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/icon.svg
+        image: images/recyclage-macbook-ipad-iphone-brest.svg
         image_position: top
         image_align: center
         image_has_padding: true
