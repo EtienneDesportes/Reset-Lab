@@ -3,12 +3,7 @@ title: A propos
 sections:
   - type: features_section
     features:
-      - title: ''
-        subtitle: ''
-        content: >
-          <h3>Atelier de réparation</h3>
-
-
+      - content: >
           <div style="text-align: justify">Etienne Desportes, ingénieur
           mécatronique et bricoleur en tout genre, décide d'ouvrir son atelier
           pour redonner aux technologies du quotidien la valeur qu'ils méritent
@@ -18,15 +13,9 @@ sections:
           monde. Diplômé de la formation trinationale mécatronique,
           l'électronique est une réelle passion. Si vous êtes sur Nantes vous
           pouvez directement venir déposer votre machine. On se fera un plaisir
-          de vous expliquer comment on procède.
+          de vous expliquer comment on procède.</div><br>
 
 
-          </div>
-        image: images/P1111509-min(1).jpg
-        media_position: right
-        media_width: thirty-three
-        image_alt: réparation micro soudure apple
-      - content: >
           <div style="text-align: justify">L’obsolescence programmée est de
           plus en plus pratiquée par les grandes entreprises de
           <strong>technologies</strong>. Par exemple un fabricant bien connu
@@ -47,7 +36,7 @@ sections:
           reconditionné qui suffit amplement à nos besoins.</div>
         actions: []
         image_alt: micro soudure carte mère réparation macbook
-        media_position: left
+        media_position: right
         media_width: thirty-three
         align: left
         type: feature
