@@ -19,8 +19,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: >-
-          images/Agence-M-Com-Marseille-Eleo-Informtique-Aix-en-Provence-Icone-advice-44e7f32e.svg
+        image: images/portable.svg
         title: >-
           La réparation est uniquement facturée si elle est réalisée avec succès
           !
