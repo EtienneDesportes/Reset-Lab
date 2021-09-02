@@ -16,6 +16,8 @@ sections:
           de vous expliquer comment on procède.</div>
 
 
+
+
           <div style="text-align: justify">L’obsolescence programmée est de
           plus en plus pratiquée par les grandes entreprises de
           <strong>technologies</strong>. Par exemple un fabricant bien connu
