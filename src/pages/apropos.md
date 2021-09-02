@@ -13,9 +13,7 @@ sections:
           monde. Diplômé de la formation trinationale mécatronique,
           l'électronique est une réelle passion. Si vous êtes sur Nantes vous
           pouvez directement venir déposer votre machine. On se fera un plaisir
-          de vous expliquer comment on procède.</div>
-
-
+          de vous expliquer comment on procède.</div><br>
 
 
           <div style="text-align: justify">L’obsolescence programmée est de
