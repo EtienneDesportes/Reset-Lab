@@ -3,11 +3,6 @@ title: A propos
 sections:
   - type: features_section
     features:
-      - title: ''
-        subtitle: ''
-        media_position: right
-        media_width: thirty-three
-        image_alt: réparation micro soudure apple
       - content: >
           <div style="text-align: justify">L’obsolescence programmée est de
           plus en plus pratiquée par les grandes entreprises de
