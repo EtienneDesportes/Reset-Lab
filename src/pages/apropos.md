@@ -22,7 +22,6 @@ sections:
 
 
           </div>
-        image: images/alimentation-labo-réparation-972e8eab.jpg
         media_position: right
         media_width: thirty-three
         image_alt: réparation micro soudure apple
