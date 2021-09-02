@@ -36,7 +36,7 @@ sections:
           reconditionné qui suffit amplement à nos besoins.</div>
         actions: []
         image_alt: micro soudure carte mère réparation macbook
-        media_position: left
+        media_position: right
         media_width: thirty-three
         align: left
         type: feature
