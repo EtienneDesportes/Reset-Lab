@@ -24,7 +24,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_opacity: 0
     has_border: false
-    background_image: images/background-558021a4.jpg
+    background_image: images/background.svg
   - type: grid_section
     subtitle: ''
     grid_items:
