@@ -17,7 +17,7 @@ sections:
     media_width: fourty
     align: left
     padding_top: none
-    padding_bottom: small
+    padding_bottom: none
     background_color: none
     background_image_size: cover
     background_image_position: center center
