@@ -42,7 +42,7 @@ sections:
         image_align: center
         image_has_padding: false
         image_alt: Réparation Macbook Nantes
-        image_width: fourty
+        image_width: twenty-five
       - title_align: center
         content: >
           <p style='text-align: justify;'> Nous sommes l'alternative et
