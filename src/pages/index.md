@@ -53,7 +53,7 @@ sections:
         actions: []
         actions_align: left
         image: images/planet-earth-global-svgrepo-com.svg
-        image_position: top
+        image_position: bottom
         image_align: left
         image_has_padding: false
         image_alt: Réparation Imac
