@@ -2,8 +2,8 @@
 sections:
   - type: hero_section
     content: >
-      <h1 style="color:#black; font-size:28pt;">Votre appareil est en panne
-      ?</h1> <h1 style="color:#373e6d; font-size:18pt;">Nous sommes spécialistes
+      <h1 style="color:black; font-size:28pt;">Votre appareil est en panne
+      ?</h1> <h1 style="color:black; font-size:18pt;">Nous sommes spécialistes
       en micro-soudure Apple </h1> <h2 style="color:#373e6d ;
       font-size:16pt;">Réparations de carte-mère :</h2> <ul
       style="color:#373e6d"> <li>Dommage liquide</li> <li>Problème de
