@@ -72,7 +72,7 @@
                 "style": "primary"
             }
         ],
-        "has_anncmnt": false,
+        "has_anncmnt": true,
         "anncmnt_content": "Venez déposer votre machine directement à notre atelier ! [**En savoir plus**](https://g.page/ResetLab?share)\n",
         "anncmnt_align": "center",
         "anncmnt_is_home_only": false,
