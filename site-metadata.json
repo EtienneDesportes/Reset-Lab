@@ -2,7 +2,7 @@
     "description": "Atelier de réparation MacBook - Dommage liquide - Carte-mère",
     "layout": "full-width",
     "style": "minimal",
-    "palette": "green",
+    "palette": "blue",
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
