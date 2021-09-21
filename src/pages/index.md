@@ -2,10 +2,10 @@
 sections:
   - type: hero_section
     content: >
-      <h1 style="color:black; font-size:28pt;">Votre appareil est en panne
-      ?</h1> <h1 style="color:black; font-size:18pt;">Nous sommes spécialistes
-      en micro-soudure Apple </h1> <h2 style="color:black ;
-      font-size:16pt;">Réparations de carte-mère :</h2> <ul style="color:black">
+      <h1 style="color:white; font-size:28pt;">Votre appareil est en panne
+      ?</h1> <h1 style="color:white; font-size:18pt;">Nous sommes spécialistes
+      en micro-soudure Apple </h1> <h2 style="color:white ;
+      font-size:16pt;">Réparations de carte-mère :</h2> <ul style="color:white">
       <li>Dommage liquide</li> <li>Problème de démarrage</li> <li>Récupération
       de données</li> </ul> 
     actions:
@@ -24,7 +24,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_opacity: 0
     has_border: false
-    background_image: images/background-0e9ea881.svg
+    background_image: images/background-faac2a89.jpg
   - type: grid_section
     subtitle: ''
     grid_items:
@@ -244,7 +244,7 @@ sections:
 template: advanced
 excerpt: Réparer mon MacBook
 seo:
-  title: Reset Lab - Réparation MacBook Iphone Ipad Imac
+  title: Reset Lab - Réparation MacBook Iphone Ipad Imac sur Nantes
   description: >-
     Votre MacBook, Iphone, Ipad, Imac est en panne ? Nous sommes spécialistes en
     réparation de carte-mère. Venez déposer votre machine sur Nantes ! 
