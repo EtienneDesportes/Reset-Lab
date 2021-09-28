@@ -9,7 +9,7 @@ sections:
       <li>Dommage liquide</li> <li>Problème de démarrage</li> <li>Récupération
       de données</li> </ul> 
     actions:
-      - label: Faire un devis
+      - label: Faire un devis gratuit
         url: /faireundevis
         style: secondary
         icon_position: left
