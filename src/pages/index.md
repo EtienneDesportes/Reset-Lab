@@ -202,7 +202,7 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: primary
+    background_color: none
     background_image_opacity: 10
     title: null
     background_image: images/background carte mère(1).jpg
