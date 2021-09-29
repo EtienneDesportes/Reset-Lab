@@ -61,8 +61,7 @@ sections:
         image_alt: Réparation Imac
         image_width: twenty-five
         image: images/eco-0291d77a.svg
-      - title: Garantie 180 jours
-        title_align: center
+      - title_align: center
         content: >
           <p style='text-align: justify;'>Notre expertise nous permet de vous
           garantir nos interventions pendant 180 jours. Nous avons les outils et
