@@ -4,7 +4,7 @@
     "style": "minimal",
     "palette": "blue",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "Reset Lab - Réparation Macbook / Ipad / Iphone basé sur Brest",
         "logo": "images/amazing-mango.svg",
