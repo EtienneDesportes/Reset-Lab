@@ -84,6 +84,7 @@ sections:
     background_image_opacity: 10
     background_image_repeat: no-repeat
     background_image_size: contain
+    has_border: true
   - type: features_section
     title: ''
     subtitle: ''
