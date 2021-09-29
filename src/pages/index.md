@@ -235,7 +235,7 @@ sections:
     actions:
       - label: Contactez-nous
         url: /contact
-        style: secondary
+        style: primary
     actions_position: right
     actions_width: fourty
     align: left
