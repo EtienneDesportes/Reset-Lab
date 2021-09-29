@@ -242,7 +242,7 @@ sections:
     align: left
     padding_top: small
     padding_bottom: none
-    background_color: none
+    background_color: primary
     background_image_opacity: 10
 template: advanced
 excerpt: Réparer mon MacBook
