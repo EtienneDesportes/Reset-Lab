@@ -32,6 +32,21 @@ sections:
   - type: grid_section
     subtitle: ''
     grid_items:
+      - title: Devis Gratuit
+        title_align: center
+        content: >
+          <p style='text-align: justify;'>Nous ne facturons pas de devis. Payer
+          pour un premier diagnostic n'a pas de sens d'après nous. Vous payez
+          uniquement si votre machine est à nouveau en état de marche.</p>
+        content_align: center
+        actions: []
+        actions_align: left
+        image: images/devis-gratuit-0e6a3696.svg
+        image_position: bottom
+        image_align: center
+        image_has_padding: false
+        image_alt: Paiement en ligne
+        image_width: twenty-five
       - title: Garantie 180 jours
         title_align: center
         content: >
@@ -62,21 +77,6 @@ sections:
         image_has_padding: false
         image_alt: Réparation Imac
         title: ' + Ecologique'
-        image_width: twenty-five
-      - title: Devis Gratuit
-        title_align: center
-        content: >
-          <p style='text-align: justify;'>Nous ne facturons pas de devis. Payer
-          pour un premier diagnostic n'a pas de sens d'après nous. Vous payez
-          uniquement si votre machine est à nouveau en état de marche.</p>
-        content_align: center
-        actions: []
-        actions_align: left
-        image: images/devis-gratuit-0e6a3696.svg
-        image_position: bottom
-        image_align: center
-        image_has_padding: false
-        image_alt: Paiement en ligne
         image_width: twenty-five
     grid_cols: three
     grid_gap_horiz: small
