@@ -10,7 +10,7 @@ sections:
       de données</li> </ul> 
     actions:
       - label: Faire un devis
-        url: lorem-ipsum
+        url: faireundevis
         style: link
         has_icon: false
         icon: arrow-left
