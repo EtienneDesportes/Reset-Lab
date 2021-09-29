@@ -225,7 +225,7 @@ sections:
     padding_top: small
     padding_bottom: none
     has_border: false
-    background_color: none
+    background_color: primary
     background_image_opacity: 10
   - type: cta_section
     content: >
