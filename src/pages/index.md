@@ -56,7 +56,7 @@ sections:
         actions: []
         actions_align: left
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: false
         image_alt: Réparation Imac
         image_width: twenty-five
