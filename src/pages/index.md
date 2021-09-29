@@ -80,12 +80,11 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: primary
+    background_color: none
     background_image_opacity: 10
     background_image_repeat: repeat
     background_image_size: contain
     has_border: false
-    background_image: images/background carte mère(1).jpg
   - type: features_section
     title: ''
     subtitle: ''
@@ -149,8 +148,9 @@ sections:
         image_alt: Macbook ne démarre pas
     feature_padding_vert: small
     align: center
-    background_color: none
+    background_color: primary
     background_image_opacity: 10
+    background_image: images/background carte mère(1).jpg
   - type: grid_section
     subtitle: ''
     grid_items:
@@ -202,10 +202,9 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: primary
+    background_color: none
     background_image_opacity: 10
     title: null
-    background_image: images/background carte mère(1).jpg
   - type: blog_feed_section
     title: Quoi de neuf ?
     subtitle: ''
@@ -226,8 +225,9 @@ sections:
     padding_top: small
     padding_bottom: none
     has_border: false
-    background_color: none
+    background_color: primary
     background_image_opacity: 10
+    background_image: images/background carte mère(1).jpg
   - type: cta_section
     content: >
       N'hésitez pas à nous poser toutes questions concernant une réparation.
@@ -235,15 +235,14 @@ sections:
     actions:
       - label: Contactez-nous
         url: /contact
-        style: secondary
+        style: primary
     actions_position: right
     actions_width: fourty
     align: left
     padding_top: small
     padding_bottom: none
-    background_color: primary
+    background_color: none
     background_image_opacity: 10
-    background_image: images/background carte mère(1).jpg
 template: advanced
 excerpt: Réparer mon MacBook
 seo:
