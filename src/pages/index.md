@@ -34,20 +34,6 @@ sections:
     grid_items:
       - title_align: center
         content: >
-          <p style='text-align: justify;'>Nous ne facturons pas de devis. Payer
-          pour un premier diagnostic n'a pas de sens d'après nous. Vous payez
-          uniquement si votre machine est à nouveau en état de marche.</p>
-        content_align: center
-        actions: []
-        actions_align: left
-        image_position: top
-        image_align: center
-        image_has_padding: false
-        image_alt: Paiement en ligne
-        image_width: twenty-five
-        image: images/devisgratuit-7d5d8955.svg
-      - title_align: center
-        content: >
           <p style='text-align: justify;'> Nous sommes l'alternative et
           proposons une réparation à moindre coût sans remplacer la carte mère.
           Economique pour vous, une passion pour nous et écologique pour
@@ -61,6 +47,20 @@ sections:
         image_alt: Réparation Imac
         image_width: twenty-five
         image: images/eco-c0ae056e.svg
+      - title_align: center
+        content: >
+          <p style='text-align: justify;'>Nous ne facturons pas de devis. Payer
+          pour un premier diagnostic n'a pas de sens d'après nous. Vous payez
+          uniquement si votre machine est à nouveau en état de marche.</p>
+        content_align: center
+        actions: []
+        actions_align: left
+        image_position: top
+        image_align: center
+        image_has_padding: false
+        image_alt: Paiement en ligne
+        image_width: twenty-five
+        image: images/devisgratuit-7d5d8955.svg
       - title_align: center
         content: >
           <p style='text-align: justify;'>Notre expertise nous permet de vous
