@@ -40,7 +40,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image_position: bottom
+        image_position: top
         image_align: center
         image_has_padding: false
         image_alt: Paiement en ligne
