@@ -27,7 +27,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     background_image_opacity: 0
-    has_border: false
+    has_border: true
     background_image: images/background4(1).jpg
   - type: grid_section
     subtitle: ''
