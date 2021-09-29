@@ -74,7 +74,7 @@ sections:
         image_has_padding: false
         image_alt: Réparation Macbook Nantes
         image_width: twenty-five
-        image: images/garantie-22113900.svg
+        image: images/garantie-a61d7878.svg
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
