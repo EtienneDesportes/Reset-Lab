@@ -8,7 +8,15 @@ sections:
       font-size:16pt;">Réparations de carte-mère :</h2> <ul style="color:black">
       <li>Dommage liquide</li> <li>Problème de démarrage</li> <li>Récupération
       de données</li> </ul> 
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     media_position: right
     media_width: fourty
     align: left
