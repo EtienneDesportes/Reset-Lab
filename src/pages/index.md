@@ -2,17 +2,21 @@
 sections:
   - type: hero_section
     content: >
-      <h1 style="color:white; font-size:28pt;">Votre appareil est en panne
-      ?</h1> <h1 style="color:white; font-size:18pt;">Nous sommes spécialistes
-      en micro-soudure Apple </h1> <h2 style="color:white ;
-      font-size:16pt;">Réparations de carte-mère :</h2> <ul style="color:white">
+      <h1 style="color:black; font-size:24pt;">Réparation iPhone, iMac, MacBook,
+      iPad</h1> <h1 style="color:black; font-size:18pt;">Nous sommes spécialisés
+      en micro soudure Apple</h1> <h2 style="color:black ;
+      font-size:16pt;">Réparations de carte-mère :</h2> <ul style="color:black">
       <li>Dommage liquide</li> <li>Problème de démarrage</li> <li>Récupération
       de données</li> </ul> 
     actions:
       - label: Faire un devis
-        url: /faireundevis
-        style: secondary
-        icon_position: left
+        url: faireundevis
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     media_position: right
     media_width: fourty
     align: left
@@ -24,7 +28,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_opacity: 0
     has_border: false
-    background_image: images/background-faac2a89.jpg
+    background_image: images/background4.jpg
   - type: grid_section
     subtitle: ''
     grid_items:
