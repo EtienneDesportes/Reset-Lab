@@ -11,7 +11,7 @@ sections:
     actions:
       - label: Faire un devis
         url: faireundevis
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
