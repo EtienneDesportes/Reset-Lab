@@ -229,9 +229,9 @@ sections:
     background_color: none
     background_image_opacity: 10
   - type: cta_section
-    content: >-
-      N'hésitez à nous poser toutes questions concernant une réparation. Nous
-      sommes la pour vous aiguiller ! 
+    content: >
+      N'hésitez pas à nous poser toutes questions concernant une réparation.
+      Nous sommes la pour vous aiguiller !
     actions:
       - label: Contactez-nous
         url: /contact
