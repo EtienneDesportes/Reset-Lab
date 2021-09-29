@@ -87,7 +87,6 @@ sections:
     background_image_opacity: 10
     background_image_repeat: no-repeat
     background_image_size: contain
-    background_image: images/PCB_background_7.jpg
   - type: features_section
     title: ''
     subtitle: ''
