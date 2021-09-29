@@ -85,7 +85,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     has_border: false
-    background_image: images/background carte mère(1).jpg
   - type: features_section
     title: ''
     subtitle: ''
