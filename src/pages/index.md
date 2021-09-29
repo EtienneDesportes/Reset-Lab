@@ -60,7 +60,6 @@ sections:
         image_has_padding: false
         image_alt: Réparation Imac
         image_width: twenty-five
-        image: images/eco-b1773d60.svg
       - title: Garantie 180 jours
         title_align: center
         content: >
