@@ -19,7 +19,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: images/macOSHIG_Hero.svg
+        image: images/macbook-pro.svg
         title: >-
           La réparation est uniquement facturée si elle est réalisée avec succès
           !
