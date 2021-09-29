@@ -32,8 +32,7 @@ sections:
   - type: grid_section
     subtitle: ''
     grid_items:
-      - title: Devis Gratuit
-        title_align: center
+      - title_align: center
         content: >
           <p style='text-align: justify;'>Nous ne facturons pas de devis. Payer
           pour un premier diagnostic n'a pas de sens d'après nous. Vous payez
@@ -41,11 +40,12 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image_position: bottom
+        image_position: top
         image_align: center
         image_has_padding: false
         image_alt: Paiement en ligne
         image_width: twenty-five
+        image: images/devisgratuit-5cfd8fd9.svg
       - title_align: center
         content: >
           <p style='text-align: justify;'> Nous sommes l'alternative et
@@ -55,14 +55,13 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image_position: bottom
-        image_align: left
+        image_position: top
+        image_align: center
         image_has_padding: false
         image_alt: Réparation Imac
-        title: +Economique +Ecologique
         image_width: twenty-five
-      - title: Garantie 180 jours
-        title_align: center
+        image: images/eco-0291d77a.svg
+      - title_align: center
         content: >
           <p style='text-align: justify;'>Notre expertise nous permet de vous
           garantir nos interventions pendant 180 jours. Nous avons les outils et
@@ -70,11 +69,12 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image_position: bottom
+        image_position: top
         image_align: center
         image_has_padding: false
         image_alt: Réparation Macbook Nantes
         image_width: twenty-five
+        image: images/garantie-d5bbd4ed.svg
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
