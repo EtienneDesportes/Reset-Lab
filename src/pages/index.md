@@ -226,7 +226,7 @@ sections:
     padding_top: small
     padding_bottom: none
     has_border: false
-    background_color: primary
+    background_color: none
     background_image_opacity: 10
     background_image: images/background carte mère(1).jpg
   - type: cta_section
