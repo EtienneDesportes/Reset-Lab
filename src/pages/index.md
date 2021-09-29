@@ -243,7 +243,6 @@ sections:
     padding_bottom: none
     background_color: none
     background_image_opacity: 10
-    background_image: images/background carte mère(1).jpg
 template: advanced
 excerpt: Réparer mon MacBook
 seo:
