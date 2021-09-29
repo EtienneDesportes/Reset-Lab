@@ -8,11 +8,7 @@ sections:
       font-size:16pt;">Réparations de carte-mère :</h2> <ul style="color:black">
       <li>Dommage liquide</li> <li>Problème de démarrage</li> <li>Récupération
       de données</li> </ul> 
-    actions:
-      - label: Faire un devis
-        url: /faireundevis
-        style: secondary
-        icon_position: left
+    actions: []
     media_position: right
     media_width: fourty
     align: left
