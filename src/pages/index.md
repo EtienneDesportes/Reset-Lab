@@ -60,7 +60,7 @@ sections:
         image_has_padding: false
         image_alt: Réparation Imac
         image_width: twenty-five
-        image: images/eco-8d954345.svg
+        image: images/eco-130f50ed.svg
       - title_align: center
         content: >
           <p style='text-align: justify;'>Notre expertise nous permet de vous
