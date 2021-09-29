@@ -27,25 +27,24 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     background_image_opacity: 0
-    has_border: false
-    background_image: images/background4.jpg
+    has_border: true
+    background_image: images/background4(1).jpg
   - type: grid_section
     subtitle: ''
     grid_items:
-      - title: Garantie 180 jours
+      - title: Devis Gratuit
         title_align: center
         content: >
-          <p style='text-align: justify;'>Notre expertise nous permet de vous
-          garantir nos interventions pendant 180 jours. Nous avons les outils et
-          composants pour assurer une réparation de haute qualité.</p>
+          <p style='text-align: justify;'>Nous ne facturons pas de devis. Payer
+          pour un premier diagnostic n'a pas de sens d'après nous. Vous payez
+          uniquement si votre machine est à nouveau en état de marche.</p>
         content_align: center
         actions: []
         actions_align: left
-        image: images/poignee-mains.svg
-        image_position: top
+        image_position: bottom
         image_align: center
         image_has_padding: false
-        image_alt: Réparation Macbook Nantes
+        image_alt: Paiement en ligne
         image_width: twenty-five
       - title_align: center
         content: >
@@ -56,36 +55,37 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/planet-earth-global-svgrepo-com.svg
-        image_position: top
+        image_position: bottom
         image_align: left
         image_has_padding: false
         image_alt: Réparation Imac
-        title: ' + Ecologique'
+        title: +Economique +Ecologique
         image_width: twenty-five
-      - title: Devis Gratuit
+      - title: Garantie 180 jours
         title_align: center
         content: >
-          <p style='text-align: justify;'>Nous ne facturons pas de devis. Payer
-          pour un premier diagnostic n'a pas de sens d'après nous. Vous payez
-          uniquement si votre machine est à nouveau en état de marche.</p>
+          <p style='text-align: justify;'>Notre expertise nous permet de vous
+          garantir nos interventions pendant 180 jours. Nous avons les outils et
+          composants pour assurer une réparation de haute qualité.</p>
         content_align: center
         actions: []
         actions_align: left
-        image: images/devis-gratuit-0e6a3696.svg
-        image_position: top
+        image_position: bottom
         image_align: center
         image_has_padding: false
-        image_alt: Paiement en ligne
+        image_alt: Réparation Macbook Nantes
+        image_width: twenty-five
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: none
+    background_color: primary
     background_image_opacity: 10
     background_image_repeat: no-repeat
     background_image_size: contain
+    has_border: false
+    background_image: images/background carte mère(1).jpg
   - type: features_section
     title: ''
     subtitle: ''
@@ -149,9 +149,8 @@ sections:
         image_alt: Macbook ne démarre pas
     feature_padding_vert: small
     align: center
-    background_color: primary
+    background_color: none
     background_image_opacity: 10
-    background_image: images/background carte mère(1).jpg
   - type: grid_section
     subtitle: ''
     grid_items:
@@ -203,9 +202,10 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: none
-    background_image_opacity: 0
+    background_color: primary
+    background_image_opacity: 10
     title: null
+    background_image: images/background carte mère(1).jpg
   - type: blog_feed_section
     title: Quoi de neuf ?
     subtitle: ''
@@ -226,14 +226,12 @@ sections:
     padding_top: small
     padding_bottom: none
     has_border: false
-    background_color: primary
+    background_color: none
     background_image_opacity: 10
-    background_image: images/background carte mère(1).jpg
   - type: cta_section
-    title: Contactez-nous
-    content: >-
-      N'hésitez à nous poser toutes questions concernant une réparation. Nous
-      sommes la pour vous aiguiller ! 
+    content: >
+      N'hésitez pas à nous poser toutes questions concernant une réparation.
+      Nous sommes la pour vous aiguiller !
     actions:
       - label: Contactez-nous
         url: /contact
@@ -243,8 +241,9 @@ sections:
     align: left
     padding_top: small
     padding_bottom: none
-    background_color: none
+    background_color: primary
     background_image_opacity: 10
+    background_image: images/background carte mère(1).jpg
 template: advanced
 excerpt: Réparer mon MacBook
 seo:

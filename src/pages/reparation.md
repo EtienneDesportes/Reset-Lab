@@ -19,7 +19,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: images/portable.svg
+        image: images/macOSHIG_Hero.svg
         title: >-
           La réparation est uniquement facturée si elle est réalisée avec succès
           !
