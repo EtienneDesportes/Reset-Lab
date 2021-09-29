@@ -9,7 +9,7 @@ sections:
       <li>Dommage liquide</li> <li>Problème de démarrage</li> <li>Récupération
       de données</li> </ul> 
     actions:
-      - label: lorem-ipsum
+      - label: Faire un devis
         url: lorem-ipsum
         style: link
         has_icon: false
