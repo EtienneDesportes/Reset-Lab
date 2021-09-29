@@ -71,7 +71,6 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/planet-earth-global-svgrepo-com.svg
         image_position: bottom
         image_align: left
         image_has_padding: false
