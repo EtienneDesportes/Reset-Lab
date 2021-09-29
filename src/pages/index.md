@@ -205,7 +205,6 @@ sections:
     background_color: none
     background_image_opacity: 10
     title: null
-    background_image: images/background carte mère(1).jpg
   - type: blog_feed_section
     title: Quoi de neuf ?
     subtitle: ''
