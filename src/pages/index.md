@@ -45,7 +45,7 @@ sections:
         image_has_padding: false
         image_alt: Paiement en ligne
         image_width: twenty-five
-        image: images/devisgratuit-7d5d8955.svg
+        image: images/devisgratuit-1474ea29.svg
       - title_align: center
         content: >
           <p style='text-align: justify;'> Nous sommes l'alternative et
@@ -60,7 +60,7 @@ sections:
         image_has_padding: false
         image_alt: Réparation Imac
         image_width: twenty-five
-        image: images/eco-c0ae056e.svg
+        image: images/eco-6ed61644.svg
       - title_align: center
         content: >
           <p style='text-align: justify;'>Notre expertise nous permet de vous
@@ -74,7 +74,7 @@ sections:
         image_has_padding: false
         image_alt: Réparation Macbook Nantes
         image_width: twenty-five
-        image: images/garantie-f0490667.svg
+        image: images/garantie-8c77c000.svg
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
