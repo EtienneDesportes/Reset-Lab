@@ -46,20 +46,6 @@ sections:
         image_has_padding: false
         image_alt: Paiement en ligne
         image_width: twenty-five
-      - title: Garantie 180 jours
-        title_align: center
-        content: >
-          <p style='text-align: justify;'>Notre expertise nous permet de vous
-          garantir nos interventions pendant 180 jours. Nous avons les outils et
-          composants pour assurer une réparation de haute qualité.</p>
-        content_align: center
-        actions: []
-        actions_align: left
-        image_position: bottom
-        image_align: center
-        image_has_padding: false
-        image_alt: Réparation Macbook Nantes
-        image_width: twenty-five
       - title_align: center
         content: >
           <p style='text-align: justify;'> Nous sommes l'alternative et
@@ -74,6 +60,20 @@ sections:
         image_has_padding: false
         image_alt: Réparation Imac
         title: +Economique +Ecologique
+        image_width: twenty-five
+      - title: Garantie 180 jours
+        title_align: center
+        content: >
+          <p style='text-align: justify;'>Notre expertise nous permet de vous
+          garantir nos interventions pendant 180 jours. Nous avons les outils et
+          composants pour assurer une réparation de haute qualité.</p>
+        content_align: center
+        actions: []
+        actions_align: left
+        image_position: bottom
+        image_align: center
+        image_has_padding: false
+        image_alt: Réparation Macbook Nantes
         image_width: twenty-five
     grid_cols: three
     grid_gap_horiz: small
