@@ -24,7 +24,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_opacity: 0
     has_border: false
-    background_image: images/5fed1bedf528ec55437cc6d5_ABI-bg-cta-v2-tech-ui-kit.svg
+    background_image: images/background4-min.jpg
   - type: grid_section
     subtitle: ''
     grid_items:
