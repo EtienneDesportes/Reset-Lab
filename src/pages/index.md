@@ -56,7 +56,6 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/poignee-mains.svg
         image_position: bottom
         image_align: center
         image_has_padding: false
