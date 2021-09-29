@@ -73,7 +73,7 @@ sections:
         image_align: left
         image_has_padding: false
         image_alt: Réparation Imac
-        title: +economique +Ecologiqu
+        title: +economique +EcologiqE
         image_width: twenty-five
     grid_cols: three
     grid_gap_horiz: small
