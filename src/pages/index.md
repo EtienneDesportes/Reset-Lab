@@ -149,7 +149,7 @@ sections:
         image_alt: Macbook ne démarre pas
     feature_padding_vert: small
     align: center
-    background_color: primary
+    background_color: none
     background_image_opacity: 10
     background_image: images/background carte mère(1).jpg
   - type: grid_section
