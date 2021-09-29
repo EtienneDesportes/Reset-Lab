@@ -32,8 +32,7 @@ sections:
   - type: grid_section
     subtitle: ''
     grid_items:
-      - title: Devis Gratuit
-        title_align: center
+      - title_align: center
         content: >
           <p style='text-align: justify;'>Nous ne facturons pas de devis. Payer
           pour un premier diagnostic n'a pas de sens d'après nous. Vous payez
