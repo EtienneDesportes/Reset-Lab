@@ -229,7 +229,6 @@ sections:
     background_color: none
     background_image_opacity: 10
   - type: cta_section
-    title: Contactez-nous
     content: >-
       N'hésitez à nous poser toutes questions concernant une réparation. Nous
       sommes la pour vous aiguiller ! 
