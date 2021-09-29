@@ -38,7 +38,7 @@ sections:
         actions: []
         actions_align: left
         image: images/poignee-mains.svg
-        image_position: top
+        image_position: bottom
         image_align: center
         image_has_padding: false
         image_alt: Réparation Macbook Nantes
