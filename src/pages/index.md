@@ -45,7 +45,7 @@ sections:
         image_has_padding: false
         image_alt: Paiement en ligne
         image_width: twenty-five
-        image: images/devisgratuit-7143b128.svg
+        image: images/devisgratuit-d6b14e4b.svg
       - title_align: center
         content: >
           <p style='text-align: justify;'> Nous sommes l'alternative et
