@@ -75,7 +75,7 @@ sections:
         image: images/devis-gratuit-0e6a3696.svg
         image_position: top
         image_align: center
-        image_has_padding: false
+        image_has_padding: true
         image_alt: Paiement en ligne
         image_width: thirty-three
     grid_cols: three
