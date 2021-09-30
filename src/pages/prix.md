@@ -76,7 +76,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: images/milieuhaut(1).svg
+    background_image: images/TEST.svg
     title: Sélectionnez votre appareil
   - actions: []
     image_alt: lorem-ipsum
