@@ -181,8 +181,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_alt: Réparation Macbook Nantes
-      - title: Retour & Règlement
-        title_align: center
+      - title_align: center
         content: >
           <p style='text-align: justify;'>Vous réglez uniquement le devis si la
           réparation est finalisée avec succès. On vous renvoie gratuitement
