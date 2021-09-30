@@ -38,7 +38,7 @@ sections:
         type: action
       - label: 2018-2019
         url: macbookairnew
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
