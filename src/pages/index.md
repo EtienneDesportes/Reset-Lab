@@ -2,7 +2,7 @@
 sections:
   - type: hero_section
     content: >
-      <h1 style="color:black; font-size:24pt;">Réparation iPhone, iMac, MacBook,
+      <h1 style="color:black; font-size:24pt;">Réparation MacBook, iPhone, iMac,
       iPad</h1> <h1 style="color:black; font-size:18pt;">Nous sommes spécialisés
       en micro soudure Apple</h1> <h2 style="color:black ;
       font-size:16pt;">Réparations de carte-mère :</h2> <ul style="color:black">
