@@ -192,7 +192,7 @@ sections:
         image: images/retour.svg
         image_position: top
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         image_alt: Paiement en ligne
     grid_cols: three
     grid_gap_horiz: small
