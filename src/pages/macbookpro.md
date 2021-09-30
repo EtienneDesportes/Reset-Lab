@@ -24,7 +24,7 @@ sections:
     actions:
       - label: 2010-2012
         url: macbookpro2010
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
