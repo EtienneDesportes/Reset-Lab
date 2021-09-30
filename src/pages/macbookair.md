@@ -20,7 +20,7 @@ sections:
     actions:
       - label: 11" 2011-2017
         url: macbookair11
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
