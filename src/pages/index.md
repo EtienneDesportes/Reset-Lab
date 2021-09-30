@@ -189,7 +189,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/icon-maintenance.svg
+        image: images/retour.svg
         image_position: top
         image_align: center
         image_has_padding: true
