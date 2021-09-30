@@ -22,7 +22,7 @@ seo:
 template: post
 image: >-
   images/2f946301-apple-iphone-12-mini-un-format-seduisant-pour-une-autonomie-limitee-min.jpg
-thumb_image: images/violet-panda.jpg
+thumb_image: images/mini2.jpg
 ---
 <div style="text-align: justify">
 
