@@ -42,7 +42,7 @@ sections:
         type: action
       - label: 2016-2017
         url: macbookpro2016
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
