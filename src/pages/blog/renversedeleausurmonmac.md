@@ -8,7 +8,7 @@ tags: []
 excerpt: J'ai renversé de l'eau sur mon mac ! Voici ce que vous devez faire
 image_position: right
 template: post
-thumb_image: images/remarkable-spinach.svg
+thumb_image: images/mini7.svg
 image: images/maroon-goose.svg
 thumb_image_alt: Mon mac a pris l'eau
 image_alt: J'ai renversé de l'eau Ipad
