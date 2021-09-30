@@ -176,7 +176,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/diagnostics-icon.svg
+        image: images/réparation.svg
         image_position: top
         image_align: center
         image_has_padding: true
