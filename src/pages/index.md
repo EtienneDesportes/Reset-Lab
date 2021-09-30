@@ -28,7 +28,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_opacity: 0
     has_border: true
-    background_image: images/background4(11).jpg
+    background_image: images/background5-a908a7e1.jpg
   - type: grid_section
     subtitle: ''
     grid_items:
