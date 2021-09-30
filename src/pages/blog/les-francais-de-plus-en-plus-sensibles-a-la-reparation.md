@@ -8,7 +8,7 @@ categories:
   - src/data/categories/general.yaml
 tags: []
 excerpt: lorem-ipsum
-thumb_image_alt: 'réparation apple '
+thumb_image_alt: réparation apple nantes
 image_alt: lorem-ipsum
 image_position: right
 seo:
