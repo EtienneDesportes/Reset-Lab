@@ -29,7 +29,7 @@ sections:
         type: action
       - label: 13" 2011-2017
         url: macbookair13
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
