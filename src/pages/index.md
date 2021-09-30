@@ -179,7 +179,7 @@ sections:
         image: images/réparation.svg
         image_position: top
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         image_alt: Réparation Macbook Nantes
       - title_align: center
         content: >
