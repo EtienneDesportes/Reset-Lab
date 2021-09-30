@@ -60,7 +60,7 @@ sections:
         type: action
       - label: '2020'
         url: macbookpro2020
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
