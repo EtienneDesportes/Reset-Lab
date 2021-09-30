@@ -10,7 +10,7 @@ thumb_image: images/mini6.jpg
 image: images/square-strawberry.jpeg
 image_position: right
 template: post
-thumb_image_alt: Appareil reconditionné
+thumb_image_alt: Appareil reconditionné nantes
 image_alt: Réparation Iphone Brest
 ---
 <div style="text-align: justify">
