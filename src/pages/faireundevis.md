@@ -73,9 +73,9 @@ sections:
           - Iphone
           - Ipad
           - Imac
+          - Pc portable
           - Autres (merci de préciser le modèle par message)
           - Je ne sais pas
-          - Pc portable
         is_required: true
       - input_type: select
         name: type de pannes
