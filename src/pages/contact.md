@@ -5,7 +5,7 @@ sections:
     title: ''
     subtitle: >-
       Vous avez une question ? N'hésitez pas à nous contacter. Nous vous
-      répondons dans les 24h ! https://www.jesuisreparateur.fr
+      répondons dans les 24h !
     align: center
     padding_top: none
     padding_bottom: none
