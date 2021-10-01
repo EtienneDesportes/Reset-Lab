@@ -243,7 +243,7 @@ sections:
 template: advanced
 excerpt: Réparer mon MacBook
 seo:
-  title: Réparation Informatique MacBook PC Imac sur Nantes
+  title: Réparation Informatique & Electronique sur Nantes
   description: >-
     Votre MacBook, PC, iPhone, Ipad, Imac est en panne ? Nous sommes un atelier
     spécialistes en micro soudure. Venez déposer votre machine. Le devis est
