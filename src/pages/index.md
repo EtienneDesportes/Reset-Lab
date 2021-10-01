@@ -228,7 +228,7 @@ sections:
   - type: cta_section
     content: >
       N'hésitez pas à nous poser toutes questions concernant une réparation.
-      Nous sommes la pour vous aiguiller ! <distyle="color:white; font-size:5pt;">https://www.jesuisreparateur.fr\</div>
+      Nous sommes la pour vous aiguiller ! <div style="color:white; font-size:5pt;">https://www.jesuisreparateur.fr\</div>
     actions:
       - label: Contactez-nous
         url: /contact
