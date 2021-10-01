@@ -245,8 +245,9 @@ excerpt: Réparer mon MacBook
 seo:
   title: Réparation Informatique MacBook PC Imac sur Nantes
   description: >-
-    Votre MacBook, Iphone, Ipad, Imac est en panne ? Nous sommes spécialistes en
-    réparation de carte-mère. Venez déposer votre machine sur Nantes ! 
+    Votre MacBook, PC, iPhone, Ipad, Imac est en panne ? Nous sommes un atelier
+    spécialistes en micro soudure. Venez déposer votre machine. Le devis est
+    gratuit
   robots: []
   extra:
     - name: 'og:image'
