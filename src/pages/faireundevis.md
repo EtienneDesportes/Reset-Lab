@@ -75,7 +75,7 @@ sections:
           - Imac
           - Autres (merci de préciser le modèle par message)
           - Je ne sais pas
-          - lorem-ipsum
+          - Pc portable
         is_required: true
       - input_type: select
         name: type de pannes
