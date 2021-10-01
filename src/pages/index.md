@@ -229,6 +229,9 @@ sections:
     content: >
       N'hésitez pas à nous poser toutes questions concernant une réparation.
       Nous sommes la pour vous aiguiller !
+
+
+      https://www.jesuisreparateur.fr
     actions:
       - label: Contactez-nous
         url: /contact
