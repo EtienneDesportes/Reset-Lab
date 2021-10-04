@@ -189,7 +189,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/retour.svg
+        image: images/retour-232c7065.svg
         image_position: top
         image_align: center
         image_has_padding: false
