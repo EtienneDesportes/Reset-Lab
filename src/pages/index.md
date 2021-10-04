@@ -45,7 +45,7 @@ sections:
         image_has_padding: false
         image_alt: Paiement en ligne
         image_width: twenty-five
-        image: images/devisgratuit-bd48db1c.svg
+        image: images/devisgratuit-60bd9b49.svg
       - title_align: center
         content: >
           <p style='text-align: justify;'> Nous sommes l'alternative et
@@ -228,7 +228,8 @@ sections:
   - type: cta_section
     content: >
       N'hésitez pas à nous poser toutes questions concernant une réparation.
-      Nous sommes la pour vous aiguiller ! <div style="color:white; font-size:6pt;">https://www.jesuisreparateur.fr\</div>
+      Nous sommes la pour vous aiguiller ! <div style="color:white;
+      font-size:6pt;">https://www.jesuisreparateur.fr\</div>
     actions:
       - label: Contactez-nous
         url: /contact
