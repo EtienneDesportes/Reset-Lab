@@ -163,7 +163,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/envoigratuit.svg
+        image: images/envoigratuit-69c13db7.svg
         image_position: top
         image_align: center
         image_has_padding: false
