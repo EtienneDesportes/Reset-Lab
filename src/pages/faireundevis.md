@@ -26,7 +26,7 @@ sections:
       <p style="text-align: justify;">Vous recevez une étiquette d'envoi, avec
       assurance incluse. Votre colis bien sécurisé, il ne vous reste plus qu’à
       coller l’étiquette et le déposer en point relais. Vous pouvez aussi
-      déposer votre machine à notre atelier si vous êtes sur Nantes. </p>
+      déposer votre machine à notre atelier. </p>
 
 
       **GARANTIE 180 JOURS**
