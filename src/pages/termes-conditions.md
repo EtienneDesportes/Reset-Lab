@@ -11,7 +11,7 @@ seo:
 
 **1. A propos de nous**
 
-La Société RESET LAB, dont le siège social est à NANTES, immatriculée au registre du commerce et des sociétés de NANTES sous le numéro 82 283 125 100 019. La Société commercialise, à ses Clients via son Site Internet, les produits suivants : Prestation de service - Réparation MacBook.
+La Société RESET LAB immatriculée au registre du commerce et des sociétés sous le numéro 82 283 125 100 019. La Société commercialise, à ses Clients via son Site Internet, les produits suivants : Prestation de service - Réparation MacBook.
 
 **2. Produits et prix**
 
