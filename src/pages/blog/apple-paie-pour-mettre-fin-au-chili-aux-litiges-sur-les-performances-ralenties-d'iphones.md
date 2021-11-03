@@ -10,7 +10,7 @@ categories:
   - src/data/categories/general.yaml
 tags: []
 excerpt: lorem-ipsum
-thumb_image_alt: iphone réparation nantes
+thumb_image_alt: iphone réparation
 image_alt: Iphone en panne Brest
 image_position: left
 seo:
