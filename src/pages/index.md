@@ -180,7 +180,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: false
-        image_alt: Réparation Macbook Nantes
+        image_alt: Réparation Macbook
       - title_align: center
         content: >
           <p style='text-align: justify;'>Vous réglez uniquement le devis si la
