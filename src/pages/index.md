@@ -72,7 +72,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: false
-        image_alt: Réparation Macbook Nantes
+        image_alt: Réparation Macbook
         image_width: twenty-five
         image: images/garantie-ce22d1df.svg
     grid_cols: three
