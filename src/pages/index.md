@@ -247,7 +247,7 @@ seo:
   title: Réparation Informatique & Electronique
   description: >-
     Votre MacBook, PC, iPhone, Ipad, Imac est en panne ? Nous sommes un atelier
-    spécialistes en micro soudure. Venez déposer votre machine. Le devis est
+    spécialiste en micro soudure. Venez déposer votre machine. Le devis est
     gratuit
   robots: []
   extra:
