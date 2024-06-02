@@ -48,6 +48,4 @@ L’Utilisateur autorise expressément la Société à déposer sur le disque du
 L’Utilisateur dispose de la possibilité de bloquer, modifier la durée de conservation, ou supprimer ce cookie via l’interface de son navigateur. Si la désactivation systématique des cookies sur le navigateur de l’Utilisateur l’empêche d’utiliser certains services ou fonctionnalités du Site, ce dysfonctionnement ne saurait en aucun cas constituer un dommage pour le membre qui ne pourra prétendre à aucune indemnité de ce fait.
 
 
-
-
 </div>
