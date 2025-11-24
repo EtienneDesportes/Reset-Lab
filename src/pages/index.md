@@ -2,8 +2,7 @@
 sections:
   - type: hero_section
     content: >
-      <h1 style="color:black; font-size:20pt;">Réparation Electronique (MacBook,
-      PC, iMac, iPad, etc...)</h1> <h1 style="color:black;
+      <h1 style="color:black; font-size:20pt;">Réparation Electronique</h1> <h1 style="color:black;
       font-size:16pt;">Spécialiste en micro soudure sur matériel
       informatique</h1> <h2 style="color:black ; font-size:16pt;">Réparation de
       carte-mère :</h2> <ul style="color:black"> <li>Dommage liquide</li>
