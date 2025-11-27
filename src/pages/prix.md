@@ -1,24 +1,6 @@
 ---
 sections:
   - actions: []
-    grid_items:
-    grid_cols: zero
-    grid_gap_vert: medium
-    grid_gap_horiz: medium
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: small
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
-    background_image: images/TEST.svg
-    title: Sélectionnez votre appareil
-  - actions: []
     image_alt: lorem-ipsum
     media_position: top
     media_width: fourty
@@ -34,8 +16,7 @@ sections:
     type: hero_section
     background_image: images/TEST.svg
     content: >
-      ###### *Si vous souhaitez réparer un autre appareil, merci de transmettre
-      un formulaire*
+      ###### Chaque appareil et chaque réparation sont uniques, ce qui rend difficile l’estimation d’un prix sans informations précises. Pour obtenir un premier devis, merci de cliquer sur "Faire un un devis" afin d'expliquer le problème dans ses grandes lignes. Après ce premier contact, il sera possible d'échanger directement par mail avec un réprateur afin d'obtenir une estimation. Le tarif définitif ne pourra toutefois être confirmé qu’après réception de l’appareil et réalisation d’un diagnostic complet. Le devis étant gratuit, il reste toujours possible de se rétracter si ce prix ne convient pas au client. 
 seo:
   title: Prix - Réparation MacBook Ipad Iphone
   description: >-
