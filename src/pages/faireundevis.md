@@ -62,7 +62,7 @@ sections:
         type: form_field
       - input_type: select
         name: 'Modèle '
-        label: Modèle à réparer
+        label: Votre appareil
         default_value: Sélectionner
         options:
           - PC
