@@ -55,7 +55,7 @@ sections:
         is_required: true
       - input_type: tel
         name: Téléphone
-        label: Téléphone
+        label: Téléphone (optionnel)
         default_value: Votre numéro
         options: []
         is_required: false
