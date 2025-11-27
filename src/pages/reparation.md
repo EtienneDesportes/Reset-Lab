@@ -12,8 +12,8 @@ sections:
 
           **La carte mère n’est pas réparable :**
 
-          Vous serez informé par e-mail. Le retour de votre appareil est facturé
-          30€ TTC si vous n'êtes pas sur Strasbourg
+          Vous serez informé par e-mail. Le retour est facturé
+          30€ TTC si vous ne pouvez pas venir récupérer votre appareil à l'atelier
         actions: []
         media_position: right
         media_width: thirty-three
