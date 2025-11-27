@@ -12,8 +12,8 @@ sections:
 
           **La carte mère n’est pas réparable :**
 
-          Vous serez informé par e-mail. Le retour de votre MacBook est facturé
-          30€ TTC
+          Vous serez informé par e-mail. Le retour de votre appareil est facturé
+          30€ TTC si vous n'êtes pas sur Strasbourg
         actions: []
         media_position: right
         media_width: thirty-three
