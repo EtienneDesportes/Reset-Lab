@@ -60,38 +60,9 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: select
-        name: 'Modèle '
-        label: Votre appareil
-        default_value: Sélectionner
-        options:
-          - PC
-          - MacBook
-          - Iphone
-          - Ipad
-          - Imac
-          - Autres (merci de préciser le modèle par message)
-          - Je ne sais pas
-        is_required: true
-      - input_type: select
-        name: type de pannes
-        label: Type de pannes
-        default_value: Sélectionner
-        options:
-          - Dommage liquide
-          - Rétro-éclairage
-          - 'Problème démarrage '
-          - Batterie ne charge pas
-          - Ventilateurs soufflent constamment
-          - Récupération de données
-          - Remplacement Batterie
-          - Connecteur cassé
-          - 'J''en ai aucune idée ! '
-        is_required: false
-        type: form_field
       - input_type: textarea
         name: message
-        label: Message
+        label: Quel est votre problème ? (Merci de préciser le modèle et l'année de votre appareil)
         default_value: Votre message
     submit_label: Envoyer ma demande
     align_vert: top
