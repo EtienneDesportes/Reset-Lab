@@ -65,15 +65,11 @@ sections:
         label: Modèle à réparer
         default_value: Sélectionner
         options:
-          - MacBook Pro Retina
-          - MacBook Pro USB C Touchbar
-          - MacBook Air
-          - 'MacBook Pro '
+          - PC
           - MacBook
           - Iphone
           - Ipad
           - Imac
-          - Pc portable
           - Autres (merci de préciser le modèle par message)
           - Je ne sais pas
         is_required: true
