@@ -2,67 +2,7 @@
 sections:
   - actions: []
     grid_items:
-      - title_align: left
-        content_align: left
-        actions:
-          - label: MacBook
-            url: macbook
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: twenty-five
-        image_align: right
-        image_has_padding: false
-        type: grid_item
-      - title_align: left
-        content_align: left
-        actions:
-          - label: Ipad
-            url: ipad
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: twenty-five
-        image_align: right
-        image_has_padding: false
-        type: grid_item
-      - title_align: left
-        content_align: left
-        actions:
-          - label: Iphone
-            url: iphone
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: twenty-five
-        image_align: right
-        image_has_padding: false
-        type: grid_item
-    grid_cols: three
+    grid_cols: zero
     grid_gap_vert: medium
     grid_gap_horiz: medium
     enable_cards: false
@@ -92,11 +32,12 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    background_image: images/TEST.svg
     content: >
       ###### *Si vous souhaitez réparer un autre appareil, merci de transmettre
       un formulaire*
 seo:
-  title: Prix - Réparation MacBook Ipad Iphone sur Brest
+  title: Prix - Réparation MacBook Ipad Iphone
   description: >-
     Sélectionnez votre appareil et déterminer le coût de la réparation pour
     votre MacBook Ipad ou Iphone
