@@ -41,7 +41,7 @@ sections:
         actions_align: left
         image_position: top
         image_align: center
-        image_has_padding: false
+        image_has_padding: true
         image_alt: Paiement en ligne
         image_width: twenty-five
         image: images/devisgratuit-60bd9b49.svg
