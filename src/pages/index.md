@@ -41,7 +41,7 @@ sections:
         actions_align: left
         image_position: top
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         image_alt: Paiement en ligne
         image_width: twenty-five
         image: images/devisgratuit-60bd9b49.svg
@@ -56,7 +56,7 @@ sections:
         actions_align: left
         image_position: top
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         image_alt: Réparation Imac
         image_width: twenty-five
         image: images/eco-8be7843e.svg
@@ -70,7 +70,7 @@ sections:
         actions_align: left
         image_position: top
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         image_alt: Réparation Macbook
         image_width: twenty-five
         image: images/garantie-ce22d1df.svg
