@@ -2,10 +2,10 @@
 sections:
   - type: hero_section
     content: >
-      <h1 style="color:#1787fc; font-size:20pt;">Réparation d'électronique à Strasbourg</h1> <h1 style="color:#1787fc;
+      <h1 style="color:#14171a; font-size:20pt;">Réparation d'électronique à Strasbourg</h1> <h1 style="color:#14171a;
       font-size:16pt;">Spécialiste en micro soudure sur matériel
-      informatique</h1> <h2 style="color:#1787fc ; font-size:16pt;">Réparation de
-      carte-mère :</h2> <ul style="color:#1787fc"> <li>Dommage liquide</li>
+      informatique</h1> <h2 style="color:#14171a ; font-size:16pt;">Réparation de
+      carte-mère :</h2> <ul style="color:#14171a"> <li>Dommage liquide</li>
       <li>Problème de démarrage</li> <li>Récupération de données</li></ul> 
     actions:
       - label: Faire un devis
