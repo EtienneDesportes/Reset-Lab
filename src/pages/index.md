@@ -38,7 +38,7 @@ sections:
           uniquement si votre machine est à nouveau en état de marche.</p>
         content_align: center
         actions: []
-        actions_align: left
+        actions_align: center
         image_position: top
         image_align: center
         image_has_padding: false
