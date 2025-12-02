@@ -45,10 +45,10 @@ sections:
           <div style='text-align: justify;'> 
 
 
-          Quand un MacBook tombe en panne, il faut dans un premier temps
+          Quand une machine tombe en panne, il faut dans un premier temps
           utiliser son esprit de déduction et d'observation pour identifier les
           <strong>composants</strong> défectueux. On se retrouve donc dans la
-          peau d'un détective en quelque sorte ! Toutes traces visibles
+          peau d'un détective en quelque sorte. Toutes traces visibles
           <strong>d'oxydation</strong> (traces bleues/vertes) sont des indices
           en plus, il ne faut donc jamais désoxyder une carte mère avant la
           réparation, cela brouille les pistes ! Si aucune trace n'est présente,
