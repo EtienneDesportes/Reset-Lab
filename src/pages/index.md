@@ -63,7 +63,7 @@ sections:
       - title_align: center
         content: >
           <p style='text-align: justify;'>Notre expertise nous permet de vous
-          garantir nos interventions pendant 180 jours. Nous avons les outils et
+          garantir nos interventions pendant 6 mois. Nous avons les outils et
           composants pour assurer une réparation de haute qualité.</p>
         content_align: center
         actions: []
