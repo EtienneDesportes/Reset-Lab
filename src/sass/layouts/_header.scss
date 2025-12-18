@@ -38,7 +38,7 @@
 	.navbar__container {
 		-webkit-backface-visibility: hidden;
 		backface-visibility: hidden;
-		background-color: #40863e;
+		background-color: $color-nav-mobile-bg;
 		bottom: 0;
 		right: -100%;
 		max-width: container-max-width(small);
