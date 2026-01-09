@@ -1,3 +1,5 @@
+@use "sass:math";
+
 // Font rendering
 @mixin font-smooth {
 	-webkit-font-smoothing: antialiased;
@@ -88,6 +90,6 @@
 }
 
 @mixin make-cell-size($size, $cells: $grid-cells) {
-	flex: 0 0 round(percentage($size / $cells) * 100000)/100000;
-	max-width: round(percentage($size / $cells) * 100000)/100000;
+	flex: 0 0 round(percentage(math.div($size, $cells)) * 100000)/100000;
+	max-width: round(percentage(math.div($size, $cells)) * 100000)/100000;
 }
