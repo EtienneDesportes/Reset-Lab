@@ -130,7 +130,7 @@ sections:
         subtitle: ''
         content: >
           <p style="text-align:justify;">Votre MacBook ne démarre plus ? Quelle
-          qu’en soit la raison, nous avons l'éxperience pour identifier la
+          qu’en soit la raison, nous avons l'expérience pour identifier la
           source du problème, et réparer votre carte mère, plutôt que de la
           changer. Notre expertise nous permet de résoudre les pannnes les plus
           complexes, donnez une seconde chance à votre machine !</p>
