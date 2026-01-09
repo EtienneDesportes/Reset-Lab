@@ -7,7 +7,7 @@ sections:
       informatique</h1> <h2 style="color:#14171a ; font-size:16pt;">Réparation de
       carte-mère :</h2> <ul style="color:#14171a"> <li>Dommage liquide</li>
       <li>Problème de démarrage</li> <li>Récupération de données</li></ul> 
-    actions:
+    actions: 
       - label: Faire un devis
         url: faireundevis
         style: primary
