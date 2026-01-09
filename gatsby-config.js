@@ -16,9 +16,7 @@ module.exports = {
         },
         {
             resolve: `gatsby-plugin-sass`,
-            options: {
-                implementation: require('sass'),
-            }
+            options: {}
         },
         {
             resolve: `gatsby-remark-page-creator`,
